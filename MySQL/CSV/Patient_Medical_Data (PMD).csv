@@ -1,0 +1,1001 @@
+pmd_id,patient_id,full_name,admission_date,heart_rate,blood_pressure,oxygen_level,ward,diagnosis,treatment,medication_administered,icu_notes,attending_doctor
+1,1001,Bilal Aziz,2023-02-25 00:12:04,55.5,121/89,93.8,ICU,General,Insulin Therapy,Metoprolol 25mg,Critical — ventilator support,Shelton Broe
+2,1002,Khadija Ahmed,2025-05-17 19:51:57,82.7,148/95,97.0,Orthopaedic,Appendicitis,Surgical Fixation,Morphine 10mg,Post-op recovery,Janot Caunter
+3,1003,Zaid Hussain,2023-01-31 23:10:26,84.1,101/63,98.1,Neurology,Pneumonia,Thrombolysis,Heparin 5000 IU,Improving,Raviv McArley
+4,1004,Fatima Naqvi,2024-08-12 02:38:17,60.5,141/91,97.1,Cardiology,Cardiology,Thrombolysis,Metoprolol 25mg,Improving,Francyne Tue
+5,1005,Rehan Naqvi,2025-02-19 07:38:23,97.0,122/91,98.1,Paediatrics,Ischemic Stroke,Appendectomy,Metoprolol 25mg,Requires monitoring,Hulda Kensit
+6,1006,Khadija Lodhi,2025-05-12 20:32:12,62.1,121/64,93.4,ICU,ICU,Thrombolysis,Ceftriaxone 1g IV,Stable,Sky Pawson
+7,1007,Myra Abbas,2024-01-08 08:16:38,69.7,131/72,96.2,ICU,Orthopaedic,Surgical Fixation,Insulin 20 units,Critical — ventilator support,Harmony Fishly
+8,1008,Mustafa Khan,2024-02-01 01:59:09,77.5,126/72,96.4,ICU,ICU,IV Antibiotics,Morphine 10mg,Post-op recovery,Donia Brideau
+9,1009,Noor Chaudhary,2024-12-22 22:15:31,90.7,150/75,97.8,Paediatrics,Cardiology,Surgical Fixation,Metoprolol 25mg,Improving,Algernon McNevin
+10,1010,Khadija Gillani,2025-04-12 02:27:23,75.2,122/85,92.3,Cardiology,Fractured Femur,Thrombolysis,Insulin 20 units,Critical — ventilator support,Shelli Biermatowicz
+11,1011,Mahnoor Ali,2025-09-18 06:54:17,68.4,119/81,98.7,Paediatrics,Fractured Femur,IV Antihypertensives,Metoprolol 25mg,Improving,Randal Dureden
+12,1012,Zainab Farooqi,2025-04-08 01:33:41,73.9,114/62,92.5,Paediatrics,ICU,IV Antibiotics,Metoprolol 25mg,Post-op recovery,Ethelda Gravenell
+13,1013,Hiba Butt,2025-02-07 04:14:57,104.9,108/64,95.4,General,PaediatricsType 2 Diabetes,Thrombolysis,Metoprolol 25mg,Stable,Deanne Evans
+14,1014,Fatima Rizvi,2024-12-30 06:41:23,82.2,126/93,93.9,Cardiology,Acute Myocardial Infarction,IV Antibiotics,Ceftriaxone 1g IV,Critical — ventilator support,Adriaens Awty
+15,1015,Zaid Qureshi,2024-12-15 21:25:36,91.3,102/82,93.8,Paediatrics,Hypertensive Crisis,Appendectomy,Morphine 10mg,Improving,Bernelle Le Monnier
+16,1016,Dua Aziz,2025-12-02 17:39:56,97.7,110/64,92.1,Cardiology,Acute Myocardial Infarction,Appendectomy,Heparin 5000 IU,Critical — ventilator support,Obed Nolin
+17,1017,Hassan Aziz,2023-08-13 09:09:12,61.0,113/88,98.6,ICU,Acute Myocardial Infarction,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Jo Tink
+18,1018,Fatima Ahmed,2025-08-01 20:11:49,56.2,113/61,95.6,Neurology,ICU,Insulin Therapy,Heparin 5000 IU,Stable,Lorine Golda
+19,1019,Mahnoor Afridi,2024-01-06 05:15:53,108.7,117/82,98.4,Paediatrics,ICU,IV Antihypertensives,Metoprolol 25mg,Improving,Damiano Wrack
+20,1020,Hiba Siddiqui,2025-10-22 13:11:13,72.4,141/74,96.7,ICU,ICU,Surgical Fixation,Paracetamol 1g IV,Improving,Lenka Eveque
+21,1021,Mustafa Shah,2024-12-15 21:57:28,78.5,118/95,96.2,Neurology,General,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Teddie Pottery
+22,1022,Hiba Rizvi,2023-10-11 18:30:26,102.9,144/64,96.7,Cardiology,General,Appendectomy,Paracetamol 1g IV,Transferred from ICU,Lacee Lukesch
+23,1023,Arsalan Shah,2024-03-24 18:59:16,78.4,138/95,92.3,Paediatrics,Neurology,Appendectomy,Paracetamol 1g IV,Transferred from ICU,Josh Hengoed
+24,1024,Arsalan Butt,2023-06-21 08:52:26,100.3,125/84,93.6,Orthopaedic,Appendicitis,IV Antihypertensives,Metoprolol 25mg,Stable,Early Caskie
+25,1025,Maryam Mughal,2024-07-17 18:40:18,91.2,117/82,92.1,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Metoprolol 25mg,Improving,Dorthy Whardley
+26,1026,Hassan Lodhi,2024-04-01 04:24:49,68.9,104/62,96.4,Neurology,PaediatricsType 2 Diabetes,Appendectomy,Ceftriaxone 1g IV,Improving,Kristofor Graine
+27,1027,Bilal Ali,2024-04-15 00:05:19,85.3,135/68,96.5,Cardiology,Cardiology,IV Antihypertensives,Paracetamol 1g IV,Critical — ventilator support,Darin Kienl
+28,1028,Bilal Afridi,2024-09-09 22:16:43,63.1,137/91,96.7,General,Ischemic Stroke,IV Antihypertensives,Morphine 10mg,Critical — ventilator support,Vite Bratton
+29,1029,Aisha Sheikh,2024-12-24 20:19:54,88.4,109/73,92.0,General,ICU,IV Antibiotics,Insulin 20 units,Requires monitoring,Nicol Wederell
+30,1030,Maryam Malik,2024-02-22 19:08:35,84.1,136/77,95.6,Neurology,Acute Myocardial Infarction,IV Antihypertensives,Morphine 10mg,Requires monitoring,Lawry Colquhoun
+31,1031,Rehan Butt,2024-04-25 22:24:32,65.8,132/70,95.9,Paediatrics,Cardiology,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Aeriela Tofful
+32,1032,Omar Mirza,2025-11-30 07:03:20,69.8,114/73,93.6,General,Appendicitis,IV Antibiotics,Heparin 5000 IU,Transferred from ICU,Tomi Marner
+33,1033,Zainab Farooqi,2023-12-15 11:31:11,93.1,106/92,92.6,Orthopaedic,Neurology,Insulin Therapy,Morphine 10mg,Transferred from ICU,Farris Cossem
+34,1034,Mustafa Naqvi,2025-04-04 02:28:00,106.8,114/67,97.6,Cardiology,Acute Myocardial Infarction,Angioplasty,Heparin 5000 IU,Transferred from ICU,Isabelle Ebrall
+35,1035,Noor Siddiqui,2024-01-07 20:42:25,76.1,107/72,95.7,ICU,PaediatricsType 2 Diabetes,Insulin Therapy,Morphine 10mg,Post-op recovery,Darrelle Tombleson
+36,1036,Ali Naqvi,2024-02-20 23:19:32,97.1,131/76,96.4,General,Neurology,Appendectomy,Heparin 5000 IU,Improving,Neala Swan
+37,1037,Mustafa Ali,2024-10-31 04:15:38,107.1,129/94,92.0,Cardiology,Hypertensive Crisis,Angioplasty,Heparin 5000 IU,Stable,Flore Shreeve
+38,1038,Myra Shah,2024-06-01 08:59:09,107.2,110/83,96.1,General,Ischemic Stroke,Thrombolysis,Ceftriaxone 1g IV,Transferred from ICU,Celle Neasham
+39,1039,Zaid Malik,2023-09-14 23:37:04,70.9,117/91,96.5,Neurology,General,Thrombolysis,Insulin 20 units,Transferred from ICU,Riley Coot
+40,1040,Anaya Naqvi,2025-12-23 18:46:50,69.1,135/94,95.5,Neurology,Acute Myocardial Infarction,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Hannis Laidler
+41,1041,Noor Chaudhary,2025-09-29 21:39:07,93.4,143/87,98.1,Cardiology,Neurology,Angioplasty,Insulin 20 units,Transferred from ICU,Dorri Salt
+42,1042,Omar Hussain,2023-05-04 19:16:03,67.3,118/72,92.8,Paediatrics,Orthopaedic,Angioplasty,Paracetamol 1g IV,Stable,Perry Anthony
+43,1043,Ali Naqvi,2025-12-29 19:33:28,79.8,126/61,93.5,ICU,Hypertensive Crisis,Appendectomy,Ceftriaxone 1g IV,Post-op recovery,Bone Powley
+44,1044,Hassan Khan,2025-01-18 19:28:04,69.3,144/89,97.7,Cardiology,General,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Grantham Domico
+45,1045,Usman Mirza,2024-01-25 16:38:53,99.2,131/92,97.3,Neurology,Ischemic Stroke,IV Antihypertensives,Insulin 20 units,Requires monitoring,Clara Gramer
+46,1046,Ibrahim Jatoi,2025-03-28 17:28:58,67.0,127/73,94.8,Neurology,Neurology,Insulin Therapy,Paracetamol 1g IV,Improving,Julius Fishby
+47,1047,Ahmed Sheikh,2024-12-11 22:07:39,60.9,124/92,93.3,ICU,Ischemic Stroke,Appendectomy,Paracetamol 1g IV,Post-op recovery,Chantalle Margett
+48,1048,Mahnoor Khan,2023-02-07 05:45:42,99.7,103/84,95.5,Paediatrics,Cardiology,IV Antibiotics,Metoprolol 25mg,Stable,Edd Lindblad
+49,1049,Maryam Sheikh,2023-01-31 02:36:20,94.7,143/83,92.4,Neurology,Appendicitis,IV Antibiotics,Metoprolol 25mg,Requires monitoring,Carlin MacCafferky
+50,1050,Ibrahim Bajwa,2023-04-18 18:35:11,95.2,130/62,92.3,General,Acute Myocardial Infarction,IV Antihypertensives,Morphine 10mg,Transferred from ICU,Justinian Mowle
+51,1051,Bilal Mughal,2025-03-16 16:12:32,56.4,128/67,93.1,ICU,Appendicitis,Thrombolysis,Paracetamol 1g IV,Critical — ventilator support,Cass Camber
+52,1052,Fatima Malik,2024-06-25 22:02:07,88.9,111/75,95.9,ICU,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Milo Usmar
+53,1053,Omar Jatoi,2025-05-10 01:59:16,106.0,115/60,92.6,Cardiology,Hypertensive Crisis,Angioplasty,Heparin 5000 IU,Transferred from ICU,Minni Manach
+54,1054,Sara Ahmed,2025-07-27 09:06:15,61.3,135/91,97.6,General,Neurology,Angioplasty,Morphine 10mg,Requires monitoring,Blane Ibel
+55,1055,Zainab Hussain,2024-10-11 17:05:31,87.1,101/88,95.9,Orthopaedic,Orthopaedic,Thrombolysis,Morphine 10mg,Post-op recovery,Erinn Mc Corley
+56,1056,Anaya Qureshi,2025-08-12 10:43:59,76.4,140/95,96.0,General,General,Appendectomy,Heparin 5000 IU,Transferred from ICU,Elnar Mattam
+57,1057,Myra Abbas,2025-08-05 04:55:51,105.6,144/77,94.2,ICU,Orthopaedic,Insulin Therapy,Morphine 10mg,Post-op recovery,Teri Brokenshaw
+58,1058,Anaya Mughal,2023-08-20 00:29:23,107.1,121/83,97.6,Paediatrics,PaediatricsType 2 Diabetes,Insulin Therapy,Heparin 5000 IU,Improving,Buck Spurgeon
+59,1059,Maryam Aziz,2024-04-28 03:39:39,75.7,114/86,93.4,Neurology,PaediatricsType 2 Diabetes,IV Antibiotics,Morphine 10mg,Requires monitoring,Koenraad Oakenford
+60,1060,Myra Lodhi,2023-05-28 12:21:10,78.5,128/93,95.5,Cardiology,Cardiology,Insulin Therapy,Morphine 10mg,Transferred from ICU,Brenna Ishaki
+61,1061,Mahnoor Farooqi,2024-10-04 21:26:05,73.9,112/65,93.0,Neurology,Fractured Femur,Appendectomy,Insulin 20 units,Requires monitoring,Danit Blackwell
+62,1062,Dua Naqvi,2023-12-08 23:10:17,67.6,128/90,94.9,ICU,ICU,Appendectomy,Insulin 20 units,Critical — ventilator support,Alethea Turneaux
+63,1063,Mustafa Abbas,2023-10-15 15:32:29,64.1,149/81,97.8,Paediatrics,Acute Myocardial Infarction,Angioplasty,Ceftriaxone 1g IV,Transferred from ICU,Dorolisa Halversen
+64,1064,Bilal Jatoi,2023-02-21 10:39:11,85.1,110/85,93.1,Paediatrics,Appendicitis,IV Antibiotics,Ceftriaxone 1g IV,Post-op recovery,Elysia Elphey
+65,1065,Fatima Mughal,2023-03-22 09:42:46,88.5,148/86,94.5,General,General,Thrombolysis,Insulin 20 units,Post-op recovery,Lorenza Marney
+66,1066,Zaid Mirza,2025-09-04 05:30:18,107.6,117/76,93.1,General,Appendicitis,Insulin Therapy,Metoprolol 25mg,Critical — ventilator support,Gordan Highway
+67,1067,Anaya Shah,2025-03-08 21:36:52,81.7,147/95,95.2,Cardiology,Hypertensive Crisis,Thrombolysis,Paracetamol 1g IV,Critical — ventilator support,Francoise Coller
+68,1068,Hiba Hussain,2023-01-19 09:40:27,77.4,147/81,92.2,ICU,Hypertensive Crisis,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Batsheva Ivashnyov
+69,1069,Dua Gillani,2024-10-08 00:59:44,80.0,141/74,95.0,Paediatrics,General,IV Antibiotics,Ceftriaxone 1g IV,Requires monitoring,Corinne Lissett
+70,1070,Khadija Khan,2023-03-23 02:52:14,71.6,141/89,94.9,General,Acute Myocardial Infarction,Angioplasty,Paracetamol 1g IV,Critical — ventilator support,My Hollidge
+71,1071,Noor Farooqi,2024-04-03 15:37:55,103.0,124/94,92.7,General,Appendicitis,Surgical Fixation,Morphine 10mg,Stable,Myrtice Pallasch
+72,1072,Mahnoor Butt,2024-10-13 09:26:51,73.9,132/70,96.5,General,General,Insulin Therapy,Metoprolol 25mg,Critical — ventilator support,Giuditta Caris
+73,1073,Anaya Aziz,2024-03-21 14:48:54,101.3,128/85,97.6,Neurology,Fractured Femur,Insulin Therapy,Insulin 20 units,Transferred from ICU,Trixi Dorney
+74,1074,Bilal Aziz,2023-03-18 16:46:21,55.1,126/74,93.1,Cardiology,Fractured Femur,Surgical Fixation,Morphine 10mg,Critical — ventilator support,Ruttger Paragreen
+75,1075,Mustafa Khan,2023-07-06 04:01:32,101.5,121/77,94.4,ICU,Cardiology,IV Antihypertensives,Morphine 10mg,Requires monitoring,Neely Lovett
+76,1076,Fatima Hashmi,2023-07-09 07:22:08,87.4,126/84,92.6,Cardiology,Fractured Femur,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Tatum McGrorty
+77,1077,Anaya Iqbal,2023-02-20 22:41:03,99.6,114/75,97.8,ICU,Appendicitis,Angioplasty,Morphine 10mg,Transferred from ICU,Sigfried Ashby
+78,1078,Mustafa Sheikh,2024-06-15 11:32:03,56.7,123/63,93.8,ICU,Fractured Femur,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Faith Fullick
+79,1079,Usman Mughal,2023-02-06 12:51:43,84.6,140/83,97.4,General,Fractured Femur,Insulin Therapy,Metoprolol 25mg,Post-op recovery,Christi Wanne
+80,1080,Mahnoor Malik,2023-03-19 19:12:06,75.2,129/64,94.8,Paediatrics,Fractured Femur,Thrombolysis,Ceftriaxone 1g IV,Critical — ventilator support,Simeon Skingle
+81,1081,Myra Khan,2025-04-14 11:19:29,75.4,100/94,94.3,Neurology,Ischemic Stroke,Angioplasty,Paracetamol 1g IV,Transferred from ICU,Dido Kimmerling
+82,1082,Ali Butt,2024-01-01 17:19:08,78.0,141/83,92.9,Orthopaedic,Pneumonia,Surgical Fixation,Insulin 20 units,Requires monitoring,Chrysler Spellman
+83,1083,Mustafa Mughal,2024-01-08 17:39:45,70.6,113/63,97.1,Orthopaedic,Fractured Femur,Insulin Therapy,Metoprolol 25mg,Stable,Morley Abendroth
+84,1084,Mahnoor Abbas,2024-05-30 08:30:59,58.3,112/63,95.1,Neurology,Appendicitis,IV Antibiotics,Insulin 20 units,Transferred from ICU,Veriee Drage
+85,1085,Anaya Hussain,2023-05-19 09:07:51,76.1,149/70,95.9,ICU,Pneumonia,IV Antibiotics,Paracetamol 1g IV,Critical — ventilator support,Mable Poleye
+86,1086,Hassan Qureshi,2025-08-11 09:46:34,55.6,114/74,96.6,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Heparin 5000 IU,Improving,Sabra Clemetts
+87,1087,Zaid Butt,2025-04-26 16:12:17,82.2,146/92,92.8,Neurology,Hypertensive Crisis,Thrombolysis,Insulin 20 units,Transferred from ICU,Corby Jovicic
+88,1088,Zaid Afridi,2025-11-24 06:40:34,81.2,134/65,94.6,General,ICU,Appendectomy,Heparin 5000 IU,Requires monitoring,Lew Kidston
+89,1089,Bilal Naqvi,2024-10-04 02:55:38,59.8,129/69,95.7,Cardiology,ICU,IV Antihypertensives,Insulin 20 units,Requires monitoring,Tomaso Northfield
+90,1090,Arsalan Aziz,2025-10-26 14:04:52,90.9,122/89,93.3,General,Neurology,Insulin Therapy,Heparin 5000 IU,Requires monitoring,Mirabella Quodling
+91,1091,Bilal Ahmed,2024-01-22 12:31:39,104.7,130/85,93.2,Neurology,Appendicitis,Appendectomy,Ceftriaxone 1g IV,Improving,Byrom Marioneau
+92,1092,Omar Butt,2025-11-14 01:46:44,106.9,122/63,97.1,Neurology,Hypertensive Crisis,IV Antibiotics,Paracetamol 1g IV,Transferred from ICU,Kinsley Lyles
+93,1093,Ali Sheikh,2025-04-11 09:07:10,108.1,130/69,96.7,Cardiology,General,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Shandra Undrell
+94,1094,Ibrahim Mirza,2024-11-04 02:58:38,61.2,121/95,96.8,Orthopaedic,Orthopaedic,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Shela Micheu
+95,1095,Rehan Hussain,2025-11-15 18:54:50,86.5,121/77,94.8,General,Appendicitis,IV Antibiotics,Insulin 20 units,Transferred from ICU,De witt Loiterton
+96,1096,Khadija Farooqi,2024-05-11 18:15:48,59.7,147/89,93.6,ICU,ICU,Thrombolysis,Metoprolol 25mg,Transferred from ICU,Dominic Liepina
+97,1097,Maryam Mughal,2023-03-15 09:06:53,102.7,103/94,96.7,General,ICU,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Ronnie Maytum
+98,1098,Bilal Shah,2025-06-09 14:10:49,66.6,141/77,95.7,Paediatrics,Neurology,Appendectomy,Insulin 20 units,Transferred from ICU,Pepito Mathouse
+99,1099,Hiba Sheikh,2023-03-18 08:49:38,91.8,110/68,95.8,ICU,PaediatricsType 2 Diabetes,Insulin Therapy,Insulin 20 units,Critical — ventilator support,Benjamin Yerill
+100,1100,Ali Farooqi,2024-02-21 23:30:00,71.8,145/93,94.9,Orthopaedic,General,Appendectomy,Heparin 5000 IU,Requires monitoring,Margery Simioni
+101,1101,Myra Jatoi,2025-04-25 11:15:50,83.3,117/71,95.7,Cardiology,Fractured Femur,Surgical Fixation,Insulin 20 units,Improving,Dore Bruce
+102,1102,Aisha Abbas,2024-07-30 16:41:54,80.1,146/69,96.9,ICU,Cardiology,Angioplasty,Heparin 5000 IU,Post-op recovery,Peadar Barnsley
+103,1103,Mustafa Khan,2024-03-02 14:34:03,100.9,110/71,93.4,General,Appendicitis,Angioplasty,Metoprolol 25mg,Transferred from ICU,Cathie Gerram
+104,1104,Myra Aziz,2025-08-11 04:49:32,62.8,102/72,98.1,Neurology,Cardiology,Surgical Fixation,Morphine 10mg,Post-op recovery,Garold Billyard
+105,1105,Ali Rizvi,2024-03-03 11:07:18,61.3,116/75,95.8,Paediatrics,General,Thrombolysis,Insulin 20 units,Critical — ventilator support,Aluino Younie
+106,1106,Mahnoor Rizvi,2025-02-15 14:40:46,87.7,138/74,95.6,Cardiology,General,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Lea Cestard
+107,1107,Omar Jatoi,2024-08-09 04:00:26,109.0,101/76,93.7,ICU,Acute Myocardial Infarction,IV Antibiotics,Morphine 10mg,Transferred from ICU,Normand Copson
+108,1108,Ibrahim Shah,2024-03-31 15:53:02,72.8,145/68,92.6,Neurology,Acute Myocardial Infarction,Insulin Therapy,Morphine 10mg,Critical — ventilator support,Cassey Janko
+109,1109,Sara Siddiqui,2025-07-18 01:21:45,70.5,142/89,97.6,Neurology,Pneumonia,Insulin Therapy,Ceftriaxone 1g IV,Improving,Lance Deniseau
+110,1110,Hamza Sheikh,2023-08-31 05:14:56,75.7,104/84,92.1,Cardiology,General,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Reuven Quiney
+111,1111,Maryam Siddiqui,2024-10-25 00:42:06,77.7,126/78,97.3,Neurology,Ischemic Stroke,Thrombolysis,Paracetamol 1g IV,Improving,Candi St. Queintain
+112,1112,Sana Jatoi,2023-03-12 01:57:20,60.4,143/80,96.0,Cardiology,Ischemic Stroke,Appendectomy,Insulin 20 units,Stable,Sibel Landells
+113,1113,Aisha Afridi,2023-07-06 14:37:11,101.5,126/61,96.3,General,Fractured Femur,IV Antibiotics,Insulin 20 units,Improving,Alexandre Swanton
+114,1114,Sara Ahmed,2023-03-07 12:17:12,72.8,141/62,96.0,Paediatrics,Fractured Femur,IV Antihypertensives,Morphine 10mg,Requires monitoring,Cecilla Orpin
+115,1115,Mahnoor Gillani,2023-02-17 19:52:52,87.8,103/67,96.3,Neurology,Ischemic Stroke,Appendectomy,Ceftriaxone 1g IV,Requires monitoring,Loralie Rassmann
+116,1116,Usman Malik,2025-05-16 17:15:34,98.0,120/63,94.0,Neurology,Neurology,Thrombolysis,Heparin 5000 IU,Requires monitoring,Arch Luckcock
+117,1117,Aisha Mirza,2023-04-21 04:13:41,98.8,142/77,93.9,General,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Rasia Markussen
+118,1118,Dua Rizvi,2023-12-07 22:20:31,57.0,117/63,94.2,Paediatrics,ICU,Appendectomy,Metoprolol 25mg,Improving,Yvonne Allsobrook
+119,1119,Usman Butt,2025-01-25 11:29:27,109.5,105/61,96.4,Neurology,PaediatricsType 2 Diabetes,Surgical Fixation,Heparin 5000 IU,Requires monitoring,Lorne Franchioni
+120,1120,Mahnoor Mughal,2025-06-24 01:27:32,93.2,133/94,92.6,ICU,PaediatricsType 2 Diabetes,Insulin Therapy,Heparin 5000 IU,Requires monitoring,Barbe Bowhay
+121,1121,Arsalan Iqbal,2025-09-06 21:14:11,80.1,102/94,99.0,ICU,Cardiology,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Ravid Bagge
+122,1122,Hassan Chaudhary,2023-04-05 20:43:05,102.7,143/77,98.3,ICU,Hypertensive Crisis,Insulin Therapy,Paracetamol 1g IV,Stable,Amii Mapes
+123,1123,Omar Jatoi,2023-07-14 22:04:34,109.5,145/92,96.6,ICU,Cardiology,Appendectomy,Heparin 5000 IU,Critical — ventilator support,Kienan Cawte
+124,1124,Usman Afridi,2023-03-08 11:47:50,103.5,101/90,96.9,Neurology,Pneumonia,Angioplasty,Morphine 10mg,Requires monitoring,Ebonee Claus
+125,1125,Fatima Gillani,2023-12-14 19:47:18,100.1,134/80,95.3,General,Orthopaedic,Thrombolysis,Ceftriaxone 1g IV,Improving,Hughie Blowin
+126,1126,Myra Butt,2023-05-27 01:48:54,99.1,116/86,98.3,General,PaediatricsType 2 Diabetes,Thrombolysis,Morphine 10mg,Stable,Di Fallanche
+127,1127,Zainab Shah,2023-05-03 04:19:05,95.8,129/79,92.9,Paediatrics,Ischemic Stroke,Insulin Therapy,Morphine 10mg,Stable,Mandel Makeswell
+128,1128,Sara Afridi,2023-04-19 06:50:26,58.9,128/86,92.4,Orthopaedic,Orthopaedic,Surgical Fixation,Heparin 5000 IU,Requires monitoring,Sari Cooksley
+129,1129,Khadija Bajwa,2023-08-11 20:18:41,68.3,143/72,98.1,Neurology,General,Appendectomy,Morphine 10mg,Requires monitoring,Linette Rohlfing
+130,1130,Arsalan Ahmed,2024-11-19 11:49:01,69.4,119/85,98.0,ICU,Orthopaedic,IV Antihypertensives,Paracetamol 1g IV,Critical — ventilator support,Joelle Salmen
+131,1131,Omar Abbas,2025-09-26 18:40:44,104.6,127/62,98.9,Paediatrics,Acute Myocardial Infarction,Appendectomy,Paracetamol 1g IV,Critical — ventilator support,Bibbye LaBastida
+132,1132,Bilal Iqbal,2025-05-21 06:00:42,102.7,145/87,94.4,General,Ischemic Stroke,Insulin Therapy,Morphine 10mg,Stable,Frants Lindsay
+133,1133,Aisha Butt,2025-10-11 13:27:27,77.3,132/93,97.9,Paediatrics,Appendicitis,Appendectomy,Insulin 20 units,Improving,Buffy Borsnall
+134,1134,Mustafa Mirza,2023-01-18 18:54:18,92.0,110/66,96.0,ICU,Fractured Femur,Angioplasty,Paracetamol 1g IV,Transferred from ICU,Alene Paske
+135,1135,Aisha Qureshi,2023-06-27 06:21:52,85.7,139/78,96.8,General,Hypertensive Crisis,Thrombolysis,Heparin 5000 IU,Requires monitoring,Peri Huke
+136,1136,Hassan Iqbal,2025-11-09 08:14:18,73.9,150/92,94.8,Paediatrics,Hypertensive Crisis,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Prinz Jiru
+137,1137,Bilal Qureshi,2024-09-10 01:53:55,73.2,143/82,98.2,General,Neurology,Insulin Therapy,Heparin 5000 IU,Post-op recovery,Phillis Dovidian
+138,1138,Rehan Mirza,2024-05-14 00:52:33,63.3,133/70,93.6,Orthopaedic,Appendicitis,IV Antibiotics,Paracetamol 1g IV,Critical — ventilator support,Blane Olivas
+139,1139,Dua Butt,2025-10-30 03:46:26,86.9,140/63,92.1,Cardiology,General,IV Antibiotics,Metoprolol 25mg,Stable,Addia Brugger
+140,1140,Myra Ali,2023-04-20 08:37:58,102.7,135/76,95.4,Cardiology,Acute Myocardial Infarction,Thrombolysis,Insulin 20 units,Stable,Breanne Scarsbrooke
+141,1141,Aisha Rizvi,2024-01-19 22:06:15,100.4,108/65,93.3,Neurology,ICU,Surgical Fixation,Metoprolol 25mg,Requires monitoring,Edeline Locarno
+142,1142,Fatima Afridi,2023-12-19 05:04:57,96.8,117/88,97.6,Neurology,Orthopaedic,Angioplasty,Ceftriaxone 1g IV,Transferred from ICU,Juli Cawcutt
+143,1143,Hamza Farooqi,2025-12-15 23:00:03,89.7,106/77,97.4,ICU,Ischemic Stroke,Appendectomy,Ceftriaxone 1g IV,Post-op recovery,Adams Sheaf
+144,1144,Dua Iqbal,2025-01-18 03:12:18,94.7,122/85,92.5,Orthopaedic,Ischemic Stroke,Insulin Therapy,Paracetamol 1g IV,Post-op recovery,Suellen Tidey
+145,1145,Noor Abbas,2023-06-09 09:03:34,104.3,136/78,97.5,ICU,Hypertensive Crisis,Appendectomy,Insulin 20 units,Requires monitoring,Stace Strutton
+146,1146,Mustafa Gillani,2023-06-24 00:59:59,106.1,104/63,96.6,ICU,Ischemic Stroke,Appendectomy,Insulin 20 units,Critical — ventilator support,Phillie Bultitude
+147,1147,Khadija Hashmi,2023-09-19 13:53:12,107.9,134/70,95.5,Neurology,General,IV Antibiotics,Metoprolol 25mg,Stable,Alia Geibel
+148,1148,Fatima Khan,2023-03-07 06:21:10,92.5,144/75,93.6,ICU,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Improving,Tabitha Edwardson
+149,1149,Khadija Mirza,2024-11-17 14:09:30,72.3,136/77,98.8,Orthopaedic,Ischemic Stroke,Insulin Therapy,Insulin 20 units,Stable,Bernita Zecchi
+150,1150,Myra Mirza,2023-05-01 13:39:59,80.0,137/86,98.1,Cardiology,Orthopaedic,Surgical Fixation,Ceftriaxone 1g IV,Stable,Fabio Battson
+151,1151,Usman Hashmi,2025-10-22 06:19:39,108.4,115/79,98.6,Cardiology,Acute Myocardial Infarction,IV Antihypertensives,Paracetamol 1g IV,Stable,Sharl Aliman
+152,1152,Arsalan Ali,2023-11-06 11:06:14,94.6,107/83,98.7,General,Fractured Femur,IV Antibiotics,Ceftriaxone 1g IV,Stable,Gwendolyn Hudleston
+153,1153,Rehan Mughal,2024-05-03 19:32:02,64.7,137/81,96.5,Neurology,Hypertensive Crisis,Surgical Fixation,Metoprolol 25mg,Critical — ventilator support,Almeria Gillooly
+154,1154,Khadija Naqvi,2024-08-06 21:01:58,92.6,107/92,97.2,Cardiology,General,IV Antihypertensives,Morphine 10mg,Stable,Chloris Pagel
+155,1155,Anaya Afridi,2025-05-04 22:20:23,71.7,130/66,95.8,Cardiology,Acute Myocardial Infarction,Thrombolysis,Insulin 20 units,Critical — ventilator support,Loutitia Lardnar
+156,1156,Zaid Farooqi,2024-12-12 19:47:49,81.0,116/64,97.1,ICU,Cardiology,Appendectomy,Paracetamol 1g IV,Improving,Marissa Gowenlock
+157,1157,Ibrahim Mirza,2023-03-24 03:38:32,84.3,111/76,92.7,Cardiology,Neurology,Angioplasty,Insulin 20 units,Critical — ventilator support,Julianne Artindale
+158,1158,Aisha Rizvi,2024-02-18 03:56:32,85.4,104/95,92.2,Paediatrics,Ischemic Stroke,IV Antihypertensives,Insulin 20 units,Requires monitoring,Sile Bisson
+159,1159,Noor Mirza,2023-07-20 14:19:36,101.8,130/86,97.5,Neurology,Orthopaedic,Surgical Fixation,Metoprolol 25mg,Stable,Dulcine Hunnywell
+160,1160,Mustafa Malik,2025-06-08 18:25:44,79.3,124/75,98.2,Paediatrics,ICU,IV Antihypertensives,Insulin 20 units,Post-op recovery,Walden Lound
+161,1161,Anaya Lodhi,2024-10-24 16:42:41,76.7,128/67,95.3,Orthopaedic,PaediatricsType 2 Diabetes,Thrombolysis,Ceftriaxone 1g IV,Post-op recovery,Zacherie Corbert
+162,1162,Bilal Qureshi,2025-11-12 12:06:44,87.2,132/77,98.1,General,ICU,IV Antihypertensives,Morphine 10mg,Post-op recovery,Dorolice Gibbons
+163,1163,Aisha Farooqi,2025-01-19 01:17:51,87.1,101/71,98.3,Paediatrics,Ischemic Stroke,Angioplasty,Metoprolol 25mg,Post-op recovery,Felicle Bougen
+164,1164,Myra Siddiqui,2025-05-23 12:04:34,91.5,106/69,94.0,Cardiology,ICU,Thrombolysis,Morphine 10mg,Transferred from ICU,Hunt Sharple
+165,1165,Ibrahim Hashmi,2024-02-27 03:36:37,58.4,119/92,98.0,Paediatrics,PaediatricsType 2 Diabetes,Angioplasty,Heparin 5000 IU,Post-op recovery,Adolphe MacGaughy
+166,1166,Noor Ahmed,2023-02-14 05:28:09,87.6,130/94,97.6,ICU,Pneumonia,Angioplasty,Morphine 10mg,Transferred from ICU,Charlean Kalvin
+167,1167,Ibrahim Aziz,2025-12-02 19:51:58,83.5,127/93,96.2,Orthopaedic,Cardiology,Insulin Therapy,Heparin 5000 IU,Post-op recovery,Rosalie Adhams
+168,1168,Sara Bajwa,2023-12-06 23:33:37,66.2,109/65,95.0,Orthopaedic,PaediatricsType 2 Diabetes,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Andra Oglethorpe
+169,1169,Hamza Iqbal,2025-03-18 14:08:06,66.6,100/93,94.9,Cardiology,PaediatricsType 2 Diabetes,Insulin Therapy,Morphine 10mg,Post-op recovery,Ab Manass
+170,1170,Hamza Jatoi,2025-03-08 22:53:22,88.2,133/73,95.6,Orthopaedic,Cardiology,Appendectomy,Insulin 20 units,Requires monitoring,Corey Sharratt
+171,1171,Arsalan Hussain,2025-01-16 15:15:49,64.7,149/79,97.1,General,Fractured Femur,Appendectomy,Metoprolol 25mg,Transferred from ICU,Emera Nerger
+172,1172,Zainab Farooqi,2023-04-19 17:56:26,79.8,140/79,92.7,Neurology,Hypertensive Crisis,Angioplasty,Ceftriaxone 1g IV,Transferred from ICU,Celka Matysiak
+173,1173,Rehan Naqvi,2025-04-18 16:46:49,69.0,103/66,92.3,Paediatrics,Ischemic Stroke,IV Antihypertensives,Heparin 5000 IU,Transferred from ICU,Tildy Vedyashkin
+174,1174,Sana Afridi,2023-02-15 01:36:06,82.4,100/76,98.8,Orthopaedic,General,Surgical Fixation,Insulin 20 units,Improving,Fleming Laherty
+175,1175,Zainab Farooqi,2025-08-12 20:50:14,90.5,113/61,95.7,General,Appendicitis,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Laina Thaine
+176,1176,Zainab Malik,2024-11-13 16:16:19,87.2,114/61,97.4,ICU,Acute Myocardial Infarction,Angioplasty,Morphine 10mg,Stable,Neda Trays
+177,1177,Khadija Gillani,2025-10-03 00:49:34,107.3,135/76,96.0,Orthopaedic,Cardiology,IV Antibiotics,Metoprolol 25mg,Critical — ventilator support,Chrissie Baron
+178,1178,Anaya Butt,2024-02-14 20:19:10,77.0,142/60,93.1,Paediatrics,Acute Myocardial Infarction,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Devan Head
+179,1179,Khadija Naqvi,2023-01-11 06:14:51,90.1,130/80,97.0,Cardiology,Neurology,Thrombolysis,Morphine 10mg,Requires monitoring,Lorelei Rennie
+180,1180,Hassan Mughal,2024-02-21 10:55:03,88.6,130/74,92.5,General,Neurology,Appendectomy,Insulin 20 units,Requires monitoring,Teresina Buntine
+181,1181,Dua Mirza,2025-10-19 20:27:43,108.2,111/86,94.2,General,Fractured Femur,Thrombolysis,Ceftriaxone 1g IV,Post-op recovery,Maxwell Wilmot
+182,1182,Ali Malik,2025-04-06 06:15:34,67.3,136/92,92.9,Paediatrics,Appendicitis,Angioplasty,Heparin 5000 IU,Stable,Bobbie Bakeup
+183,1183,Usman Farooqi,2024-10-08 06:21:35,104.2,125/66,98.2,Neurology,Appendicitis,Angioplasty,Metoprolol 25mg,Transferred from ICU,Forbes Bricham
+184,1184,Ibrahim Sheikh,2023-04-28 04:02:11,88.7,127/95,97.1,General,Acute Myocardial Infarction,Angioplasty,Metoprolol 25mg,Requires monitoring,Thorvald Portinari
+185,1185,Hassan Iqbal,2024-12-17 05:59:39,95.6,113/94,96.9,General,Pneumonia,Angioplasty,Morphine 10mg,Improving,Dorian Viel
+186,1186,Aisha Khan,2025-10-03 08:19:08,94.9,140/92,92.7,Orthopaedic,Orthopaedic,Insulin Therapy,Ceftriaxone 1g IV,Requires monitoring,Jamison Chippin
+187,1187,Maryam Bajwa,2025-05-02 05:49:37,100.7,125/62,98.4,General,Pneumonia,Appendectomy,Heparin 5000 IU,Transferred from ICU,Rosemary Kingscote
+188,1188,Hassan Naqvi,2025-03-21 19:07:43,66.2,122/78,93.9,ICU,Pneumonia,IV Antihypertensives,Insulin 20 units,Requires monitoring,Ulla Gudgin
+189,1189,Maryam Chaudhary,2025-04-11 20:36:54,78.9,128/63,95.8,Paediatrics,General,Appendectomy,Metoprolol 25mg,Transferred from ICU,Nerty MattiCCI
+190,1190,Ibrahim Naqvi,2025-07-04 12:02:57,55.9,114/90,93.0,Cardiology,PaediatricsType 2 Diabetes,IV Antihypertensives,Ceftriaxone 1g IV,Stable,Arda Henworth
+191,1191,Ali Sheikh,2025-01-30 22:44:45,64.4,114/80,92.2,Paediatrics,Hypertensive Crisis,Angioplasty,Paracetamol 1g IV,Post-op recovery,Kat Gennerich
+192,1192,Maryam Iqbal,2024-10-26 10:45:31,96.0,121/86,98.3,General,Appendicitis,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Agneta Knutsen
+193,1193,Sara Iqbal,2024-12-06 02:25:33,99.8,132/92,92.7,General,Appendicitis,Thrombolysis,Heparin 5000 IU,Requires monitoring,Burnard Moyse
+194,1194,Mustafa Afridi,2024-10-28 23:13:55,83.2,129/85,95.8,Orthopaedic,Fractured Femur,Appendectomy,Metoprolol 25mg,Requires monitoring,Faythe Betteney
+195,1195,Sana Hussain,2025-04-07 15:22:49,65.7,109/87,95.4,Paediatrics,ICU,Thrombolysis,Paracetamol 1g IV,Stable,Loella Cuvley
+196,1196,Dua Farooqi,2023-08-16 09:13:58,81.6,111/81,96.0,Orthopaedic,General,Appendectomy,Heparin 5000 IU,Critical — ventilator support,Hestia Crosswaite
+197,1197,Mustafa Chaudhary,2023-05-06 20:46:37,67.4,119/88,94.0,Paediatrics,Pneumonia,Angioplasty,Heparin 5000 IU,Transferred from ICU,Nil Eastbrook
+198,1198,Ahmed Malik,2024-08-18 18:06:32,108.2,124/60,96.0,General,Fractured Femur,Angioplasty,Insulin 20 units,Critical — ventilator support,Theodor Kennewell
+199,1199,Noor Afridi,2023-10-28 07:39:40,67.8,115/61,92.4,Paediatrics,General,Surgical Fixation,Heparin 5000 IU,Post-op recovery,Aldric Embling
+200,1200,Ali Afridi,2024-04-29 12:48:08,109.7,144/85,96.1,General,Orthopaedic,IV Antibiotics,Ceftriaxone 1g IV,Requires monitoring,Harrietta Favelle
+201,1201,Myra Mirza,2023-09-01 15:01:01,80.4,104/60,98.0,General,Fractured Femur,Surgical Fixation,Metoprolol 25mg,Post-op recovery,Fifi McGreal
+202,1202,Dua Mughal,2024-09-20 18:42:15,93.1,100/68,97.4,Cardiology,General,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Ryley Draysey
+203,1203,Hassan Lodhi,2025-10-21 18:31:54,56.4,123/67,92.1,Cardiology,PaediatricsType 2 Diabetes,Surgical Fixation,Insulin 20 units,Transferred from ICU,Ilaire Entwhistle
+204,1204,Hassan Hussain,2025-09-06 17:49:40,65.0,103/80,98.7,General,Appendicitis,Insulin Therapy,Heparin 5000 IU,Improving,Martyn Keynes
+205,1205,Anaya Iqbal,2023-07-26 12:38:27,75.4,118/69,93.0,Neurology,Fractured Femur,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Sibeal Jennick
+206,1206,Aisha Lodhi,2025-03-10 04:48:45,79.3,122/71,93.4,Orthopaedic,ICU,IV Antihypertensives,Insulin 20 units,Transferred from ICU,Kittie Coal
+207,1207,Rehan Jatoi,2024-11-05 23:10:28,55.2,124/67,96.6,General,Pneumonia,IV Antibiotics,Insulin 20 units,Critical — ventilator support,Errol Rattry
+208,1208,Maryam Hussain,2024-04-25 06:04:51,107.1,116/67,97.6,Paediatrics,Neurology,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Ameline Dryden
+209,1209,Khadija Ali,2023-01-26 23:26:30,83.4,147/83,93.0,ICU,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Critical — ventilator support,Virgil Seagrove
+210,1210,Ali Bajwa,2024-10-29 19:18:58,101.9,137/67,94.4,Orthopaedic,Hypertensive Crisis,IV Antihypertensives,Morphine 10mg,Transferred from ICU,Anabel Tatem
+211,1211,Zainab Iqbal,2023-11-04 03:03:04,83.4,149/71,98.8,Orthopaedic,Ischemic Stroke,Insulin Therapy,Paracetamol 1g IV,Requires monitoring,Kati Savin
+212,1212,Ahmed Malik,2025-04-01 09:00:24,106.5,143/79,94.5,Paediatrics,Neurology,Thrombolysis,Insulin 20 units,Critical — ventilator support,Clem Murrum
+213,1213,Aisha Siddiqui,2023-06-26 00:32:54,92.7,143/85,92.5,Neurology,Ischemic Stroke,IV Antibiotics,Insulin 20 units,Improving,Bobbette Capstack
+214,1214,Rehan Rizvi,2025-01-22 18:51:43,77.8,145/74,98.2,Orthopaedic,Neurology,Insulin Therapy,Morphine 10mg,Improving,Hurleigh Johnston
+215,1215,Zainab Naqvi,2024-06-20 04:03:56,107.6,116/66,94.1,ICU,ICU,Thrombolysis,Paracetamol 1g IV,Requires monitoring,Sada McNulty
+216,1216,Ali Khan,2025-02-17 17:42:56,79.4,141/84,93.8,General,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Anjanette Elby
+217,1217,Aisha Butt,2024-10-28 13:46:48,109.7,113/91,96.6,Neurology,Ischemic Stroke,IV Antihypertensives,Morphine 10mg,Transferred from ICU,Christine MacArd
+218,1218,Hiba Hussain,2025-08-13 22:44:32,99.0,148/63,93.8,ICU,ICU,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Tobi Verrechia
+219,1219,Hamza Siddiqui,2025-01-28 15:27:39,107.6,143/75,95.3,Paediatrics,Ischemic Stroke,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Lelah Wile
+220,1220,Sara Jatoi,2024-01-25 06:55:19,93.4,107/65,95.2,General,Appendicitis,Appendectomy,Heparin 5000 IU,Transferred from ICU,Dilly Exon
+221,1221,Khadija Aziz,2024-06-20 01:48:45,93.5,125/77,96.5,Orthopaedic,Pneumonia,Thrombolysis,Insulin 20 units,Improving,Caspar Gowdridge
+222,1222,Usman Naqvi,2024-06-06 12:17:36,93.8,106/81,92.6,Paediatrics,PaediatricsType 2 Diabetes,Thrombolysis,Heparin 5000 IU,Post-op recovery,Myrtice Pesticcio
+223,1223,Mahnoor Ali,2024-06-02 02:57:34,84.8,120/83,96.9,ICU,Hypertensive Crisis,Appendectomy,Morphine 10mg,Post-op recovery,Isaac Chittie
+224,1224,Ahmed Rizvi,2024-10-14 05:34:02,99.6,129/91,92.2,Neurology,Fractured Femur,Thrombolysis,Insulin 20 units,Post-op recovery,Carlyle Mercy
+225,1225,Myra Lodhi,2023-05-05 11:17:44,81.5,109/70,93.8,General,Ischemic Stroke,Thrombolysis,Paracetamol 1g IV,Improving,Aristotle Farens
+226,1226,Myra Chaudhary,2023-07-24 18:58:59,92.4,121/70,94.4,Paediatrics,ICU,Insulin Therapy,Ceftriaxone 1g IV,Stable,Kacy Welling
+227,1227,Omar Rizvi,2024-04-29 20:15:15,86.4,121/67,98.5,General,ICU,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Irvine Fidell
+228,1228,Fatima Abbas,2024-02-23 17:40:27,64.7,116/62,94.1,General,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Improving,Gerry Oldroyde
+229,1229,Anaya Abbas,2023-06-29 18:22:15,90.9,150/60,92.5,Neurology,Hypertensive Crisis,IV Antibiotics,Morphine 10mg,Improving,Hedvige Romera
+230,1230,Ali Mirza,2024-11-13 02:13:04,84.4,128/61,95.2,General,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Stable,Brianne Wyldes
+231,1231,Sana Bajwa,2023-12-26 08:48:31,90.8,120/83,92.6,Cardiology,Appendicitis,Angioplasty,Ceftriaxone 1g IV,Requires monitoring,Codie Boddis
+232,1232,Mahnoor Siddiqui,2025-10-19 00:15:16,93.1,135/84,96.6,Orthopaedic,Acute Myocardial Infarction,IV Antibiotics,Ceftriaxone 1g IV,Improving,Allyce Levey
+233,1233,Rehan Malik,2024-09-25 05:22:34,67.9,103/77,96.4,Neurology,ICU,IV Antibiotics,Insulin 20 units,Improving,Ebony Rigeby
+234,1234,Zaid Aziz,2023-11-12 11:10:55,98.3,146/80,94.6,Paediatrics,Ischemic Stroke,Insulin Therapy,Insulin 20 units,Stable,Lazar McKellen
+235,1235,Mahnoor Hashmi,2024-01-31 12:37:31,76.8,147/64,94.6,General,PaediatricsType 2 Diabetes,Surgical Fixation,Heparin 5000 IU,Critical — ventilator support,Drucy Sodor
+236,1236,Usman Shah,2023-10-15 18:52:21,108.7,122/68,93.0,Paediatrics,Hypertensive Crisis,IV Antihypertensives,Ceftriaxone 1g IV,Critical — ventilator support,Tim Pittet
+237,1237,Hassan Qureshi,2023-06-27 23:14:06,76.0,101/76,97.1,Cardiology,Ischemic Stroke,Insulin Therapy,Metoprolol 25mg,Critical — ventilator support,Bride Murdy
+238,1238,Fatima Sheikh,2024-06-04 06:52:46,81.0,145/77,98.8,Paediatrics,Appendicitis,Appendectomy,Insulin 20 units,Stable,Lanita Shaddock
+239,1239,Maryam Bajwa,2025-05-08 21:35:43,59.0,115/79,96.8,Cardiology,Cardiology,Angioplasty,Insulin 20 units,Critical — ventilator support,Irena Cutford
+240,1240,Fatima Ali,2023-08-10 09:53:31,92.4,105/94,94.2,Paediatrics,Ischemic Stroke,Insulin Therapy,Ceftriaxone 1g IV,Post-op recovery,Dukie Chastney
+241,1241,Noor Ahmed,2024-11-29 11:00:33,94.8,118/81,94.2,Cardiology,Hypertensive Crisis,IV Antihypertensives,Insulin 20 units,Post-op recovery,Cammie Harmour
+242,1242,Myra Mughal,2025-01-05 23:48:36,90.0,105/60,94.7,Neurology,Pneumonia,Thrombolysis,Heparin 5000 IU,Post-op recovery,Pavel McNickle
+243,1243,Ali Butt,2025-10-29 01:40:19,78.2,133/85,94.6,Orthopaedic,Ischemic Stroke,Insulin Therapy,Insulin 20 units,Improving,Dori Swiggs
+244,1244,Ibrahim Lodhi,2023-03-04 09:36:26,78.0,145/64,96.0,Neurology,Orthopaedic,Insulin Therapy,Metoprolol 25mg,Stable,Perkin Leyden
+245,1245,Myra Bajwa,2025-10-06 09:52:32,73.3,150/67,93.3,General,General,Thrombolysis,Heparin 5000 IU,Improving,Kenny Gerge
+246,1246,Omar Rizvi,2024-11-23 00:58:37,77.7,148/80,93.9,General,Hypertensive Crisis,Appendectomy,Paracetamol 1g IV,Post-op recovery,Hedda Whitington
+247,1247,Hamza Sheikh,2025-02-12 11:59:29,65.6,135/84,95.7,ICU,Acute Myocardial Infarction,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Harrie Hicks
+248,1248,Zainab Ahmed,2023-07-17 13:38:06,71.0,134/62,95.6,Cardiology,Neurology,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Cammy Djurisic
+249,1249,Arsalan Afridi,2023-07-25 02:57:02,88.8,150/85,94.8,Orthopaedic,Cardiology,Angioplasty,Insulin 20 units,Post-op recovery,Pamelina Hayter
+250,1250,Mustafa Ahmed,2024-07-10 03:21:22,68.5,135/64,93.0,Orthopaedic,Cardiology,Thrombolysis,Metoprolol 25mg,Transferred from ICU,Humfrey McNamee
+251,1251,Bilal Ali,2023-12-06 19:37:26,106.1,118/83,98.0,General,Appendicitis,Appendectomy,Paracetamol 1g IV,Transferred from ICU,Shoshanna Wedmore.
+252,1252,Ali Mirza,2025-04-14 23:15:30,93.2,115/63,96.8,Paediatrics,Fractured Femur,Surgical Fixation,Morphine 10mg,Post-op recovery,Hillier Cottill
+253,1253,Khadija Gillani,2025-11-21 08:04:32,75.3,150/74,95.4,Paediatrics,General,Thrombolysis,Insulin 20 units,Transferred from ICU,Lesley Klimuk
+254,1254,Bilal Gillani,2024-06-11 07:48:37,72.8,111/62,92.9,ICU,Cardiology,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Claudelle Wattingham
+255,1255,Sana Ali,2023-10-07 02:17:56,63.7,117/80,93.0,Cardiology,Acute Myocardial Infarction,Thrombolysis,Morphine 10mg,Critical — ventilator support,Alaster Fullom
+256,1256,Mahnoor Butt,2025-12-19 10:28:27,90.4,109/62,95.8,Cardiology,Fractured Femur,Insulin Therapy,Insulin 20 units,Improving,Eulalie Musslewhite
+257,1257,Rehan Hashmi,2024-01-29 21:12:16,80.9,148/91,95.3,Cardiology,ICU,IV Antibiotics,Ceftriaxone 1g IV,Requires monitoring,Merrie Feria
+258,1258,Zaid Butt,2024-01-12 06:42:47,93.4,125/88,93.0,General,Acute Myocardial Infarction,Surgical Fixation,Ceftriaxone 1g IV,Stable,Karil Heinemann
+259,1259,Hassan Ali,2025-05-22 18:36:20,77.9,150/94,97.6,ICU,PaediatricsType 2 Diabetes,Appendectomy,Paracetamol 1g IV,Critical — ventilator support,Vincents Baniard
+260,1260,Usman Butt,2023-06-12 01:11:27,58.2,112/70,96.0,Cardiology,Appendicitis,IV Antibiotics,Paracetamol 1g IV,Transferred from ICU,Wanids Speachley
+261,1261,Ahmed Naqvi,2025-07-05 19:34:46,87.8,122/61,93.6,ICU,General,Insulin Therapy,Metoprolol 25mg,Improving,Addie Rendle
+262,1262,Anaya Jatoi,2023-09-24 21:15:57,66.7,100/76,93.8,Neurology,PaediatricsType 2 Diabetes,Thrombolysis,Insulin 20 units,Improving,Ariella Hauxwell
+263,1263,Mahnoor Abbas,2024-08-21 06:11:57,87.5,111/91,94.7,ICU,Pneumonia,Insulin Therapy,Morphine 10mg,Transferred from ICU,Curt Loudyan
+264,1264,Mahnoor Lodhi,2023-06-05 22:20:05,101.9,147/71,94.4,Cardiology,PaediatricsType 2 Diabetes,Insulin Therapy,Paracetamol 1g IV,Post-op recovery,Melessa Kettridge
+265,1265,Aisha Ahmed,2023-08-19 02:47:44,93.9,131/95,95.4,General,Fractured Femur,Insulin Therapy,Heparin 5000 IU,Improving,Bobette Chadbourne
+266,1266,Anaya Ahmed,2023-12-18 08:45:37,69.4,128/94,94.3,Orthopaedic,Appendicitis,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Pete Halkyard
+267,1267,Anaya Chaudhary,2025-03-20 14:20:10,105.0,110/61,92.7,Neurology,Acute Myocardial Infarction,Thrombolysis,Heparin 5000 IU,Stable,Torr Pinhorn
+268,1268,Sara Jatoi,2023-10-28 05:20:45,56.6,136/94,97.2,Cardiology,General,Surgical Fixation,Insulin 20 units,Requires monitoring,Gery Castanho
+269,1269,Dua Khan,2024-12-14 09:34:52,108.2,109/75,96.1,ICU,Cardiology,IV Antihypertensives,Metoprolol 25mg,Transferred from ICU,Mark Barwack
+270,1270,Aisha Mughal,2023-05-15 15:19:51,76.7,143/72,97.7,Paediatrics,Appendicitis,Thrombolysis,Metoprolol 25mg,Transferred from ICU,Abigail Trevains
+271,1271,Zainab Hussain,2025-12-28 04:21:45,65.0,132/62,96.8,Neurology,ICU,Thrombolysis,Metoprolol 25mg,Transferred from ICU,Robinet Eouzan
+272,1272,Hassan Ahmed,2025-02-04 17:15:12,99.4,111/86,95.8,Paediatrics,Pneumonia,Insulin Therapy,Heparin 5000 IU,Transferred from ICU,Wyatan Bigrigg
+273,1273,Anaya Rizvi,2024-07-12 15:14:14,107.0,137/67,94.3,Cardiology,ICU,Thrombolysis,Ceftriaxone 1g IV,Transferred from ICU,Augustine Grealey
+274,1274,Maryam Afridi,2025-05-11 18:33:11,108.0,131/75,98.3,Cardiology,Neurology,Angioplasty,Metoprolol 25mg,Stable,Aggie Clemmens
+275,1275,Fatima Chaudhary,2025-01-11 06:24:27,93.7,139/66,92.6,Neurology,Hypertensive Crisis,Appendectomy,Metoprolol 25mg,Stable,Estele Cheshir
+276,1276,Hassan Gillani,2024-08-09 03:47:46,73.9,101/69,96.0,Neurology,Fractured Femur,IV Antihypertensives,Ceftriaxone 1g IV,Critical — ventilator support,Caspar Tooker
+277,1277,Hiba Khan,2023-01-19 11:38:48,64.7,124/74,94.6,Paediatrics,Acute Myocardial Infarction,Insulin Therapy,Metoprolol 25mg,Improving,Jamaal Prenty
+278,1278,Bilal Mughal,2024-08-22 16:52:21,57.2,118/69,94.7,Cardiology,PaediatricsType 2 Diabetes,IV Antihypertensives,Paracetamol 1g IV,Stable,Andris O'Towey
+279,1279,Hiba Rizvi,2025-05-19 12:55:14,91.5,113/93,95.0,ICU,Acute Myocardial Infarction,Angioplasty,Ceftriaxone 1g IV,Improving,La verne Hanne
+280,1280,Hamza Malik,2024-11-29 23:01:09,72.8,108/79,92.3,Neurology,Ischemic Stroke,Insulin Therapy,Metoprolol 25mg,Transferred from ICU,Terrie Forgie
+281,1281,Ahmed Gillani,2023-07-26 20:49:26,96.2,105/86,94.5,Cardiology,Orthopaedic,Insulin Therapy,Morphine 10mg,Requires monitoring,Marta Tsar
+282,1282,Aisha Ahmed,2024-01-03 15:28:33,60.3,108/68,93.6,ICU,PaediatricsType 2 Diabetes,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Andy Zannelli
+283,1283,Maryam Farooqi,2024-06-12 23:53:42,85.7,111/92,92.3,ICU,Acute Myocardial Infarction,Angioplasty,Insulin 20 units,Requires monitoring,Micaela Walthew
+284,1284,Bilal Jatoi,2024-03-18 04:17:58,81.6,111/61,96.8,Orthopaedic,Acute Myocardial Infarction,IV Antihypertensives,Insulin 20 units,Improving,Gates McIlvenna
+285,1285,Ibrahim Chaudhary,2024-02-15 07:03:48,72.4,142/83,92.3,Orthopaedic,Ischemic Stroke,Angioplasty,Insulin 20 units,Transferred from ICU,Shaylynn Tilliard
+286,1286,Khadija Siddiqui,2023-05-12 14:52:49,65.1,102/60,98.3,Paediatrics,Ischemic Stroke,Angioplasty,Morphine 10mg,Stable,Bogey Fradgley
+287,1287,Aisha Ali,2025-10-26 03:39:21,70.3,137/85,95.0,Cardiology,Acute Myocardial Infarction,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Koressa Craigheid
+288,1288,Sana Gillani,2023-10-25 07:28:18,70.0,135/95,96.7,Paediatrics,Appendicitis,Insulin Therapy,Heparin 5000 IU,Requires monitoring,Haywood Hayley
+289,1289,Myra Iqbal,2023-10-13 08:41:34,64.9,101/64,94.1,ICU,Orthopaedic,Angioplasty,Metoprolol 25mg,Stable,Devin Borrie
+290,1290,Rehan Naqvi,2025-08-11 13:29:10,67.7,146/71,94.4,Orthopaedic,Orthopaedic,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Mirabelle Local
+291,1291,Dua Ali,2024-04-17 01:29:01,82.4,147/74,96.1,Orthopaedic,Hypertensive Crisis,IV Antibiotics,Metoprolol 25mg,Stable,Astra Showen
+292,1292,Maryam Hashmi,2025-04-07 18:54:02,104.1,140/81,97.9,ICU,ICU,Insulin Therapy,Heparin 5000 IU,Improving,Vasilis Pinnocke
+293,1293,Noor Afridi,2023-01-26 14:15:34,81.5,137/78,95.2,General,Acute Myocardial Infarction,IV Antibiotics,Insulin 20 units,Stable,Randy Bland
+294,1294,Dua Lodhi,2023-05-24 23:26:13,98.5,147/75,98.6,Paediatrics,Neurology,Appendectomy,Heparin 5000 IU,Stable,Vick Zelner
+295,1295,Zaid Butt,2024-03-24 10:59:54,72.9,115/80,92.7,General,Hypertensive Crisis,IV Antibiotics,Metoprolol 25mg,Requires monitoring,Darren Bembrick
+296,1296,Mahnoor Jatoi,2023-06-24 13:22:36,68.6,111/65,96.9,Paediatrics,Hypertensive Crisis,Appendectomy,Metoprolol 25mg,Post-op recovery,Betteann Goldstraw
+297,1297,Myra Rizvi,2023-11-01 02:38:18,56.8,136/84,96.8,Cardiology,Hypertensive Crisis,Surgical Fixation,Insulin 20 units,Transferred from ICU,Pernell Frier
+298,1298,Fatima Jatoi,2024-03-16 20:45:10,67.0,148/90,98.8,Orthopaedic,ICU,Surgical Fixation,Morphine 10mg,Post-op recovery,Robbie Potell
+299,1299,Sana Siddiqui,2023-07-13 16:52:26,109.3,137/83,97.4,Paediatrics,Orthopaedic,Insulin Therapy,Morphine 10mg,Post-op recovery,Gaile Ianinotti
+300,1300,Sara Sheikh,2025-09-27 12:35:18,70.8,113/93,98.8,Orthopaedic,Pneumonia,Surgical Fixation,Ceftriaxone 1g IV,Improving,Daron Dicks
+301,1301,Mahnoor Jatoi,2025-03-20 01:12:58,101.1,120/74,93.1,Neurology,Cardiology,IV Antibiotics,Insulin 20 units,Improving,Bill Blyden
+302,1302,Arsalan Hussain,2024-08-05 05:57:43,102.2,114/94,95.6,Cardiology,PaediatricsType 2 Diabetes,Surgical Fixation,Insulin 20 units,Transferred from ICU,Emilie Hazeup
+303,1303,Arsalan Butt,2024-05-25 19:36:40,56.7,146/93,97.1,General,Fractured Femur,IV Antihypertensives,Paracetamol 1g IV,Transferred from ICU,Herman Veschambre
+304,1304,Myra Gillani,2024-10-27 20:00:47,62.5,110/95,92.8,Neurology,Neurology,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Chantal Tibbs
+305,1305,Aisha Abbas,2024-08-27 04:47:54,56.5,148/95,97.1,Orthopaedic,Hypertensive Crisis,Angioplasty,Paracetamol 1g IV,Improving,Julio Cordaroy
+306,1306,Ali Rizvi,2024-07-29 18:07:42,65.6,134/89,98.7,Neurology,Hypertensive Crisis,Angioplasty,Ceftriaxone 1g IV,Transferred from ICU,Katharina Beccero
+307,1307,Usman Gillani,2024-11-28 00:44:17,86.5,148/91,98.0,Paediatrics,Neurology,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Ilyse Rolin
+308,1308,Zainab Lodhi,2023-09-13 08:34:26,79.1,122/61,95.5,Neurology,ICU,Thrombolysis,Ceftriaxone 1g IV,Requires monitoring,Gerick Alabaster
+309,1309,Zaid Ali,2024-12-01 13:30:19,81.7,116/95,96.5,ICU,General,Angioplasty,Morphine 10mg,Improving,Ivor Ganforthe
+310,1310,Aisha Qureshi,2023-08-06 03:37:52,64.1,105/65,96.4,Neurology,ICU,Angioplasty,Heparin 5000 IU,Requires monitoring,Annamarie Sowthcote
+311,1311,Hassan Gillani,2023-10-24 02:28:23,88.0,110/79,93.2,Orthopaedic,Orthopaedic,Thrombolysis,Ceftriaxone 1g IV,Improving,Andras Conrart
+312,1312,Zaid Malik,2024-09-11 02:35:29,60.2,124/77,95.1,ICU,Orthopaedic,Surgical Fixation,Insulin 20 units,Improving,Kahlil Overill
+313,1313,Noor Farooqi,2024-04-11 02:36:03,58.1,132/87,93.2,Cardiology,Fractured Femur,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Barry Fanton
+314,1314,Hassan Chaudhary,2023-05-29 10:53:36,65.9,117/69,96.0,Paediatrics,Acute Myocardial Infarction,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Ruthie Ferrao
+315,1315,Fatima Abbas,2025-02-13 04:18:50,104.6,109/72,98.1,Paediatrics,Neurology,Angioplasty,Morphine 10mg,Transferred from ICU,Gui Bassford
+316,1316,Ahmed Ali,2023-03-13 11:07:58,85.5,102/82,94.5,General,Acute Myocardial Infarction,Thrombolysis,Paracetamol 1g IV,Stable,Solly Twizell
+317,1317,Aisha Mughal,2024-10-03 14:19:57,86.0,105/86,92.5,Cardiology,Acute Myocardial Infarction,Angioplasty,Metoprolol 25mg,Transferred from ICU,Bobbe Carrabot
+318,1318,Myra Siddiqui,2025-01-08 10:17:08,58.8,126/76,95.4,Paediatrics,Fractured Femur,Insulin Therapy,Ceftriaxone 1g IV,Critical — ventilator support,Helli Elvin
+319,1319,Fatima Malik,2023-10-06 04:51:31,59.1,113/73,93.5,ICU,Ischemic Stroke,Appendectomy,Metoprolol 25mg,Requires monitoring,Diann Michelotti
+320,1320,Ibrahim Bajwa,2024-08-05 08:38:34,87.9,103/91,92.9,Orthopaedic,Cardiology,Appendectomy,Insulin 20 units,Critical — ventilator support,Cybil Pulhoster
+321,1321,Sana Butt,2023-07-09 16:18:20,105.9,108/91,95.9,Orthopaedic,Cardiology,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Murray Playford
+322,1322,Hamza Aziz,2025-08-26 07:23:38,105.9,142/68,92.4,ICU,Cardiology,Appendectomy,Metoprolol 25mg,Stable,Francine Burtwhistle
+323,1323,Zaid Sheikh,2024-04-22 19:49:57,65.6,129/63,94.1,Paediatrics,Appendicitis,IV Antihypertensives,Insulin 20 units,Post-op recovery,Charmane Wennam
+324,1324,Dua Qureshi,2023-01-22 05:11:33,85.5,107/60,98.3,Orthopaedic,PaediatricsType 2 Diabetes,Thrombolysis,Paracetamol 1g IV,Stable,Etti Biggin
+325,1325,Mustafa Hashmi,2023-05-16 18:04:02,58.7,108/65,98.0,Orthopaedic,ICU,Appendectomy,Morphine 10mg,Stable,Rorie McOnie
+326,1326,Mustafa Mirza,2025-07-19 11:23:56,76.9,132/90,93.5,ICU,ICU,Thrombolysis,Insulin 20 units,Transferred from ICU,Tomasine Cason
+327,1327,Zaid Malik,2024-01-15 20:34:59,63.8,113/89,94.9,Neurology,Appendicitis,Appendectomy,Morphine 10mg,Stable,Tedi Nabarro
+328,1328,Mahnoor Aziz,2025-06-30 03:29:19,80.1,149/65,93.4,Paediatrics,General,Thrombolysis,Ceftriaxone 1g IV,Transferred from ICU,Estelle Mushart
+329,1329,Hiba Gillani,2024-12-04 08:14:22,70.2,122/68,98.8,ICU,ICU,Angioplasty,Insulin 20 units,Post-op recovery,Orin Shellshear
+330,1330,Mahnoor Ali,2024-06-29 20:17:50,106.3,109/86,96.9,Orthopaedic,Acute Myocardial Infarction,Insulin Therapy,Heparin 5000 IU,Post-op recovery,Elora De Mitri
+331,1331,Dua Mughal,2023-04-15 23:09:24,64.1,147/95,96.6,ICU,Appendicitis,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Paco Fischer
+332,1332,Usman Shah,2025-08-29 05:09:25,59.8,129/84,98.0,Cardiology,ICU,IV Antibiotics,Ceftriaxone 1g IV,Requires monitoring,Devinne Stading
+333,1333,Sara Afridi,2024-03-17 16:51:12,95.8,104/60,97.9,General,Ischemic Stroke,IV Antibiotics,Metoprolol 25mg,Transferred from ICU,Bibbie Filmer
+334,1334,Fatima Qureshi,2023-04-16 07:11:13,55.3,132/65,93.3,Orthopaedic,ICU,IV Antibiotics,Heparin 5000 IU,Critical — ventilator support,Xever Sackes
+335,1335,Zaid Rizvi,2023-07-10 05:59:19,90.4,149/80,97.7,ICU,Hypertensive Crisis,Insulin Therapy,Morphine 10mg,Post-op recovery,Rosanna Kurdani
+336,1336,Sana Butt,2024-10-01 22:37:58,102.0,133/77,96.2,Paediatrics,Cardiology,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Raff Jacquemard
+337,1337,Hiba Malik,2025-10-07 10:54:36,63.0,115/84,95.7,Paediatrics,Neurology,IV Antibiotics,Metoprolol 25mg,Transferred from ICU,Modestine Noke
+338,1338,Noor Bajwa,2024-11-06 02:21:30,58.7,142/90,97.0,Neurology,Appendicitis,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Cash Spivie
+339,1339,Maryam Jatoi,2023-03-10 10:01:53,59.3,113/60,92.6,Cardiology,Pneumonia,IV Antihypertensives,Morphine 10mg,Transferred from ICU,Casi Munden
+340,1340,Anaya Rizvi,2023-07-24 03:47:11,107.5,128/74,96.8,Neurology,Orthopaedic,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Bartel Borges
+341,1341,Myra Khan,2023-04-23 01:05:34,90.2,131/63,92.1,Paediatrics,Acute Myocardial Infarction,Insulin Therapy,Insulin 20 units,Improving,Kiri Sims
+342,1342,Rehan Rizvi,2024-09-07 23:30:09,84.2,115/81,93.3,Orthopaedic,General,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Rad Jado
+343,1343,Maryam Mirza,2024-11-28 19:36:15,88.9,120/83,96.9,ICU,Orthopaedic,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Chrystel Tuison
+344,1344,Fatima Abbas,2024-12-25 23:13:09,65.1,106/89,98.2,Cardiology,Orthopaedic,IV Antibiotics,Morphine 10mg,Requires monitoring,Darcey Orhrt
+345,1345,Anaya Afridi,2024-06-18 03:18:38,71.4,116/93,93.8,Orthopaedic,Orthopaedic,Insulin Therapy,Insulin 20 units,Critical — ventilator support,Kalie Haining
+346,1346,Omar Ali,2023-08-11 07:16:58,83.1,111/80,96.9,General,Fractured Femur,Insulin Therapy,Heparin 5000 IU,Post-op recovery,Brucie Geikie
+347,1347,Aisha Lodhi,2025-12-21 12:59:12,85.6,148/70,97.8,ICU,Acute Myocardial Infarction,Insulin Therapy,Ceftriaxone 1g IV,Post-op recovery,Nessy Divver
+348,1348,Zaid Malik,2024-02-16 07:54:35,91.1,125/60,94.8,ICU,Pneumonia,Surgical Fixation,Heparin 5000 IU,Post-op recovery,Liam Sture
+349,1349,Myra Mughal,2025-07-03 23:15:22,74.9,103/77,94.0,Neurology,Orthopaedic,Thrombolysis,Ceftriaxone 1g IV,Critical — ventilator support,Jed Ubee
+350,1350,Mahnoor Butt,2023-09-14 12:49:36,58.9,136/61,98.0,Paediatrics,Pneumonia,IV Antibiotics,Morphine 10mg,Post-op recovery,Viviyan Rubenfeld
+351,1351,Omar Bajwa,2025-10-30 16:40:37,98.4,136/79,92.5,ICU,General,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Sapphira Gorring
+352,1352,Anaya Abbas,2024-07-16 12:07:38,108.9,109/92,93.2,Cardiology,Hypertensive Crisis,Surgical Fixation,Heparin 5000 IU,Critical — ventilator support,Cairistiona Balderson
+353,1353,Bilal Sheikh,2024-02-09 14:39:13,72.1,132/73,94.0,General,Acute Myocardial Infarction,Surgical Fixation,Metoprolol 25mg,Requires monitoring,Wilburt Grubb
+354,1354,Arsalan Hussain,2024-03-18 00:59:25,110.0,148/84,95.0,Orthopaedic,Cardiology,IV Antibiotics,Metoprolol 25mg,Improving,Juliann Strawbridge
+355,1355,Zainab Chaudhary,2023-02-15 05:38:02,55.2,140/81,94.8,Paediatrics,Hypertensive Crisis,Appendectomy,Insulin 20 units,Critical — ventilator support,Allene Dome
+356,1356,Sara Mughal,2023-08-18 23:35:04,104.8,102/88,92.6,General,Hypertensive Crisis,Thrombolysis,Metoprolol 25mg,Post-op recovery,Jimmy Breinlein
+357,1357,Maryam Bajwa,2025-12-25 11:52:10,105.2,136/90,95.7,General,Ischemic Stroke,Angioplasty,Heparin 5000 IU,Post-op recovery,Ezra Gervaise
+358,1358,Aisha Ali,2025-01-26 08:52:46,86.3,106/87,94.1,Paediatrics,Ischemic Stroke,Surgical Fixation,Heparin 5000 IU,Improving,Abran Forrestor
+359,1359,Hamza Butt,2025-11-26 10:07:25,68.3,115/62,97.3,Orthopaedic,Fractured Femur,Insulin Therapy,Metoprolol 25mg,Post-op recovery,Margy Drummer
+360,1360,Hamza Jatoi,2023-05-19 21:14:36,81.3,101/92,95.7,Neurology,Pneumonia,Insulin Therapy,Morphine 10mg,Stable,Shay Cutchee
+361,1361,Fatima Ali,2023-12-20 23:31:14,58.3,133/71,94.9,Paediatrics,Neurology,IV Antihypertensives,Morphine 10mg,Post-op recovery,Hannis Parcells
+362,1362,Aisha Hashmi,2023-08-25 03:16:43,92.1,143/64,93.4,General,PaediatricsType 2 Diabetes,IV Antihypertensives,Ceftriaxone 1g IV,Critical — ventilator support,Obidiah Staynes
+363,1363,Hassan Siddiqui,2024-10-21 07:39:24,61.8,128/84,97.3,ICU,Appendicitis,Angioplasty,Metoprolol 25mg,Stable,Suzy Andreou
+364,1364,Maryam Farooqi,2024-09-05 23:42:28,58.0,108/61,95.3,General,Cardiology,IV Antihypertensives,Insulin 20 units,Post-op recovery,Samantha Congrave
+365,1365,Myra Hussain,2025-10-08 04:01:01,60.0,126/63,99.0,Orthopaedic,Cardiology,Appendectomy,Paracetamol 1g IV,Requires monitoring,Ginnie Hullins
+366,1366,Zainab Mughal,2025-06-11 19:31:06,106.9,110/81,92.4,Paediatrics,Pneumonia,Surgical Fixation,Paracetamol 1g IV,Improving,Bidget Turrell
+367,1367,Aisha Hashmi,2024-08-25 06:21:11,78.2,121/76,97.1,ICU,ICU,Thrombolysis,Insulin 20 units,Post-op recovery,Temple Frantzen
+368,1368,Bilal Farooqi,2023-04-22 17:29:44,93.2,136/72,96.7,Paediatrics,PaediatricsType 2 Diabetes,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Izzy Charleston
+369,1369,Khadija Siddiqui,2024-11-09 19:42:06,84.3,128/60,95.1,Paediatrics,Cardiology,Surgical Fixation,Heparin 5000 IU,Improving,Floris Wotherspoon
+370,1370,Bilal Chaudhary,2025-08-09 03:09:34,91.3,123/95,97.8,Paediatrics,Hypertensive Crisis,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Devi Bubbings
+371,1371,Hiba Gillani,2024-10-13 15:35:48,81.0,117/92,96.9,Paediatrics,Orthopaedic,Angioplasty,Insulin 20 units,Improving,Alexis Muldowney
+372,1372,Omar Rizvi,2024-03-13 13:12:27,72.5,105/69,95.1,Neurology,Pneumonia,Insulin Therapy,Insulin 20 units,Requires monitoring,Barthel Giffen
+373,1373,Aisha Iqbal,2025-04-13 02:55:10,77.8,149/67,93.9,General,Cardiology,Thrombolysis,Paracetamol 1g IV,Post-op recovery,Alastair Schiementz
+374,1374,Rehan Siddiqui,2024-04-25 10:28:56,66.7,135/94,98.5,Neurology,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Stable,Tabatha Hannam
+375,1375,Fatima Ahmed,2024-06-23 12:40:29,74.9,140/91,92.2,General,PaediatricsType 2 Diabetes,IV Antibiotics,Ceftriaxone 1g IV,Stable,Parker Pimlott
+376,1376,Dua Jatoi,2024-01-28 18:08:45,68.4,125/89,98.3,Paediatrics,ICU,Insulin Therapy,Heparin 5000 IU,Stable,Ave Stener
+377,1377,Sara Gillani,2023-12-12 06:17:03,69.4,135/65,92.4,Orthopaedic,PaediatricsType 2 Diabetes,Appendectomy,Heparin 5000 IU,Improving,Margalit Paffley
+378,1378,Sara Chaudhary,2024-10-21 13:59:25,90.7,150/69,97.0,General,Fractured Femur,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Ingunna McGilmartin
+379,1379,Noor Naqvi,2024-05-22 07:13:35,59.5,145/68,95.4,Cardiology,PaediatricsType 2 Diabetes,Thrombolysis,Metoprolol 25mg,Critical — ventilator support,Lita De Giorgis
+380,1380,Hiba Siddiqui,2024-07-21 20:00:41,59.5,131/94,97.0,Orthopaedic,Orthopaedic,IV Antibiotics,Metoprolol 25mg,Transferred from ICU,Lockwood Leithgoe
+381,1381,Anaya Mirza,2024-05-13 09:15:08,73.8,143/70,94.8,Neurology,Orthopaedic,Surgical Fixation,Insulin 20 units,Transferred from ICU,Janaye Durnian
+382,1382,Hassan Abbas,2023-03-18 07:46:44,73.3,146/78,98.1,ICU,Cardiology,Insulin Therapy,Paracetamol 1g IV,Requires monitoring,Idaline Drejer
+383,1383,Usman Khan,2023-12-06 07:37:04,61.0,130/61,92.5,ICU,General,Surgical Fixation,Metoprolol 25mg,Post-op recovery,Julius Pelman
+384,1384,Usman Mirza,2025-07-01 00:54:23,79.4,131/64,94.3,Cardiology,Hypertensive Crisis,IV Antihypertensives,Metoprolol 25mg,Requires monitoring,Regan Blasio
+385,1385,Sara Siddiqui,2023-06-03 13:55:29,82.1,137/85,98.6,Paediatrics,Orthopaedic,Surgical Fixation,Morphine 10mg,Stable,Oswald MacSkeagan
+386,1386,Ali Butt,2023-04-06 04:58:01,97.4,114/93,93.0,Cardiology,Fractured Femur,Surgical Fixation,Morphine 10mg,Improving,Maryjo Murrigan
+387,1387,Maryam Ahmed,2024-10-28 03:48:08,83.4,111/63,98.7,Paediatrics,Cardiology,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Jonathon Casella
+388,1388,Mahnoor Jatoi,2023-10-21 03:30:00,74.4,102/87,96.1,ICU,ICU,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Kelby Gumbrell
+389,1389,Fatima Iqbal,2023-10-13 03:37:31,63.7,150/61,95.4,General,Fractured Femur,Thrombolysis,Morphine 10mg,Improving,Joelle Groneway
+390,1390,Hassan Hashmi,2024-03-01 18:07:26,99.0,123/61,97.5,Neurology,Fractured Femur,Surgical Fixation,Ceftriaxone 1g IV,Critical — ventilator support,Miltie Tarbet
+391,1391,Ahmed Ali,2024-11-01 03:34:05,91.2,110/63,93.7,Cardiology,Fractured Femur,Appendectomy,Insulin 20 units,Post-op recovery,Brietta Bryant
+392,1392,Khadija Malik,2023-09-09 08:56:37,88.0,105/65,92.0,Cardiology,General,Appendectomy,Morphine 10mg,Transferred from ICU,Jase Geale
+393,1393,Hiba Khan,2023-11-15 22:15:55,90.3,122/93,97.2,Paediatrics,Neurology,Angioplasty,Insulin 20 units,Requires monitoring,Lewiss Epgrave
+394,1394,Hassan Gillani,2025-06-08 05:21:59,61.4,138/71,92.2,ICU,Fractured Femur,IV Antihypertensives,Insulin 20 units,Requires monitoring,William Glaum
+395,1395,Dua Butt,2024-01-10 04:02:22,80.8,135/64,98.5,General,Fractured Femur,Surgical Fixation,Paracetamol 1g IV,Post-op recovery,Patricia Tierney
+396,1396,Fatima Khan,2023-12-09 20:25:54,57.9,142/83,93.4,Orthopaedic,Cardiology,IV Antihypertensives,Metoprolol 25mg,Improving,Dotti Kellar
+397,1397,Khadija Abbas,2024-03-15 19:53:36,69.1,107/83,94.2,Neurology,Pneumonia,Thrombolysis,Metoprolol 25mg,Critical — ventilator support,Augustin Larne
+398,1398,Ibrahim Jatoi,2023-12-04 04:31:32,103.1,146/74,98.5,Orthopaedic,PaediatricsType 2 Diabetes,IV Antihypertensives,Metoprolol 25mg,Stable,Cirstoforo Poge
+399,1399,Ahmed Mirza,2023-08-01 10:16:04,79.7,136/65,97.1,Orthopaedic,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Ekaterina Rumble
+400,1400,Mahnoor Shah,2025-08-16 02:16:59,72.1,140/83,94.9,General,Cardiology,Thrombolysis,Paracetamol 1g IV,Transferred from ICU,Barde Roddell
+401,1401,Myra Ahmed,2024-12-26 21:54:10,105.5,106/86,93.3,Orthopaedic,Pneumonia,IV Antibiotics,Morphine 10mg,Requires monitoring,Noellyn Chell
+402,1402,Ibrahim Gillani,2023-06-28 13:48:54,77.6,145/71,92.3,General,PaediatricsType 2 Diabetes,Surgical Fixation,Ceftriaxone 1g IV,Critical — ventilator support,Moll Attride
+403,1403,Maryam Naqvi,2023-10-01 00:55:47,109.9,109/81,94.1,Cardiology,Hypertensive Crisis,Insulin Therapy,Heparin 5000 IU,Post-op recovery,Bram Bignold
+404,1404,Hassan Iqbal,2025-08-05 08:46:28,85.6,116/79,92.1,ICU,Hypertensive Crisis,Appendectomy,Heparin 5000 IU,Requires monitoring,Brewster Haygreen
+405,1405,Aisha Afridi,2024-12-14 18:48:47,89.5,146/90,97.4,ICU,Acute Myocardial Infarction,Thrombolysis,Insulin 20 units,Improving,Whitby Selman
+406,1406,Myra Afridi,2023-01-31 03:50:59,78.2,143/77,92.4,Cardiology,Appendicitis,Appendectomy,Metoprolol 25mg,Stable,Sal Darwen
+407,1407,Mustafa Ahmed,2023-05-31 06:01:17,68.7,149/61,92.6,General,Fractured Femur,IV Antihypertensives,Metoprolol 25mg,Stable,Wiley Stearns
+408,1408,Mustafa Ahmed,2023-05-08 10:16:12,92.7,131/66,92.4,Cardiology,Fractured Femur,Insulin Therapy,Heparin 5000 IU,Improving,Erik Barbier
+409,1409,Maryam Sheikh,2023-11-18 06:10:14,67.3,130/93,96.2,Neurology,Appendicitis,IV Antibiotics,Metoprolol 25mg,Critical — ventilator support,Jerrylee Grahlmans
+410,1410,Myra Abbas,2023-08-11 16:32:38,99.6,100/67,97.1,General,ICU,Surgical Fixation,Heparin 5000 IU,Requires monitoring,Sayres Cumpton
+411,1411,Mustafa Abbas,2024-10-19 00:31:56,76.8,102/87,93.6,Cardiology,Fractured Femur,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Faulkner Surgeon
+412,1412,Mahnoor Mirza,2025-12-24 06:47:24,95.2,102/75,96.0,ICU,Ischemic Stroke,IV Antihypertensives,Paracetamol 1g IV,Improving,Roxi Nelmes
+413,1413,Hassan Siddiqui,2023-01-14 19:12:10,81.2,100/89,96.1,Orthopaedic,PaediatricsType 2 Diabetes,Appendectomy,Insulin 20 units,Critical — ventilator support,Chandal Casebourne
+414,1414,Anaya Butt,2025-12-17 00:18:33,93.2,131/75,93.0,Paediatrics,Hypertensive Crisis,Thrombolysis,Morphine 10mg,Critical — ventilator support,Nollie Swayne
+415,1415,Fatima Ahmed,2025-10-25 11:26:26,62.4,123/65,93.0,Orthopaedic,General,IV Antihypertensives,Insulin 20 units,Critical — ventilator support,Jacob Lascell
+416,1416,Hassan Sheikh,2023-10-27 11:00:15,82.3,127/68,95.6,Orthopaedic,Ischemic Stroke,Insulin Therapy,Paracetamol 1g IV,Requires monitoring,Francisca Cauldfield
+417,1417,Sara Naqvi,2024-09-15 10:58:15,109.4,149/69,93.4,Paediatrics,ICU,IV Antibiotics,Paracetamol 1g IV,Stable,Reeba Mehmet
+418,1418,Sara Mughal,2024-12-16 13:11:22,72.6,124/66,98.9,Neurology,Orthopaedic,IV Antibiotics,Insulin 20 units,Stable,Noni Gipp
+419,1419,Mahnoor Sheikh,2024-09-09 11:23:58,71.4,112/91,96.6,Orthopaedic,Orthopaedic,Surgical Fixation,Heparin 5000 IU,Post-op recovery,Jamie Bullen
+420,1420,Khadija Gillani,2023-12-07 05:52:08,83.1,126/81,97.9,Neurology,ICU,Insulin Therapy,Heparin 5000 IU,Improving,Devondra Phaup
+421,1421,Sara Bajwa,2024-11-08 23:36:25,73.5,118/90,96.7,Orthopaedic,Acute Myocardial Infarction,Surgical Fixation,Paracetamol 1g IV,Stable,Berrie Blown
+422,1422,Mahnoor Ali,2024-06-26 03:00:03,77.0,125/91,94.9,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Heparin 5000 IU,Post-op recovery,Nady Raywood
+423,1423,Anaya Naqvi,2024-11-27 04:03:02,105.0,121/70,98.7,Orthopaedic,ICU,Appendectomy,Paracetamol 1g IV,Requires monitoring,Alia Peverell
+424,1424,Zainab Malik,2025-06-04 21:09:13,57.5,118/77,98.8,Paediatrics,Cardiology,IV Antibiotics,Ceftriaxone 1g IV,Post-op recovery,Queenie Huntington
+425,1425,Aisha Siddiqui,2024-01-24 19:45:12,92.6,108/65,96.7,General,PaediatricsType 2 Diabetes,Surgical Fixation,Insulin 20 units,Stable,Lynsey Franzonello
+426,1426,Rehan Lodhi,2023-02-14 12:25:14,80.0,101/69,97.5,Neurology,Hypertensive Crisis,Angioplasty,Morphine 10mg,Improving,Avram Poser
+427,1427,Myra Malik,2025-05-30 07:12:34,58.0,114/92,94.4,Neurology,Hypertensive Crisis,Appendectomy,Metoprolol 25mg,Requires monitoring,Charlena Pheby
+428,1428,Hamza Lodhi,2025-04-13 03:46:46,76.6,121/87,95.6,Paediatrics,PaediatricsType 2 Diabetes,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Karlens Holwell
+429,1429,Mustafa Mirza,2025-12-20 09:25:55,75.6,146/69,94.3,Neurology,ICU,Angioplasty,Morphine 10mg,Transferred from ICU,Becki Flescher
+430,1430,Fatima Qureshi,2024-05-28 13:40:44,106.6,113/68,98.3,Paediatrics,Appendicitis,Thrombolysis,Insulin 20 units,Critical — ventilator support,Carl Morphew
+431,1431,Aisha Bajwa,2025-03-16 11:58:01,77.3,115/93,93.2,Neurology,Hypertensive Crisis,Angioplasty,Heparin 5000 IU,Requires monitoring,Regan Billinge
+432,1432,Sara Lodhi,2025-07-25 20:03:48,71.2,120/88,95.9,Cardiology,Orthopaedic,Appendectomy,Paracetamol 1g IV,Improving,Noelani Sazio
+433,1433,Hiba Ali,2025-09-23 22:40:09,97.9,126/86,93.3,ICU,PaediatricsType 2 Diabetes,Thrombolysis,Morphine 10mg,Improving,Ilyssa Urry
+434,1434,Ali Afridi,2025-12-15 00:24:14,88.3,145/72,92.7,Neurology,Hypertensive Crisis,Thrombolysis,Insulin 20 units,Critical — ventilator support,L;urette Verbruggen
+435,1435,Sana Abbas,2023-07-21 21:47:43,57.1,119/67,97.3,Paediatrics,PaediatricsType 2 Diabetes,Insulin Therapy,Heparin 5000 IU,Transferred from ICU,Nan Montrose
+436,1436,Zaid Aziz,2023-02-03 07:26:24,76.6,111/66,94.0,General,General,IV Antihypertensives,Ceftriaxone 1g IV,Post-op recovery,Juline O'Scanlon
+437,1437,Mahnoor Jatoi,2025-01-23 05:49:36,77.6,102/95,96.8,Cardiology,Neurology,Appendectomy,Heparin 5000 IU,Improving,Dasie Edards
+438,1438,Zainab Malik,2025-11-26 09:40:53,92.3,128/87,93.2,Paediatrics,Orthopaedic,Insulin Therapy,Insulin 20 units,Post-op recovery,Wallace Ragborne
+439,1439,Ahmed Hashmi,2023-08-09 04:51:23,89.7,124/86,94.5,General,PaediatricsType 2 Diabetes,Appendectomy,Morphine 10mg,Stable,Marcelle Benka
+440,1440,Maryam Ali,2023-11-04 05:13:14,70.4,101/71,92.6,Neurology,Fractured Femur,Thrombolysis,Insulin 20 units,Post-op recovery,Townsend Ackerley
+441,1441,Hassan Bajwa,2025-08-24 13:31:00,59.2,101/92,98.1,Orthopaedic,PaediatricsType 2 Diabetes,Angioplasty,Morphine 10mg,Stable,Henrie Arsey
+442,1442,Dua Naqvi,2024-04-05 15:48:55,77.8,106/62,93.0,Orthopaedic,Neurology,IV Antibiotics,Metoprolol 25mg,Requires monitoring,Dennie Bonnell
+443,1443,Zaid Ahmed,2024-07-24 08:34:52,64.4,117/80,92.5,Cardiology,Neurology,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Silas Cordeix
+444,1444,Rehan Lodhi,2025-04-30 02:54:17,105.5,107/82,96.2,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Metoprolol 25mg,Post-op recovery,Bartram Mayzes
+445,1445,Fatima Gillani,2023-07-28 07:15:19,84.3,106/65,93.1,Cardiology,ICU,Appendectomy,Insulin 20 units,Stable,Ruthi Gabb
+446,1446,Fatima Ahmed,2024-01-04 07:25:33,84.5,104/90,98.9,Cardiology,General,Insulin Therapy,Morphine 10mg,Requires monitoring,Marlin Bellefant
+447,1447,Zaid Mirza,2023-11-22 20:50:34,63.1,120/63,93.1,Orthopaedic,Pneumonia,Appendectomy,Insulin 20 units,Transferred from ICU,Staci Dalla
+448,1448,Usman Gillani,2025-05-07 15:49:30,104.7,108/77,98.6,General,Pneumonia,Thrombolysis,Morphine 10mg,Stable,Frazier Frango
+449,1449,Hamza Afridi,2024-11-05 00:07:11,96.8,110/74,96.0,Cardiology,Acute Myocardial Infarction,IV Antibiotics,Insulin 20 units,Improving,Boonie Goad
+450,1450,Noor Ahmed,2023-10-22 10:51:26,60.2,131/60,97.4,Neurology,Hypertensive Crisis,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Bevvy Wrotham
+451,1451,Zaid Sheikh,2024-07-22 15:34:54,105.1,131/71,94.7,Orthopaedic,Cardiology,Insulin Therapy,Heparin 5000 IU,Transferred from ICU,Lorilyn Shadwick
+452,1452,Hiba Naqvi,2025-02-26 10:13:24,66.8,107/81,95.9,Cardiology,PaediatricsType 2 Diabetes,IV Antihypertensives,Paracetamol 1g IV,Requires monitoring,Sharity Gosker
+453,1453,Usman Bajwa,2025-07-13 16:10:31,81.4,101/87,93.7,General,ICU,Angioplasty,Metoprolol 25mg,Critical — ventilator support,Noland Normanell
+454,1454,Usman Khan,2023-04-16 05:53:11,90.1,142/74,92.0,Cardiology,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Gillan Kniveton
+455,1455,Hassan Jatoi,2024-12-02 21:53:08,94.8,149/86,94.2,ICU,Ischemic Stroke,Insulin Therapy,Ceftriaxone 1g IV,Requires monitoring,Raymund Syne
+456,1456,Hiba Malik,2025-07-11 13:10:20,92.1,133/80,96.4,Neurology,ICU,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Saundra De Blase
+457,1457,Sana Qureshi,2025-09-01 08:11:24,108.1,131/88,92.4,ICU,Appendicitis,Surgical Fixation,Ceftriaxone 1g IV,Stable,Kally Mackerel
+458,1458,Hamza Rizvi,2024-11-18 23:06:28,74.4,136/79,93.9,Paediatrics,Orthopaedic,Appendectomy,Insulin 20 units,Post-op recovery,Milissent McAster
+459,1459,Hamza Rizvi,2025-06-27 21:24:45,95.7,135/91,97.4,Paediatrics,Pneumonia,Insulin Therapy,Ceftriaxone 1g IV,Requires monitoring,Leodora Hilley
+460,1460,Hiba Naqvi,2025-09-15 21:37:44,78.6,114/90,95.8,Cardiology,Pneumonia,IV Antihypertensives,Paracetamol 1g IV,Critical — ventilator support,Jere Cunde
+461,1461,Usman Malik,2024-04-04 18:05:05,82.2,140/69,97.1,General,General,IV Antihypertensives,Paracetamol 1g IV,Stable,Rozalie Leggatt
+462,1462,Sara Sheikh,2025-11-22 08:50:06,106.2,133/78,96.1,Paediatrics,Ischemic Stroke,Surgical Fixation,Ceftriaxone 1g IV,Transferred from ICU,Raphaela Wapples
+463,1463,Dua Rizvi,2025-11-20 06:49:46,58.8,119/85,98.4,Cardiology,Appendicitis,Appendectomy,Metoprolol 25mg,Requires monitoring,El Cosgrive
+464,1464,Myra Lodhi,2025-10-15 17:21:31,67.5,133/95,97.3,General,PaediatricsType 2 Diabetes,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Audrye Stallibrass
+465,1465,Dua Malik,2024-11-08 17:44:31,80.6,115/70,92.7,Paediatrics,Fractured Femur,Surgical Fixation,Ceftriaxone 1g IV,Critical — ventilator support,Darb Plummer
+466,1466,Hassan Hashmi,2024-10-06 14:55:05,69.4,144/65,92.5,Orthopaedic,Fractured Femur,Appendectomy,Heparin 5000 IU,Transferred from ICU,Ferdy Fryd
+467,1467,Sara Iqbal,2023-07-20 08:51:08,90.2,110/93,96.1,ICU,Appendicitis,Appendectomy,Morphine 10mg,Transferred from ICU,Elga Southan
+468,1468,Khadija Shah,2023-12-06 09:19:16,60.9,134/60,93.2,Orthopaedic,PaediatricsType 2 Diabetes,Angioplasty,Metoprolol 25mg,Transferred from ICU,Bonny Kears
+469,1469,Fatima Naqvi,2025-03-25 09:08:51,93.9,121/78,95.7,Orthopaedic,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Wait Penner
+470,1470,Ibrahim Hashmi,2023-06-05 11:23:51,62.8,115/67,94.7,Neurology,Acute Myocardial Infarction,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Dottie Trumper
+471,1471,Maryam Khan,2024-09-11 01:35:54,91.6,103/71,94.0,General,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Post-op recovery,Bucky Brothwood
+472,1472,Sana Abbas,2024-06-29 05:20:53,89.6,133/93,98.7,Orthopaedic,Pneumonia,Insulin Therapy,Metoprolol 25mg,Improving,Markus Tizzard
+473,1473,Aisha Iqbal,2023-07-02 14:39:07,99.4,110/87,97.2,ICU,Acute Myocardial Infarction,Appendectomy,Paracetamol 1g IV,Stable,Brandtr Hoopper
+474,1474,Bilal Naqvi,2023-01-01 12:30:17,59.9,137/83,94.5,General,Hypertensive Crisis,IV Antibiotics,Metoprolol 25mg,Stable,Susann Messer
+475,1475,Omar Jatoi,2025-11-07 09:03:36,108.3,109/74,94.3,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Ceftriaxone 1g IV,Post-op recovery,Jory Mottershaw
+476,1476,Fatima Qureshi,2025-11-16 21:26:01,87.7,120/84,96.5,Orthopaedic,PaediatricsType 2 Diabetes,Appendectomy,Insulin 20 units,Stable,Jacquelin Rowlin
+477,1477,Zaid Lodhi,2024-01-29 07:50:18,108.9,120/79,93.0,Orthopaedic,Pneumonia,Angioplasty,Insulin 20 units,Improving,Hewet Prys
+478,1478,Aisha Naqvi,2025-02-14 22:17:15,61.2,125/95,97.4,Paediatrics,Acute Myocardial Infarction,Insulin Therapy,Ceftriaxone 1g IV,Critical — ventilator support,Malva Shakelady
+479,1479,Hassan Farooqi,2024-02-15 13:13:58,99.6,143/78,94.5,Neurology,Acute Myocardial Infarction,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Conroy Shaughnessy
+480,1480,Sana Afridi,2025-10-15 01:44:13,95.1,103/85,98.4,Neurology,Pneumonia,Thrombolysis,Insulin 20 units,Stable,Nomi Richichi
+481,1481,Zaid Naqvi,2023-08-04 07:12:53,89.1,106/84,92.7,Orthopaedic,ICU,Thrombolysis,Morphine 10mg,Requires monitoring,Romeo Crebbin
+482,1482,Noor Butt,2023-02-02 07:31:06,59.4,143/88,98.5,ICU,Orthopaedic,IV Antibiotics,Insulin 20 units,Transferred from ICU,Nolly Dougan
+483,1483,Hiba Malik,2024-02-24 10:09:33,89.0,104/76,94.9,Orthopaedic,PaediatricsType 2 Diabetes,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Ezequiel Bernth
+484,1484,Myra Afridi,2025-11-19 16:13:30,84.3,141/84,95.2,ICU,Acute Myocardial Infarction,IV Antihypertensives,Morphine 10mg,Transferred from ICU,Conny Yearron
+485,1485,Sana Lodhi,2023-02-14 00:19:22,79.4,122/83,93.1,Neurology,General,IV Antihypertensives,Heparin 5000 IU,Stable,Jon Gyrgorwicx
+486,1486,Arsalan Sheikh,2025-11-10 14:39:02,75.5,108/78,92.3,ICU,Appendicitis,Appendectomy,Insulin 20 units,Post-op recovery,Gussi Glendzer
+487,1487,Hiba Farooqi,2025-02-11 00:42:01,101.2,135/77,98.9,ICU,Acute Myocardial Infarction,IV Antihypertensives,Insulin 20 units,Improving,Enrique Chesshyre
+488,1488,Omar Gillani,2023-02-21 09:29:58,63.4,123/95,97.9,Neurology,Fractured Femur,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Bren MacKowle
+489,1489,Hassan Ali,2024-03-03 21:53:53,56.2,100/95,95.1,General,Cardiology,Angioplasty,Ceftriaxone 1g IV,Requires monitoring,Luciana Laxton
+490,1490,Fatima Gillani,2025-08-27 12:26:44,92.2,139/71,94.1,General,ICU,Appendectomy,Heparin 5000 IU,Requires monitoring,Callie Ferrolli
+491,1491,Maryam Mughal,2025-07-15 13:09:48,73.4,101/62,93.5,ICU,Appendicitis,IV Antihypertensives,Heparin 5000 IU,Stable,Margaretha Grishkov
+492,1492,Mahnoor Khan,2024-09-21 13:39:47,95.7,147/67,94.4,Orthopaedic,General,Angioplasty,Ceftriaxone 1g IV,Improving,Klarrisa Offill
+493,1493,Fatima Ahmed,2025-11-15 13:58:26,102.1,100/74,94.7,Orthopaedic,General,IV Antibiotics,Morphine 10mg,Requires monitoring,Nikkie Lucy
+494,1494,Myra Khan,2024-03-16 12:42:55,96.1,135/76,95.0,ICU,General,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Odelia Farnall
+495,1495,Anaya Mirza,2025-07-06 16:11:09,55.1,108/90,97.5,General,Fractured Femur,Insulin Therapy,Insulin 20 units,Transferred from ICU,Julie Galtone
+496,1496,Omar Afridi,2023-12-09 18:11:37,60.3,101/69,97.8,General,Fractured Femur,Thrombolysis,Insulin 20 units,Stable,Jana Adriaens
+497,1497,Maryam Ali,2025-10-02 23:29:29,80.0,129/60,97.9,Neurology,Appendicitis,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Darcee Stening
+498,1498,Omar Abbas,2025-07-05 19:34:07,79.8,120/81,98.0,Paediatrics,Pneumonia,IV Antihypertensives,Insulin 20 units,Critical — ventilator support,Andreana Weatherburn
+499,1499,Aisha Ali,2023-05-18 14:05:03,99.5,104/63,97.6,Paediatrics,Orthopaedic,IV Antihypertensives,Insulin 20 units,Post-op recovery,Alfi Culy
+500,1500,Anaya Qureshi,2023-02-12 13:48:08,60.6,126/66,94.0,ICU,Orthopaedic,Angioplasty,Ceftriaxone 1g IV,Requires monitoring,Eleni Taylorson
+501,1501,Mahnoor Rizvi,2025-01-26 13:13:40,76.4,102/72,95.9,ICU,General,Insulin Therapy,Heparin 5000 IU,Critical — ventilator support,Daffie Ankers
+502,1502,Aisha Naqvi,2023-07-06 16:46:59,110.0,150/88,96.4,ICU,Neurology,Appendectomy,Metoprolol 25mg,Critical — ventilator support,Verina O'Halloran
+503,1503,Ibrahim Naqvi,2025-12-18 23:07:04,109.7,115/62,96.0,ICU,Hypertensive Crisis,Appendectomy,Insulin 20 units,Critical — ventilator support,Ruperta Saffen
+504,1504,Sana Shah,2025-03-23 09:28:15,106.3,143/70,96.0,Orthopaedic,General,Surgical Fixation,Metoprolol 25mg,Stable,Mela Lane
+505,1505,Bilal Sheikh,2025-04-08 15:04:12,76.9,121/61,93.1,General,Neurology,Insulin Therapy,Heparin 5000 IU,Improving,Brockie Filinkov
+506,1506,Maryam Aziz,2023-12-27 02:21:03,65.6,108/65,92.9,ICU,Cardiology,Thrombolysis,Ceftriaxone 1g IV,Post-op recovery,Burg Easseby
+507,1507,Zainab Hashmi,2024-10-03 17:17:57,85.2,143/80,95.4,ICU,PaediatricsType 2 Diabetes,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Magdaia Bousler
+508,1508,Sara Afridi,2024-12-13 07:41:39,71.1,128/64,98.7,General,Appendicitis,Surgical Fixation,Heparin 5000 IU,Critical — ventilator support,Perice Oxborrow
+509,1509,Hiba Sheikh,2023-03-04 22:46:18,70.4,103/82,93.0,Neurology,Orthopaedic,Surgical Fixation,Heparin 5000 IU,Stable,Buckie Rottenbury
+510,1510,Ali Farooqi,2024-05-02 08:13:42,90.1,103/61,95.2,Cardiology,PaediatricsType 2 Diabetes,Insulin Therapy,Heparin 5000 IU,Stable,Clea Pirdue
+511,1511,Ahmed Shah,2023-02-01 20:19:05,61.1,145/93,94.7,General,Fractured Femur,Surgical Fixation,Metoprolol 25mg,Critical — ventilator support,Estell Chasemore
+512,1512,Myra Ali,2025-09-22 16:40:33,68.6,144/86,94.2,Neurology,Appendicitis,Appendectomy,Morphine 10mg,Critical — ventilator support,Umeko Berrygun
+513,1513,Zaid Gillani,2024-02-07 00:44:14,100.5,105/70,98.4,Orthopaedic,Appendicitis,Appendectomy,Metoprolol 25mg,Improving,Isobel De Nisco
+514,1514,Hamza Mirza,2023-03-14 18:33:45,73.6,104/81,95.9,ICU,Neurology,Thrombolysis,Insulin 20 units,Requires monitoring,Penny Corby
+515,1515,Arsalan Jatoi,2025-03-24 09:31:29,90.7,132/75,92.2,ICU,Orthopaedic,IV Antibiotics,Heparin 5000 IU,Transferred from ICU,Miguela Swinburn
+516,1516,Usman Ali,2024-09-28 15:44:55,97.2,141/80,97.7,General,Neurology,IV Antihypertensives,Metoprolol 25mg,Stable,Christie Bachelar
+517,1517,Omar Shah,2024-11-03 03:29:41,59.3,109/64,92.7,Neurology,Appendicitis,IV Antibiotics,Morphine 10mg,Post-op recovery,Nadia Zemler
+518,1518,Hassan Khan,2024-10-29 06:42:43,95.8,130/95,92.0,ICU,ICU,Angioplasty,Metoprolol 25mg,Transferred from ICU,Sheff Beavors
+519,1519,Aisha Siddiqui,2024-12-09 09:47:31,90.8,137/62,97.2,Cardiology,Fractured Femur,IV Antibiotics,Morphine 10mg,Improving,Theobald Billo
+520,1520,Omar Mughal,2023-07-23 11:09:18,86.6,145/88,96.8,Orthopaedic,Cardiology,Thrombolysis,Paracetamol 1g IV,Transferred from ICU,Land Greeveson
+521,1521,Aisha Shah,2023-05-08 17:16:22,61.5,132/65,95.8,Orthopaedic,Pneumonia,IV Antibiotics,Heparin 5000 IU,Critical — ventilator support,Atlante Marquet
+522,1522,Aisha Bajwa,2023-07-20 23:35:21,81.7,103/63,97.1,Neurology,Pneumonia,IV Antihypertensives,Insulin 20 units,Post-op recovery,Lanette Huntingdon
+523,1523,Omar Qureshi,2025-10-13 08:16:12,73.3,148/93,98.8,Neurology,Ischemic Stroke,Surgical Fixation,Metoprolol 25mg,Stable,Dorian Rawkesby
+524,1524,Ali Mirza,2025-06-09 19:11:57,86.4,103/65,93.6,Neurology,General,IV Antihypertensives,Morphine 10mg,Improving,Giulia Birkmyr
+525,1525,Noor Mughal,2024-07-14 16:25:49,100.3,128/81,98.2,ICU,Pneumonia,IV Antibiotics,Morphine 10mg,Improving,Theobald Eliez
+526,1526,Rehan Sheikh,2025-07-06 08:16:24,89.8,118/80,98.4,General,ICU,Appendectomy,Ceftriaxone 1g IV,Stable,Dinny Brockwell
+527,1527,Hassan Afridi,2025-03-18 20:41:32,90.3,132/72,94.3,ICU,Acute Myocardial Infarction,Thrombolysis,Heparin 5000 IU,Requires monitoring,Elden Sharer
+528,1528,Ibrahim Iqbal,2025-10-26 22:03:21,102.0,101/82,97.7,Orthopaedic,Hypertensive Crisis,Angioplasty,Morphine 10mg,Requires monitoring,Liesa Cattellion
+529,1529,Anaya Mirza,2025-09-29 15:46:39,83.4,103/89,94.7,General,ICU,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Torey Ridgers
+530,1530,Mustafa Bajwa,2025-09-25 15:18:05,97.4,139/74,98.8,Cardiology,Orthopaedic,Surgical Fixation,Metoprolol 25mg,Requires monitoring,Bar Scrowton
+531,1531,Sana Sheikh,2025-06-05 15:21:27,94.2,138/92,95.8,Orthopaedic,Pneumonia,Thrombolysis,Ceftriaxone 1g IV,Critical — ventilator support,Janina Cameron
+532,1532,Rehan Ahmed,2023-01-23 20:53:21,98.0,116/91,98.9,Paediatrics,Appendicitis,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Franklyn Ilyinykh
+533,1533,Usman Chaudhary,2025-12-30 22:56:02,65.9,135/61,96.5,Paediatrics,ICU,Insulin Therapy,Metoprolol 25mg,Post-op recovery,Jesse Craigg
+534,1534,Zaid Khan,2023-02-04 23:20:58,67.2,128/60,97.9,ICU,PaediatricsType 2 Diabetes,Insulin Therapy,Metoprolol 25mg,Improving,Cosimo McElane
+535,1535,Omar Mughal,2025-11-02 08:02:58,80.2,134/82,98.3,ICU,Acute Myocardial Infarction,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Dolli Girardy
+536,1536,Zainab Lodhi,2024-11-08 17:50:52,66.3,101/73,95.0,General,Appendicitis,Appendectomy,Insulin 20 units,Critical — ventilator support,Claire Galler
+537,1537,Hamza Jatoi,2024-07-07 12:19:59,96.8,142/93,95.6,Cardiology,Acute Myocardial Infarction,Thrombolysis,Paracetamol 1g IV,Improving,Constantin Weight
+538,1538,Maryam Farooqi,2023-11-17 04:36:03,99.9,148/73,99.0,General,Ischemic Stroke,Angioplasty,Ceftriaxone 1g IV,Transferred from ICU,Wally Donovan
+539,1539,Zaid Farooqi,2024-03-08 07:08:20,84.3,100/92,94.6,ICU,Hypertensive Crisis,Angioplasty,Paracetamol 1g IV,Critical — ventilator support,Gilberte Davidovics
+540,1540,Anaya Ahmed,2024-01-30 19:45:19,94.8,106/69,93.5,Paediatrics,PaediatricsType 2 Diabetes,Insulin Therapy,Insulin 20 units,Post-op recovery,Honoria Dulanty
+541,1541,Ahmed Malik,2023-01-05 19:23:45,89.0,122/84,92.2,Cardiology,Appendicitis,Surgical Fixation,Insulin 20 units,Post-op recovery,Misha Decker
+542,1542,Hamza Malik,2025-11-17 07:02:50,64.6,135/62,93.1,ICU,Appendicitis,Angioplasty,Paracetamol 1g IV,Critical — ventilator support,Agnella Gookes
+543,1543,Usman Rizvi,2023-06-07 02:34:55,91.4,107/84,93.3,Orthopaedic,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Requires monitoring,Henri Sertin
+544,1544,Hassan Mirza,2025-07-29 03:50:51,92.6,115/95,95.3,Paediatrics,Orthopaedic,IV Antibiotics,Paracetamol 1g IV,Critical — ventilator support,Corrie Sepey
+545,1545,Bilal Naqvi,2025-11-18 12:44:05,93.0,104/70,98.9,ICU,PaediatricsType 2 Diabetes,Appendectomy,Insulin 20 units,Improving,Petra Saltsberg
+546,1546,Maryam Rizvi,2023-12-09 02:08:19,90.5,135/72,93.8,ICU,Hypertensive Crisis,IV Antibiotics,Metoprolol 25mg,Improving,Abbie Corbitt
+547,1547,Aisha Mirza,2025-03-26 02:46:09,89.6,132/78,92.8,Cardiology,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Clayson Gatteridge
+548,1548,Omar Sheikh,2024-01-28 05:14:00,82.7,132/67,96.4,Orthopaedic,PaediatricsType 2 Diabetes,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Riane Darcy
+549,1549,Ibrahim Mughal,2025-12-03 02:59:05,107.6,111/71,98.1,Neurology,Cardiology,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Montgomery Tomaszewicz
+550,1550,Anaya Siddiqui,2025-03-29 10:03:33,74.3,149/82,95.5,ICU,Ischemic Stroke,Thrombolysis,Insulin 20 units,Stable,Matilda Bruin
+551,1551,Anaya Chaudhary,2023-10-07 18:44:00,68.8,102/88,96.3,Cardiology,PaediatricsType 2 Diabetes,IV Antibiotics,Insulin 20 units,Improving,Claudelle Waberer
+552,1552,Myra Iqbal,2023-10-06 19:20:29,56.1,102/94,98.7,ICU,Ischemic Stroke,Appendectomy,Heparin 5000 IU,Transferred from ICU,Jamie Shilleto
+553,1553,Noor Qureshi,2024-09-28 06:53:04,70.3,148/66,99.0,General,Cardiology,Angioplasty,Insulin 20 units,Transferred from ICU,Brooks Jewsbury
+554,1554,Sana Bajwa,2024-05-20 02:31:31,99.7,128/60,92.9,Paediatrics,Fractured Femur,Appendectomy,Paracetamol 1g IV,Improving,Port Tows
+555,1555,Hassan Iqbal,2024-10-26 07:25:43,62.0,101/67,97.8,ICU,Ischemic Stroke,Appendectomy,Metoprolol 25mg,Stable,Artie Muzzillo
+556,1556,Rehan Chaudhary,2024-10-28 02:18:55,76.9,127/75,92.5,Paediatrics,Orthopaedic,Insulin Therapy,Metoprolol 25mg,Improving,Jessey Rochester
+557,1557,Maryam Jatoi,2023-01-08 00:57:40,72.9,135/60,97.6,Orthopaedic,Ischemic Stroke,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Antonino Robilliard
+558,1558,Mustafa Siddiqui,2025-01-10 14:17:07,91.6,131/72,96.1,Neurology,Hypertensive Crisis,Appendectomy,Morphine 10mg,Critical — ventilator support,Cal Clarricoates
+559,1559,Zainab Siddiqui,2025-02-11 04:55:05,80.2,109/87,95.1,Cardiology,Ischemic Stroke,Insulin Therapy,Metoprolol 25mg,Transferred from ICU,Jeffry Adriaens
+560,1560,Fatima Siddiqui,2023-09-17 15:45:55,90.6,144/67,96.5,Orthopaedic,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Thom Kilmaster
+561,1561,Anaya Iqbal,2024-04-26 22:12:17,85.7,143/86,97.9,Cardiology,Cardiology,Surgical Fixation,Ceftriaxone 1g IV,Post-op recovery,Pearl Murray
+562,1562,Maryam Mirza,2025-01-02 10:44:51,64.6,125/91,95.3,ICU,Neurology,Surgical Fixation,Insulin 20 units,Stable,Opaline Buncher
+563,1563,Noor Iqbal,2023-10-14 09:06:20,82.6,124/65,93.1,Cardiology,Ischemic Stroke,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Clarita Novill
+564,1564,Hamza Ali,2024-12-22 13:09:25,105.0,137/70,92.3,General,Pneumonia,Angioplasty,Heparin 5000 IU,Critical — ventilator support,Lissie Burnyeat
+565,1565,Hassan Aziz,2024-11-07 23:54:46,99.5,148/73,98.9,General,Acute Myocardial Infarction,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Helyn Gronaller
+566,1566,Hassan Jatoi,2025-07-04 07:01:39,101.5,115/71,97.2,Neurology,Acute Myocardial Infarction,Insulin Therapy,Morphine 10mg,Critical — ventilator support,Paulo Lavender
+567,1567,Sara Butt,2024-05-14 19:02:12,74.6,129/92,96.4,General,ICU,Insulin Therapy,Morphine 10mg,Stable,Arthur Scotchmur
+568,1568,Hassan Hussain,2024-02-17 17:39:20,63.5,112/74,95.7,Paediatrics,PaediatricsType 2 Diabetes,Insulin Therapy,Insulin 20 units,Post-op recovery,Cordie Mandrier
+569,1569,Omar Gillani,2025-08-21 18:06:06,80.6,110/65,92.3,Paediatrics,Ischemic Stroke,IV Antibiotics,Morphine 10mg,Transferred from ICU,Terri Laugherane
+570,1570,Arsalan Bajwa,2023-03-24 12:40:06,61.7,148/75,95.3,Paediatrics,ICU,IV Antibiotics,Insulin 20 units,Requires monitoring,Joscelin Jankovsky
+571,1571,Anaya Jatoi,2023-02-07 11:43:48,80.8,120/66,93.8,Paediatrics,Fractured Femur,Appendectomy,Heparin 5000 IU,Post-op recovery,Adriano Dunne
+572,1572,Sara Butt,2023-07-15 17:17:28,98.7,150/80,92.3,Neurology,Cardiology,Appendectomy,Metoprolol 25mg,Improving,Gus Kubicka
+573,1573,Sara Abbas,2025-06-15 04:12:01,71.2,107/88,97.6,General,Cardiology,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Coletta Chaudron
+574,1574,Mahnoor Bajwa,2025-12-02 09:15:27,105.6,141/67,98.1,General,Appendicitis,Surgical Fixation,Insulin 20 units,Critical — ventilator support,Dre Tabbernor
+575,1575,Ali Ahmed,2025-02-10 05:31:18,77.8,112/69,94.7,Orthopaedic,Cardiology,Angioplasty,Morphine 10mg,Critical — ventilator support,Rayshell Cartmail
+576,1576,Dua Lodhi,2025-05-09 05:36:08,99.9,149/92,96.4,General,Pneumonia,Thrombolysis,Ceftriaxone 1g IV,Requires monitoring,Sallie McAvaddy
+577,1577,Hamza Malik,2023-11-23 04:14:36,70.7,135/90,97.0,General,Neurology,Angioplasty,Morphine 10mg,Improving,Sherlock Stroder
+578,1578,Hassan Abbas,2024-09-11 09:32:29,64.7,148/66,94.2,ICU,Pneumonia,Thrombolysis,Morphine 10mg,Requires monitoring,Waiter Forton
+579,1579,Sana Hashmi,2023-12-09 02:09:03,76.3,141/62,95.9,General,Orthopaedic,IV Antibiotics,Ceftriaxone 1g IV,Stable,Wilburt Hughes
+580,1580,Fatima Chaudhary,2024-09-22 12:58:46,86.6,132/65,93.2,Neurology,Acute Myocardial Infarction,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Carissa Rodder
+581,1581,Aisha Naqvi,2025-08-25 11:36:04,87.5,113/71,94.3,General,Acute Myocardial Infarction,IV Antihypertensives,Ceftriaxone 1g IV,Critical — ventilator support,Dyana Osgardby
+582,1582,Ibrahim Hussain,2023-07-18 18:33:49,84.4,123/67,92.4,Cardiology,Neurology,Angioplasty,Morphine 10mg,Transferred from ICU,Nolly Mereweather
+583,1583,Maryam Sheikh,2023-05-13 11:49:56,62.3,142/65,96.6,General,Fractured Femur,Appendectomy,Insulin 20 units,Requires monitoring,Amii Lathaye
+584,1584,Hassan Lodhi,2025-07-15 02:05:32,90.5,101/82,95.5,Neurology,Acute Myocardial Infarction,Thrombolysis,Metoprolol 25mg,Post-op recovery,Noella Davenhill
+585,1585,Zaid Hashmi,2024-08-06 05:46:45,101.8,135/68,93.7,General,Acute Myocardial Infarction,Insulin Therapy,Morphine 10mg,Transferred from ICU,Ivette MacCallam
+586,1586,Zaid Gillani,2023-11-15 18:27:49,68.1,148/80,98.0,General,Pneumonia,IV Antihypertensives,Morphine 10mg,Critical — ventilator support,Alicea Oulner
+587,1587,Sara Hussain,2023-12-11 05:54:17,90.5,131/94,98.1,General,Cardiology,Thrombolysis,Metoprolol 25mg,Stable,Robers Toope
+588,1588,Usman Mughal,2025-02-08 20:00:14,84.7,140/64,94.7,Orthopaedic,Pneumonia,IV Antihypertensives,Ceftriaxone 1g IV,Stable,Ingrid Glanister
+589,1589,Dua Shah,2025-03-27 08:53:42,99.8,115/92,96.7,Paediatrics,ICU,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Alvy Lancastle
+590,1590,Hiba Iqbal,2023-09-18 05:42:40,89.8,141/73,98.9,Cardiology,Hypertensive Crisis,IV Antihypertensives,Morphine 10mg,Requires monitoring,Agnese Laville
+591,1591,Hiba Malik,2024-08-10 06:44:51,76.1,115/92,92.2,Cardiology,Fractured Femur,Appendectomy,Morphine 10mg,Stable,Elwira Chaikovski
+592,1592,Dua Khan,2025-02-23 01:42:56,99.9,103/64,92.6,Cardiology,Cardiology,Appendectomy,Heparin 5000 IU,Requires monitoring,Bayard Alvey
+593,1593,Hassan Farooqi,2024-08-03 22:29:37,69.7,142/78,97.0,General,Cardiology,IV Antibiotics,Morphine 10mg,Stable,Karlyn Chicchelli
+594,1594,Omar Malik,2023-05-07 19:33:18,107.6,109/82,98.2,Neurology,Fractured Femur,Appendectomy,Heparin 5000 IU,Requires monitoring,Lizbeth Downing
+595,1595,Arsalan Afridi,2023-04-05 15:59:59,98.0,117/71,96.3,Cardiology,Orthopaedic,Insulin Therapy,Insulin 20 units,Improving,Bondie Janisson
+596,1596,Ibrahim Afridi,2025-02-09 21:11:34,91.9,105/85,93.3,Paediatrics,Pneumonia,Angioplasty,Heparin 5000 IU,Stable,Stefa Ennew
+597,1597,Anaya Shah,2024-02-24 07:17:05,60.3,137/74,96.2,ICU,Neurology,Insulin Therapy,Morphine 10mg,Critical — ventilator support,Niven Brolechan
+598,1598,Fatima Hussain,2024-01-13 14:41:46,95.1,143/87,95.9,General,Orthopaedic,Insulin Therapy,Insulin 20 units,Requires monitoring,Doralin Driver
+599,1599,Anaya Iqbal,2023-05-14 23:55:50,98.7,149/80,94.0,General,Fractured Femur,Insulin Therapy,Ceftriaxone 1g IV,Stable,Axel Aleksankin
+600,1600,Sana Khan,2024-11-14 00:52:59,66.0,123/67,92.1,Paediatrics,Pneumonia,Insulin Therapy,Metoprolol 25mg,Improving,Burch Teideman
+601,1601,Noor Lodhi,2024-01-05 09:54:21,98.5,129/68,94.3,ICU,Fractured Femur,Insulin Therapy,Heparin 5000 IU,Stable,Rosalinde Dilworth
+602,1602,Aisha Ahmed,2025-06-02 02:09:14,109.0,129/69,93.2,Cardiology,Hypertensive Crisis,Angioplasty,Morphine 10mg,Post-op recovery,Sanford Whall
+603,1603,Omar Hashmi,2025-12-08 13:30:03,81.2,106/73,93.7,Cardiology,Orthopaedic,Appendectomy,Paracetamol 1g IV,Post-op recovery,Nikolaus Jugging
+604,1604,Dua Iqbal,2025-09-03 05:29:33,94.3,129/72,95.8,ICU,Hypertensive Crisis,Appendectomy,Ceftriaxone 1g IV,Transferred from ICU,Alberto Boyfield
+605,1605,Mahnoor Mughal,2025-05-12 01:42:26,58.3,136/73,95.4,General,ICU,Appendectomy,Heparin 5000 IU,Requires monitoring,Shay Fritter
+606,1606,Mustafa Lodhi,2023-03-01 15:20:31,73.6,103/71,97.6,Neurology,Cardiology,Angioplasty,Insulin 20 units,Critical — ventilator support,Collette Amott
+607,1607,Maryam Butt,2025-09-05 22:43:43,57.1,104/66,97.6,Neurology,Fractured Femur,Thrombolysis,Morphine 10mg,Improving,Addie Shemelt
+608,1608,Mahnoor Ali,2024-02-14 01:54:44,83.6,103/79,95.0,Orthopaedic,ICU,Surgical Fixation,Metoprolol 25mg,Improving,Hewe Foote
+609,1609,Aisha Aziz,2024-05-04 13:24:14,108.5,108/86,92.7,Neurology,PaediatricsType 2 Diabetes,Insulin Therapy,Heparin 5000 IU,Improving,Ardyce Perillo
+610,1610,Ali Jatoi,2025-10-08 21:45:17,83.6,125/78,96.4,Orthopaedic,Pneumonia,Appendectomy,Morphine 10mg,Stable,Feodor Tickner
+611,1611,Mustafa Hashmi,2024-05-26 04:49:35,93.4,149/86,92.5,ICU,Acute Myocardial Infarction,Surgical Fixation,Heparin 5000 IU,Post-op recovery,Kenna Sprackling
+612,1612,Rehan Mirza,2025-12-06 10:13:22,82.1,117/72,95.7,Orthopaedic,Orthopaedic,Surgical Fixation,Insulin 20 units,Requires monitoring,Yancy Carswell
+613,1613,Hamza Khan,2023-12-02 18:38:40,76.3,120/76,98.8,Paediatrics,Fractured Femur,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Kinny Gerry
+614,1614,Hassan Sheikh,2023-05-08 00:03:59,55.3,106/76,95.2,Orthopaedic,Acute Myocardial Infarction,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Erma Randall
+615,1615,Khadija Abbas,2023-07-04 06:01:38,76.9,150/77,96.6,Paediatrics,Acute Myocardial Infarction,IV Antibiotics,Morphine 10mg,Post-op recovery,Pete Beazer
+616,1616,Zaid Jatoi,2024-11-01 18:17:44,60.3,146/77,94.9,Paediatrics,Hypertensive Crisis,Angioplasty,Paracetamol 1g IV,Stable,Fleming Birkbeck
+617,1617,Aisha Hussain,2025-07-11 22:51:24,68.5,114/90,95.5,Cardiology,Fractured Femur,IV Antibiotics,Ceftriaxone 1g IV,Improving,Patrizia Snashall
+618,1618,Noor Chaudhary,2024-12-30 07:32:06,60.1,140/66,93.0,Neurology,Acute Myocardial Infarction,Insulin Therapy,Ceftriaxone 1g IV,Post-op recovery,Abby Grant
+619,1619,Mahnoor Farooqi,2023-09-05 00:03:59,95.4,138/93,94.5,Paediatrics,Appendicitis,Appendectomy,Insulin 20 units,Post-op recovery,Lamont Molloy
+620,1620,Myra Lodhi,2024-01-25 04:01:27,89.1,143/73,95.6,Orthopaedic,Appendicitis,Appendectomy,Paracetamol 1g IV,Post-op recovery,Wilfrid Wall
+621,1621,Sana Ali,2024-12-04 22:06:28,89.9,130/79,96.8,Cardiology,Cardiology,Surgical Fixation,Insulin 20 units,Transferred from ICU,Edy Sheara
+622,1622,Usman Shah,2025-12-23 10:58:56,100.3,115/61,92.6,ICU,Neurology,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Dal Fillan
+623,1623,Mustafa Jatoi,2025-06-07 09:18:51,67.8,116/92,93.4,Neurology,Acute Myocardial Infarction,Insulin Therapy,Heparin 5000 IU,Requires monitoring,Valerye Liepina
+624,1624,Ahmed Ahmed,2024-04-27 08:38:29,107.7,105/90,98.9,Neurology,Ischemic Stroke,Insulin Therapy,Insulin 20 units,Improving,Baxie Halladay
+625,1625,Hassan Malik,2025-11-14 19:18:21,105.2,142/82,98.2,Orthopaedic,PaediatricsType 2 Diabetes,Surgical Fixation,Metoprolol 25mg,Post-op recovery,Kendrick Milstead
+626,1626,Arsalan Iqbal,2023-01-11 19:57:40,61.4,108/74,93.9,Paediatrics,Appendicitis,IV Antibiotics,Heparin 5000 IU,Stable,Jeffry Booth-Jarvis
+627,1627,Myra Gillani,2025-12-11 13:31:00,102.7,147/77,96.6,Paediatrics,Orthopaedic,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Vittorio Wibrew
+628,1628,Hassan Naqvi,2024-06-23 11:26:19,96.6,104/66,93.5,Orthopaedic,Appendicitis,Thrombolysis,Ceftriaxone 1g IV,Post-op recovery,Teddi McIntosh
+629,1629,Anaya Afridi,2025-04-24 15:47:04,61.3,102/78,93.4,Cardiology,Acute Myocardial Infarction,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Gearard Looby
+630,1630,Myra Rizvi,2023-09-06 18:18:31,88.5,149/88,94.4,General,Acute Myocardial Infarction,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Vonny Yanshinov
+631,1631,Maryam Shah,2023-03-21 10:02:49,70.0,133/69,96.3,Cardiology,Neurology,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Keefe Hiscoke
+632,1632,Usman Abbas,2024-02-18 11:07:49,96.6,131/87,98.6,Orthopaedic,PaediatricsType 2 Diabetes,Appendectomy,Insulin 20 units,Critical — ventilator support,Benji Josling
+633,1633,Dua Mughal,2024-09-22 15:30:59,92.4,106/93,95.8,Neurology,Appendicitis,IV Antibiotics,Insulin 20 units,Post-op recovery,Kale Jowitt
+634,1634,Aisha Hussain,2023-12-03 11:06:54,85.3,108/60,94.7,Neurology,Orthopaedic,Appendectomy,Morphine 10mg,Requires monitoring,Dennie Preist
+635,1635,Ibrahim Bajwa,2025-07-30 03:58:31,76.5,132/60,92.2,Cardiology,Ischemic Stroke,Appendectomy,Heparin 5000 IU,Critical — ventilator support,Jo-ann Regan
+636,1636,Khadija Lodhi,2023-08-21 20:13:48,92.0,109/76,97.5,Cardiology,Cardiology,Insulin Therapy,Heparin 5000 IU,Stable,Elnora Ernke
+637,1637,Hiba Butt,2025-04-30 20:33:37,78.3,148/67,97.1,Neurology,Orthopaedic,Insulin Therapy,Morphine 10mg,Requires monitoring,Tiebold Stellman
+638,1638,Sara Aziz,2025-05-16 05:53:36,102.7,119/74,95.2,General,Orthopaedic,Appendectomy,Insulin 20 units,Transferred from ICU,Kassie Taylerson
+639,1639,Arsalan Afridi,2025-09-20 06:17:56,55.2,113/72,97.5,Paediatrics,Acute Myocardial Infarction,IV Antibiotics,Heparin 5000 IU,Stable,Harriette Hawkyens
+640,1640,Anaya Bajwa,2025-10-02 05:02:13,101.2,133/87,92.6,ICU,Ischemic Stroke,Surgical Fixation,Morphine 10mg,Stable,Marcus Sherel
+641,1641,Maryam Ahmed,2025-12-16 07:48:24,67.0,146/79,93.2,Cardiology,ICU,Surgical Fixation,Metoprolol 25mg,Post-op recovery,Raffaello Spykings
+642,1642,Sana Rizvi,2023-03-31 08:46:56,98.9,110/69,97.4,Paediatrics,Acute Myocardial Infarction,IV Antibiotics,Metoprolol 25mg,Transferred from ICU,Lloyd Braxton
+643,1643,Sana Siddiqui,2024-10-27 14:48:25,79.3,121/67,97.1,Neurology,Fractured Femur,Thrombolysis,Metoprolol 25mg,Stable,Rhona Twamley
+644,1644,Mahnoor Shah,2023-12-11 12:05:06,103.1,139/71,93.1,General,General,Thrombolysis,Morphine 10mg,Requires monitoring,Charlena Horry
+645,1645,Mahnoor Hashmi,2025-12-25 05:30:52,96.2,126/60,97.5,Paediatrics,Fractured Femur,Appendectomy,Paracetamol 1g IV,Critical — ventilator support,Queenie Valentin
+646,1646,Myra Shah,2024-04-06 00:49:29,91.0,112/87,97.7,General,ICU,Insulin Therapy,Ceftriaxone 1g IV,Stable,Jere Peeters
+647,1647,Noor Iqbal,2023-09-20 09:56:36,73.3,107/80,96.0,ICU,Acute Myocardial Infarction,Thrombolysis,Ceftriaxone 1g IV,Stable,Luke Weeds
+648,1648,Anaya Shah,2023-08-24 05:59:53,108.5,133/67,92.3,Orthopaedic,Fractured Femur,IV Antibiotics,Morphine 10mg,Post-op recovery,Bruce Sapwell
+649,1649,Bilal Qureshi,2025-04-23 16:37:15,97.9,128/95,98.7,Paediatrics,ICU,Thrombolysis,Paracetamol 1g IV,Critical — ventilator support,Fransisco Storton
+650,1650,Zaid Malik,2024-02-25 07:57:44,97.6,113/61,97.6,General,Fractured Femur,IV Antihypertensives,Heparin 5000 IU,Stable,Gram Guest
+651,1651,Hamza Mughal,2024-09-14 22:44:37,59.2,127/66,93.4,Orthopaedic,Cardiology,Angioplasty,Insulin 20 units,Critical — ventilator support,Sterling Soall
+652,1652,Sana Hussain,2024-10-15 08:31:39,71.7,146/94,95.1,Orthopaedic,Neurology,IV Antibiotics,Insulin 20 units,Critical — ventilator support,Sibyl Ackwood
+653,1653,Ibrahim Chaudhary,2025-10-31 19:50:34,67.0,121/81,98.8,Orthopaedic,PaediatricsType 2 Diabetes,Thrombolysis,Paracetamol 1g IV,Post-op recovery,Roseanne Matthai
+654,1654,Maryam Mughal,2025-01-25 06:59:11,89.3,131/91,92.6,Neurology,ICU,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Barnaby Gorse
+655,1655,Mahnoor Hashmi,2024-01-06 14:49:14,81.2,137/80,95.6,Paediatrics,Appendicitis,IV Antibiotics,Heparin 5000 IU,Improving,Alvinia Brierley
+656,1656,Rehan Bajwa,2024-06-23 16:15:48,63.1,105/85,93.4,ICU,Neurology,Appendectomy,Heparin 5000 IU,Critical — ventilator support,Junia Embleton
+657,1657,Usman Hashmi,2025-07-22 20:43:33,60.8,145/69,97.9,Orthopaedic,Ischemic Stroke,Angioplasty,Heparin 5000 IU,Improving,Guinevere Mikalski
+658,1658,Hamza Butt,2024-03-07 12:43:18,87.7,134/86,96.1,General,Ischemic Stroke,IV Antibiotics,Heparin 5000 IU,Improving,Cecelia Haddinton
+659,1659,Hiba Bajwa,2024-03-17 02:08:59,71.7,102/76,94.1,ICU,Appendicitis,Insulin Therapy,Heparin 5000 IU,Critical — ventilator support,Ephrayim De Maine
+660,1660,Maryam Hussain,2025-06-24 03:13:11,61.1,118/94,95.2,General,Pneumonia,IV Antihypertensives,Morphine 10mg,Post-op recovery,Tomasina Scollan
+661,1661,Sara Gillani,2024-05-09 19:09:28,85.4,106/90,93.9,Paediatrics,Cardiology,Angioplasty,Paracetamol 1g IV,Post-op recovery,Freida Oller
+662,1662,Hamza Shah,2024-02-18 04:31:33,71.0,108/81,93.2,ICU,Pneumonia,IV Antibiotics,Metoprolol 25mg,Improving,Charisse Gillino
+663,1663,Hamza Siddiqui,2025-02-28 10:24:45,57.7,113/85,92.5,Orthopaedic,General,Angioplasty,Heparin 5000 IU,Requires monitoring,Etty Sprott
+664,1664,Mahnoor Shah,2025-05-29 22:48:27,64.2,120/88,92.3,Neurology,Orthopaedic,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Forester Vasic
+665,1665,Khadija Farooqi,2023-10-01 06:58:44,96.8,149/67,95.1,General,Acute Myocardial Infarction,IV Antibiotics,Heparin 5000 IU,Critical — ventilator support,Sarajane Pimlock
+666,1666,Myra Butt,2024-08-30 06:42:52,61.4,143/79,96.1,General,Fractured Femur,Insulin Therapy,Insulin 20 units,Post-op recovery,Pepillo Simonetti
+667,1667,Ali Aziz,2023-02-26 02:51:26,76.6,125/83,98.1,ICU,Ischemic Stroke,Angioplasty,Metoprolol 25mg,Critical — ventilator support,Augy Habbershon
+668,1668,Mustafa Ahmed,2023-06-19 12:53:17,91.9,138/91,93.1,Neurology,Cardiology,Insulin Therapy,Heparin 5000 IU,Improving,Darda Penrose
+669,1669,Sana Butt,2025-12-22 13:25:39,77.6,139/90,96.2,Paediatrics,Pneumonia,Thrombolysis,Insulin 20 units,Stable,Sean Estevez
+670,1670,Sana Jatoi,2023-07-23 07:45:34,108.9,109/76,97.2,ICU,Orthopaedic,Insulin Therapy,Ceftriaxone 1g IV,Improving,Jilli Prangley
+671,1671,Ali Rizvi,2024-08-12 21:28:13,77.3,132/89,98.5,Cardiology,Neurology,Appendectomy,Insulin 20 units,Improving,Garrett Mattingly
+672,1672,Aisha Gillani,2025-04-09 04:10:08,97.7,138/74,96.1,ICU,Fractured Femur,IV Antihypertensives,Insulin 20 units,Critical — ventilator support,Jemmy Waldera
+673,1673,Noor Farooqi,2024-02-04 15:28:31,64.0,143/81,98.5,Orthopaedic,Fractured Femur,Appendectomy,Heparin 5000 IU,Improving,Sky Connors
+674,1674,Dua Lodhi,2025-03-21 17:05:07,94.9,123/90,97.2,ICU,General,Appendectomy,Morphine 10mg,Improving,Terese Braime
+675,1675,Rehan Aziz,2024-01-22 23:42:15,83.5,137/61,93.7,Neurology,Neurology,IV Antihypertensives,Paracetamol 1g IV,Stable,Dulcia Devitt
+676,1676,Mustafa Malik,2024-10-21 21:28:45,97.9,100/92,92.2,General,Neurology,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Annadiana Youngman
+677,1677,Ibrahim Lodhi,2023-11-06 08:03:01,103.2,116/83,92.5,Paediatrics,ICU,IV Antibiotics,Insulin 20 units,Requires monitoring,Sauncho Meriot
+678,1678,Dua Shah,2023-12-01 02:31:15,65.6,110/71,98.1,Orthopaedic,Pneumonia,Appendectomy,Paracetamol 1g IV,Improving,Kahlil Hinder
+679,1679,Hiba Shah,2024-01-23 20:13:27,62.4,145/94,98.4,ICU,Orthopaedic,Appendectomy,Insulin 20 units,Critical — ventilator support,Baron Marvell
+680,1680,Myra Qureshi,2025-01-15 14:00:29,89.3,143/87,98.5,Orthopaedic,Acute Myocardial Infarction,Angioplasty,Metoprolol 25mg,Critical — ventilator support,Marjy Smidmore
+681,1681,Mahnoor Aziz,2023-11-23 16:04:28,57.9,128/75,97.6,Neurology,Cardiology,IV Antibiotics,Ceftriaxone 1g IV,Critical — ventilator support,Norri Southcoat
+682,1682,Hiba Butt,2023-12-02 22:25:47,106.0,132/85,97.7,General,Hypertensive Crisis,Appendectomy,Morphine 10mg,Requires monitoring,Linn Stitch
+683,1683,Zainab Afridi,2024-11-26 09:22:51,68.0,119/80,98.9,ICU,Fractured Femur,Angioplasty,Paracetamol 1g IV,Requires monitoring,Lorri Kohrt
+684,1684,Usman Siddiqui,2025-08-09 21:56:44,93.8,128/64,94.2,Cardiology,ICU,Insulin Therapy,Ceftriaxone 1g IV,Post-op recovery,Krystal Bellard
+685,1685,Ibrahim Hashmi,2024-11-07 00:48:49,80.1,123/63,93.7,Cardiology,Orthopaedic,IV Antibiotics,Heparin 5000 IU,Improving,Alasteir Lodden
+686,1686,Aisha Aziz,2025-03-23 16:58:34,95.1,143/83,93.9,ICU,Hypertensive Crisis,IV Antihypertensives,Insulin 20 units,Post-op recovery,Chrissy Lockless
+687,1687,Mustafa Iqbal,2025-09-01 15:52:02,65.8,109/71,93.2,General,Cardiology,Thrombolysis,Heparin 5000 IU,Post-op recovery,Dar Barthelet
+688,1688,Ibrahim Siddiqui,2024-08-28 02:05:09,67.6,122/63,94.2,ICU,Acute Myocardial Infarction,Insulin Therapy,Metoprolol 25mg,Improving,Ange Baguley
+689,1689,Mahnoor Ali,2024-03-09 12:04:45,99.1,106/82,96.4,General,Orthopaedic,Angioplasty,Heparin 5000 IU,Post-op recovery,Bo Francesconi
+690,1690,Ahmed Abbas,2024-01-07 02:25:38,70.1,141/85,96.7,General,Pneumonia,Thrombolysis,Metoprolol 25mg,Requires monitoring,Ollie Gascoyen
+691,1691,Rehan Qureshi,2024-02-21 16:45:57,60.2,132/87,96.1,Paediatrics,Neurology,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Mada Seals
+692,1692,Anaya Siddiqui,2023-06-10 19:05:49,63.9,113/69,92.3,Paediatrics,Cardiology,IV Antibiotics,Heparin 5000 IU,Stable,Melly Hadingham
+693,1693,Khadija Chaudhary,2025-08-13 05:34:10,76.5,101/65,94.0,Paediatrics,Appendicitis,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Victoria Prantoni
+694,1694,Zainab Bajwa,2025-05-30 07:30:02,104.5,100/94,96.1,ICU,Fractured Femur,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Mabel Berthouloume
+695,1695,Mustafa Naqvi,2025-08-07 13:40:21,68.5,125/81,94.1,Neurology,Orthopaedic,IV Antibiotics,Paracetamol 1g IV,Stable,Dawna Gillibrand
+696,1696,Omar Ali,2024-03-26 15:43:12,104.6,150/69,96.5,Orthopaedic,Cardiology,Surgical Fixation,Insulin 20 units,Transferred from ICU,Werner Norheny
+697,1697,Aisha Rizvi,2025-03-11 09:04:02,109.0,110/86,95.7,Orthopaedic,Hypertensive Crisis,Angioplasty,Paracetamol 1g IV,Post-op recovery,Sherline Thoumasson
+698,1698,Myra Ahmed,2025-06-15 03:46:12,81.9,113/84,95.3,ICU,Cardiology,Surgical Fixation,Heparin 5000 IU,Stable,Ewart Block
+699,1699,Sara Hashmi,2025-12-03 01:13:48,96.0,101/62,94.0,Paediatrics,Acute Myocardial Infarction,Angioplasty,Ceftriaxone 1g IV,Post-op recovery,Bethany Challenor
+700,1700,Ibrahim Aziz,2024-06-17 00:18:37,77.7,123/82,92.9,Cardiology,Appendicitis,Thrombolysis,Paracetamol 1g IV,Critical — ventilator support,Tabbi Kluge
+701,1701,Usman Rizvi,2024-01-18 02:53:53,109.9,149/71,98.2,ICU,Hypertensive Crisis,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Mozelle Ferrers
+702,1702,Hiba Malik,2024-03-28 17:28:12,61.2,143/86,93.4,Neurology,General,Surgical Fixation,Paracetamol 1g IV,Requires monitoring,Hewet Burridge
+703,1703,Sana Qureshi,2023-01-05 04:27:14,85.1,125/75,94.6,Paediatrics,Appendicitis,Surgical Fixation,Insulin 20 units,Critical — ventilator support,Cesaro Sabatier
+704,1704,Hamza Hussain,2025-03-21 10:04:19,67.5,120/85,93.3,Neurology,ICU,Surgical Fixation,Paracetamol 1g IV,Improving,Harriett Rushford
+705,1705,Bilal Mughal,2025-12-22 14:43:20,90.5,141/78,94.3,Paediatrics,PaediatricsType 2 Diabetes,Appendectomy,Heparin 5000 IU,Stable,Mozelle Bricham
+706,1706,Rehan Mirza,2024-09-30 22:31:57,66.6,118/70,96.8,ICU,Neurology,IV Antibiotics,Insulin 20 units,Post-op recovery,Carroll Debrick
+707,1707,Hiba Hussain,2025-01-09 03:43:14,58.2,139/64,94.4,ICU,General,IV Antihypertensives,Morphine 10mg,Critical — ventilator support,Myrle Bausor
+708,1708,Hassan Jatoi,2024-06-17 13:33:11,100.8,105/93,95.0,Cardiology,Appendicitis,Angioplasty,Heparin 5000 IU,Critical — ventilator support,Alphonso Mariault
+709,1709,Omar Lodhi,2024-01-31 08:31:03,92.6,133/65,92.7,Paediatrics,Cardiology,IV Antibiotics,Insulin 20 units,Post-op recovery,Quint Ridgedell
+710,1710,Usman Butt,2025-01-05 21:45:24,60.7,128/86,98.5,Orthopaedic,General,IV Antihypertensives,Metoprolol 25mg,Requires monitoring,Ravi Jarvis
+711,1711,Rehan Hussain,2025-02-05 18:24:27,68.4,111/78,95.6,General,Fractured Femur,Thrombolysis,Metoprolol 25mg,Transferred from ICU,Kirsti Bottrell
+712,1712,Omar Hashmi,2024-08-12 20:42:54,108.1,112/66,93.9,Orthopaedic,Hypertensive Crisis,Insulin Therapy,Insulin 20 units,Stable,Meg Ambrois
+713,1713,Mustafa Naqvi,2023-09-11 13:07:53,69.9,121/89,97.0,ICU,Orthopaedic,Thrombolysis,Paracetamol 1g IV,Post-op recovery,Cordelie Heare
+714,1714,Zaid Butt,2023-03-09 15:55:05,68.3,145/71,98.3,ICU,Fractured Femur,IV Antihypertensives,Morphine 10mg,Post-op recovery,Lynette Tevlin
+715,1715,Fatima Qureshi,2025-04-30 10:23:20,55.7,104/89,94.6,Cardiology,Appendicitis,Appendectomy,Metoprolol 25mg,Requires monitoring,Bambie Micklem
+716,1716,Dua Ali,2025-06-28 01:48:09,65.8,119/67,94.3,Paediatrics,Neurology,Angioplasty,Insulin 20 units,Transferred from ICU,Felisha Rothery
+717,1717,Maryam Abbas,2023-08-02 14:35:55,94.7,149/86,97.8,Cardiology,Orthopaedic,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Brady Bruyett
+718,1718,Noor Mughal,2023-01-12 05:26:22,103.1,107/66,96.9,Paediatrics,General,Insulin Therapy,Paracetamol 1g IV,Transferred from ICU,Conrado Miner
+719,1719,Omar Malik,2023-04-12 15:16:41,82.5,108/83,94.7,Neurology,Neurology,IV Antihypertensives,Paracetamol 1g IV,Transferred from ICU,Wayne Cantwell
+720,1720,Hassan Sheikh,2024-10-01 17:06:25,55.2,134/88,94.5,Paediatrics,Appendicitis,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Mavis Prettyman
+721,1721,Mustafa Ali,2024-04-05 01:19:44,55.7,106/76,98.0,Orthopaedic,Orthopaedic,Thrombolysis,Heparin 5000 IU,Improving,Dixie Van Oort
+722,1722,Usman Afridi,2023-03-03 02:59:12,90.6,133/66,97.4,Cardiology,General,IV Antibiotics,Metoprolol 25mg,Requires monitoring,Ludovika Jillins
+723,1723,Zaid Hussain,2025-12-09 23:25:34,103.3,133/75,97.1,Neurology,Neurology,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Sisely Heape
+724,1724,Zaid Afridi,2025-03-29 15:29:20,90.6,133/76,96.8,Neurology,Appendicitis,Insulin Therapy,Metoprolol 25mg,Stable,Deanna Von Oertzen
+725,1725,Hamza Afridi,2023-06-16 15:22:36,63.2,138/68,92.1,General,Orthopaedic,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Brandyn Sandford
+726,1726,Mustafa Aziz,2023-07-09 07:56:00,73.3,104/63,94.0,Neurology,ICU,IV Antihypertensives,Paracetamol 1g IV,Improving,Pansie Wey
+727,1727,Zainab Khan,2025-10-07 02:44:01,96.3,133/67,93.0,Orthopaedic,Hypertensive Crisis,IV Antihypertensives,Insulin 20 units,Stable,Fenelia Barlass
+728,1728,Bilal Chaudhary,2023-09-28 17:09:40,72.9,123/65,98.7,Cardiology,Hypertensive Crisis,IV Antihypertensives,Metoprolol 25mg,Transferred from ICU,Hamil Broschke
+729,1729,Omar Khan,2025-03-18 15:12:30,104.0,108/74,94.9,ICU,Acute Myocardial Infarction,IV Antihypertensives,Heparin 5000 IU,Improving,Care Tatershall
+730,1730,Fatima Sheikh,2024-10-13 19:23:34,91.7,122/61,96.6,Cardiology,Fractured Femur,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Dierdre Olrenshaw
+731,1731,Usman Butt,2023-12-24 01:49:17,106.5,129/90,95.4,Paediatrics,Cardiology,Insulin Therapy,Paracetamol 1g IV,Improving,Roselia Wilcocke
+732,1732,Hassan Rizvi,2023-04-14 06:13:53,108.1,105/94,93.9,General,Cardiology,IV Antihypertensives,Heparin 5000 IU,Transferred from ICU,Laurena Comber
+733,1733,Fatima Iqbal,2024-03-29 10:56:06,97.0,148/83,93.1,ICU,Fractured Femur,Insulin Therapy,Insulin 20 units,Stable,Ronni Belfrage
+734,1734,Noor Rizvi,2024-01-09 19:30:11,97.6,124/76,95.6,ICU,Orthopaedic,Surgical Fixation,Heparin 5000 IU,Post-op recovery,Daune Hartfield
+735,1735,Usman Mirza,2025-11-01 07:38:08,99.3,120/80,96.8,Paediatrics,Neurology,IV Antihypertensives,Paracetamol 1g IV,Stable,Meriel Goodrich
+736,1736,Hassan Aziz,2025-02-15 11:45:44,84.2,120/86,94.7,Neurology,Cardiology,IV Antibiotics,Heparin 5000 IU,Critical — ventilator support,Drugi Olivey
+737,1737,Zainab Sheikh,2024-07-23 00:37:02,95.5,122/95,98.8,Neurology,Appendicitis,Appendectomy,Heparin 5000 IU,Transferred from ICU,Consuelo Dureden
+738,1738,Sana Siddiqui,2024-08-24 22:25:59,102.7,129/95,97.5,Paediatrics,PaediatricsType 2 Diabetes,Angioplasty,Paracetamol 1g IV,Improving,Ernie Pawlicki
+739,1739,Dua Mughal,2023-06-23 06:42:31,68.5,128/63,97.8,Neurology,Neurology,Thrombolysis,Ceftriaxone 1g IV,Requires monitoring,Karyl Ray
+740,1740,Ahmed Butt,2025-03-19 03:45:17,100.6,103/89,95.7,Orthopaedic,Orthopaedic,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Rafa Van Der Weedenburg
+741,1741,Mustafa Afridi,2025-08-14 00:38:36,103.9,110/84,95.0,Paediatrics,Neurology,Surgical Fixation,Morphine 10mg,Improving,Timothy Edel
+742,1742,Maryam Mughal,2025-04-16 19:12:48,93.9,150/95,96.0,Paediatrics,Ischemic Stroke,Angioplasty,Ceftriaxone 1g IV,Requires monitoring,Raychel Roakes
+743,1743,Usman Gillani,2024-11-01 15:14:57,94.1,115/79,97.7,Orthopaedic,Fractured Femur,Thrombolysis,Ceftriaxone 1g IV,Improving,Lianna Rosenwasser
+744,1744,Maryam Mirza,2025-09-06 20:24:35,92.3,100/66,98.1,Neurology,Pneumonia,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Angelita Masson
+745,1745,Arsalan Khan,2024-08-01 16:16:27,76.1,130/76,92.4,Orthopaedic,ICU,Appendectomy,Heparin 5000 IU,Post-op recovery,Bird Middup
+746,1746,Aisha Afridi,2023-12-31 00:56:21,84.6,105/85,98.0,Cardiology,Ischemic Stroke,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Marni Sterricker
+747,1747,Noor Iqbal,2023-10-22 04:43:26,84.2,131/77,92.8,Orthopaedic,Hypertensive Crisis,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Wilhelmina Bowater
+748,1748,Ahmed Qureshi,2025-12-29 09:20:40,60.7,143/88,93.9,Paediatrics,Orthopaedic,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Winfield Moxom
+749,1749,Mahnoor Afridi,2023-06-16 05:51:03,78.8,125/62,96.9,Orthopaedic,ICU,Surgical Fixation,Heparin 5000 IU,Critical — ventilator support,Karina Breawood
+750,1750,Bilal Siddiqui,2024-04-03 07:42:58,106.9,128/94,97.3,ICU,ICU,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Katina Pashe
+751,1751,Usman Hashmi,2023-09-19 19:43:03,106.5,119/74,96.7,Orthopaedic,Appendicitis,Insulin Therapy,Paracetamol 1g IV,Requires monitoring,Bowie Huckin
+752,1752,Usman Chaudhary,2025-09-01 17:10:19,95.0,103/92,95.7,Paediatrics,Fractured Femur,Insulin Therapy,Metoprolol 25mg,Requires monitoring,Collin Kwiek
+753,1753,Mustafa Chaudhary,2023-08-14 20:53:12,72.3,104/66,92.1,General,Cardiology,IV Antihypertensives,Morphine 10mg,Requires monitoring,Franklin Braunter
+754,1754,Mustafa Ahmed,2024-04-24 20:03:05,57.1,103/82,94.3,ICU,Hypertensive Crisis,Insulin Therapy,Heparin 5000 IU,Requires monitoring,Vonni Sichardt
+755,1755,Khadija Chaudhary,2025-09-14 06:55:41,109.5,135/81,97.3,Neurology,Neurology,Appendectomy,Metoprolol 25mg,Improving,Porter McGooch
+756,1756,Rehan Shah,2024-02-10 11:54:04,66.2,133/90,93.4,Neurology,Cardiology,IV Antibiotics,Paracetamol 1g IV,Transferred from ICU,Powell Dincke
+757,1757,Arsalan Khan,2025-07-10 01:51:04,66.9,111/71,97.2,Neurology,Orthopaedic,IV Antibiotics,Insulin 20 units,Transferred from ICU,Trista Tutill
+758,1758,Sara Aziz,2023-11-20 19:14:33,74.1,137/82,95.7,Orthopaedic,Orthopaedic,Surgical Fixation,Ceftriaxone 1g IV,Post-op recovery,Kimmie Hinstridge
+759,1759,Ali Hashmi,2025-01-14 05:45:07,94.2,145/76,93.5,Neurology,Neurology,IV Antihypertensives,Paracetamol 1g IV,Transferred from ICU,Robinet Spadelli
+760,1760,Sana Naqvi,2025-08-05 02:39:10,109.0,116/71,93.4,Orthopaedic,PaediatricsType 2 Diabetes,Thrombolysis,Insulin 20 units,Stable,Karena Goutcher
+761,1761,Hamza Hussain,2024-12-22 19:36:14,106.8,108/61,94.7,ICU,Neurology,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Arman Kinton
+762,1762,Myra Rizvi,2023-10-21 05:55:56,71.6,113/62,96.6,Paediatrics,Pneumonia,Insulin Therapy,Paracetamol 1g IV,Post-op recovery,Silvia Raine
+763,1763,Khadija Khan,2024-06-05 04:49:27,84.5,124/83,99.0,ICU,Hypertensive Crisis,Insulin Therapy,Morphine 10mg,Post-op recovery,Eula Forst
+764,1764,Sana Ali,2023-04-05 17:45:12,76.7,104/95,93.8,General,Pneumonia,IV Antibiotics,Heparin 5000 IU,Post-op recovery,Pren Lowery
+765,1765,Anaya Qureshi,2023-12-09 22:42:57,106.4,146/60,96.6,Orthopaedic,Hypertensive Crisis,Insulin Therapy,Metoprolol 25mg,Transferred from ICU,Coleman de Quesne
+766,1766,Bilal Iqbal,2024-08-07 20:39:17,96.4,132/75,95.9,General,Pneumonia,Surgical Fixation,Paracetamol 1g IV,Improving,Bernie Bounds
+767,1767,Zaid Hussain,2024-06-04 06:57:30,59.4,132/67,97.4,Neurology,ICU,Appendectomy,Insulin 20 units,Transferred from ICU,Tarah Klimus
+768,1768,Anaya Mughal,2023-12-18 10:22:21,57.6,124/84,97.1,Orthopaedic,Orthopaedic,Insulin Therapy,Ceftriaxone 1g IV,Requires monitoring,Shaughn Bengough
+769,1769,Arsalan Butt,2024-05-14 14:20:00,75.5,111/65,92.4,General,Acute Myocardial Infarction,Appendectomy,Ceftriaxone 1g IV,Improving,Neala Heistermann
+770,1770,Sana Afridi,2023-01-12 04:00:39,98.7,117/91,97.6,Paediatrics,PaediatricsType 2 Diabetes,Surgical Fixation,Heparin 5000 IU,Stable,Ram Barttrum
+771,1771,Dua Rizvi,2025-11-09 19:15:45,101.1,114/83,99.0,General,Ischemic Stroke,Appendectomy,Metoprolol 25mg,Improving,Annecorinne Mate
+772,1772,Noor Hashmi,2025-06-15 12:17:07,69.1,118/73,95.4,Neurology,Appendicitis,Thrombolysis,Morphine 10mg,Requires monitoring,Thea MacNalley
+773,1773,Arsalan Jatoi,2024-12-04 03:34:50,106.7,139/68,92.0,Cardiology,Ischemic Stroke,Angioplasty,Morphine 10mg,Requires monitoring,Neely Boldero
+774,1774,Hiba Malik,2023-01-18 22:37:26,57.7,118/88,94.3,General,General,Appendectomy,Morphine 10mg,Critical — ventilator support,Kylynn Ladbrooke
+775,1775,Ali Malik,2024-06-05 21:13:26,104.5,149/66,95.4,Cardiology,Fractured Femur,IV Antihypertensives,Paracetamol 1g IV,Critical — ventilator support,Olenolin McCulley
+776,1776,Omar Butt,2024-11-15 20:37:43,70.4,144/66,98.3,Orthopaedic,Orthopaedic,IV Antihypertensives,Morphine 10mg,Stable,Georg Janczyk
+777,1777,Zainab Lodhi,2025-07-06 00:28:55,71.0,134/86,93.7,Neurology,Fractured Femur,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Janelle Dornin
+778,1778,Hassan Abbas,2024-02-23 13:46:31,75.7,103/91,93.9,Paediatrics,PaediatricsType 2 Diabetes,IV Antibiotics,Metoprolol 25mg,Requires monitoring,Nell Formoy
+779,1779,Omar Khan,2025-12-14 11:01:01,69.9,132/92,96.1,General,Neurology,Appendectomy,Heparin 5000 IU,Stable,Lauren Dennant
+780,1780,Bilal Hussain,2025-06-17 22:12:08,85.5,113/60,93.3,Orthopaedic,Neurology,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Nickolaus Yurasov
+781,1781,Fatima Iqbal,2024-05-24 19:25:55,94.4,108/89,94.4,ICU,Hypertensive Crisis,Thrombolysis,Paracetamol 1g IV,Improving,Mord Mighele
+782,1782,Hassan Siddiqui,2023-01-08 00:16:58,70.0,115/72,94.1,General,General,Insulin Therapy,Heparin 5000 IU,Stable,Cristabel Purser
+783,1783,Sana Naqvi,2025-07-23 21:42:48,61.5,111/68,95.0,Orthopaedic,Hypertensive Crisis,IV Antibiotics,Morphine 10mg,Post-op recovery,Ki Kops
+784,1784,Rehan Ali,2023-12-15 20:29:44,57.5,104/85,92.3,Paediatrics,Ischemic Stroke,IV Antihypertensives,Morphine 10mg,Improving,Cathie Keatley
+785,1785,Zaid Jatoi,2025-06-16 00:15:14,72.6,139/95,96.2,Neurology,Appendicitis,Appendectomy,Metoprolol 25mg,Stable,Valaria Minnette
+786,1786,Fatima Khan,2023-10-05 03:52:17,66.7,142/65,95.1,Neurology,PaediatricsType 2 Diabetes,IV Antibiotics,Paracetamol 1g IV,Stable,Arie Colten
+787,1787,Khadija Mughal,2024-12-01 16:10:02,94.5,110/82,96.4,ICU,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Post-op recovery,Shirlene Wastell
+788,1788,Sara Ahmed,2025-03-02 05:02:28,67.2,146/86,97.1,Orthopaedic,General,Insulin Therapy,Paracetamol 1g IV,Critical — ventilator support,Norbert Eccleston
+789,1789,Rehan Shah,2025-09-06 23:32:03,70.1,119/88,97.8,Neurology,Ischemic Stroke,IV Antihypertensives,Metoprolol 25mg,Critical — ventilator support,Pavia Kroch
+790,1790,Ahmed Rizvi,2024-03-17 15:35:01,71.2,126/67,94.9,Orthopaedic,Ischemic Stroke,IV Antibiotics,Paracetamol 1g IV,Stable,Isidore Lias
+791,1791,Hiba Qureshi,2025-03-26 01:45:32,85.5,111/68,92.2,Neurology,Orthopaedic,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Marysa Brunesco
+792,1792,Hiba Malik,2023-06-26 02:31:03,100.9,137/69,92.2,Cardiology,Ischemic Stroke,Insulin Therapy,Metoprolol 25mg,Transferred from ICU,Netty Vanderplas
+793,1793,Fatima Malik,2024-05-23 03:55:15,99.6,104/85,92.2,General,Fractured Femur,Angioplasty,Heparin 5000 IU,Post-op recovery,Anissa MacKimmie
+794,1794,Zainab Sheikh,2025-03-06 02:57:12,77.9,132/85,94.7,Paediatrics,ICU,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Boycey Brizell
+795,1795,Bilal Ahmed,2025-06-01 13:03:57,104.8,102/82,97.2,General,Hypertensive Crisis,Appendectomy,Insulin 20 units,Critical — ventilator support,Carroll Discombe
+796,1796,Ali Ali,2025-05-11 19:06:22,75.4,119/89,98.9,Neurology,ICU,Appendectomy,Heparin 5000 IU,Transferred from ICU,Melany Rounsivall
+797,1797,Myra Siddiqui,2023-08-26 15:18:26,85.4,146/87,97.2,Paediatrics,PaediatricsType 2 Diabetes,IV Antihypertensives,Heparin 5000 IU,Improving,Roslyn Giabuzzi
+798,1798,Rehan Ahmed,2024-09-27 12:56:45,84.6,106/69,97.8,Neurology,Pneumonia,Appendectomy,Insulin 20 units,Post-op recovery,Troy Saunderson
+799,1799,Arsalan Malik,2025-11-24 07:52:40,60.1,119/88,96.0,Neurology,Ischemic Stroke,IV Antibiotics,Insulin 20 units,Post-op recovery,Edwin Casaccia
+800,1800,Anaya Khan,2024-06-13 22:24:55,60.7,107/72,93.1,Paediatrics,Pneumonia,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Denys Angeli
+801,1801,Ibrahim Siddiqui,2023-01-23 10:03:15,59.3,112/81,97.0,Orthopaedic,PaediatricsType 2 Diabetes,Thrombolysis,Metoprolol 25mg,Stable,Dorelia Di Angelo
+802,1802,Dua Rizvi,2024-03-18 13:11:54,104.5,105/90,98.3,Neurology,Fractured Femur,IV Antihypertensives,Ceftriaxone 1g IV,Critical — ventilator support,Rodrick Eddleston
+803,1803,Zainab Mughal,2023-12-14 11:28:01,77.4,122/81,94.2,Paediatrics,PaediatricsType 2 Diabetes,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Gill Babbs
+804,1804,Zaid Butt,2025-12-10 21:25:49,69.4,131/88,94.7,Paediatrics,Ischemic Stroke,Insulin Therapy,Morphine 10mg,Requires monitoring,Filip Berkley
+805,1805,Zaid Hashmi,2025-08-06 19:13:19,96.3,101/94,94.7,Paediatrics,PaediatricsType 2 Diabetes,Thrombolysis,Metoprolol 25mg,Critical — ventilator support,Corly Caustick
+806,1806,Anaya Mirza,2024-11-13 17:59:24,77.0,123/67,92.9,ICU,Neurology,Appendectomy,Paracetamol 1g IV,Post-op recovery,Robby Faircloth
+807,1807,Sana Gillani,2024-02-10 11:29:48,56.6,113/85,94.6,ICU,Fractured Femur,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Nicolle Sketh
+808,1808,Khadija Siddiqui,2025-09-25 21:28:29,72.2,107/73,94.4,General,Fractured Femur,Surgical Fixation,Insulin 20 units,Post-op recovery,Lind Beet
+809,1809,Zainab Mughal,2024-10-24 23:03:31,88.0,112/82,96.6,Orthopaedic,Cardiology,Insulin Therapy,Insulin 20 units,Requires monitoring,Fairfax Laxen
+810,1810,Hiba Qureshi,2024-03-15 23:05:12,93.9,108/88,94.8,General,Pneumonia,IV Antibiotics,Morphine 10mg,Transferred from ICU,Wes Tonnesen
+811,1811,Omar Hashmi,2024-07-26 22:51:39,68.3,120/86,96.6,Neurology,PaediatricsType 2 Diabetes,Angioplasty,Morphine 10mg,Critical — ventilator support,Giulia Twinbrow
+812,1812,Aisha Chaudhary,2024-01-09 23:26:54,75.4,143/94,95.1,Neurology,Pneumonia,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Derron Penketh
+813,1813,Ali Hashmi,2023-09-30 04:07:24,78.2,103/77,93.0,Neurology,Acute Myocardial Infarction,Angioplasty,Metoprolol 25mg,Stable,Max Raith
+814,1814,Ali Afridi,2024-12-06 09:06:17,90.3,137/75,94.7,Orthopaedic,PaediatricsType 2 Diabetes,Surgical Fixation,Morphine 10mg,Critical — ventilator support,Phillip felip
+815,1815,Bilal Siddiqui,2023-06-11 21:36:57,83.0,139/78,98.9,ICU,ICU,IV Antihypertensives,Morphine 10mg,Stable,Whitney Ovendon
+816,1816,Zaid Butt,2024-12-26 13:19:50,86.5,130/83,95.6,General,Appendicitis,Appendectomy,Metoprolol 25mg,Transferred from ICU,Ryun Rochewell
+817,1817,Anaya Ahmed,2023-10-05 07:50:26,93.2,107/90,93.4,General,Cardiology,Surgical Fixation,Morphine 10mg,Improving,Candide O'Heyne
+818,1818,Hassan Butt,2024-04-11 12:10:06,83.5,150/83,94.4,ICU,Pneumonia,Thrombolysis,Morphine 10mg,Transferred from ICU,Wheeler Reucastle
+819,1819,Anaya Mirza,2024-10-09 07:52:35,68.1,142/70,93.1,Orthopaedic,Ischemic Stroke,Appendectomy,Heparin 5000 IU,Post-op recovery,Fredek Stollenwerck
+820,1820,Ali Abbas,2023-01-25 14:08:09,98.7,134/82,94.4,Orthopaedic,Cardiology,Insulin Therapy,Insulin 20 units,Post-op recovery,Jere Keppel
+821,1821,Ahmed Hussain,2025-01-31 17:30:23,96.7,100/90,94.8,ICU,Fractured Femur,IV Antihypertensives,Ceftriaxone 1g IV,Requires monitoring,Ario Fagg
+822,1822,Bilal Hussain,2025-08-25 10:13:03,76.9,141/79,95.5,Neurology,General,Angioplasty,Metoprolol 25mg,Post-op recovery,Bernadette Banger
+823,1823,Khadija Gillani,2023-08-25 02:26:35,82.7,150/71,97.6,Paediatrics,Appendicitis,Appendectomy,Metoprolol 25mg,Critical — ventilator support,Marjory Neissen
+824,1824,Aisha Rizvi,2023-02-08 18:45:28,102.5,119/85,97.5,Cardiology,Cardiology,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Nick Carrel
+825,1825,Aisha Siddiqui,2025-10-08 01:22:09,102.2,118/62,98.3,Cardiology,General,IV Antihypertensives,Insulin 20 units,Stable,Raychel Keitley
+826,1826,Ahmed Khan,2025-02-05 17:28:18,60.0,145/60,97.8,Cardiology,Pneumonia,IV Antihypertensives,Ceftriaxone 1g IV,Stable,Konstantin Rockingham
+827,1827,Noor Sheikh,2025-11-23 04:51:43,97.9,133/77,98.2,Neurology,PaediatricsType 2 Diabetes,Insulin Therapy,Insulin 20 units,Post-op recovery,Danella Miliffe
+828,1828,Sara Abbas,2024-10-15 11:34:33,57.1,125/69,97.3,General,Hypertensive Crisis,Insulin Therapy,Insulin 20 units,Critical — ventilator support,Nanice Downer
+829,1829,Sana Sheikh,2024-10-10 14:27:06,89.1,120/91,96.7,Paediatrics,Fractured Femur,Appendectomy,Insulin 20 units,Transferred from ICU,Casper Filippov
+830,1830,Sana Ali,2023-11-09 21:07:39,101.5,133/75,97.9,ICU,Orthopaedic,IV Antihypertensives,Morphine 10mg,Stable,Julietta Briston
+831,1831,Sara Ali,2023-05-18 06:31:16,57.2,134/70,94.4,Orthopaedic,Hypertensive Crisis,Insulin Therapy,Heparin 5000 IU,Transferred from ICU,Ree Fargie
+832,1832,Khadija Hashmi,2025-05-24 08:41:06,58.2,107/72,94.3,Paediatrics,Hypertensive Crisis,IV Antibiotics,Paracetamol 1g IV,Requires monitoring,Seymour Pareman
+833,1833,Hamza Mirza,2024-06-19 16:05:09,61.8,101/82,97.8,Orthopaedic,Orthopaedic,IV Antihypertensives,Morphine 10mg,Post-op recovery,Wally Pimerick
+834,1834,Fatima Ahmed,2024-07-23 02:50:45,61.4,127/95,93.5,Orthopaedic,Hypertensive Crisis,Thrombolysis,Ceftriaxone 1g IV,Improving,Martha Cowperthwaite
+835,1835,Noor Hashmi,2023-10-18 02:36:52,61.9,109/60,94.3,Paediatrics,Pneumonia,IV Antihypertensives,Metoprolol 25mg,Critical — ventilator support,Erda Freshwater
+836,1836,Sana Lodhi,2024-12-24 09:45:45,64.7,109/85,98.2,ICU,General,Angioplasty,Paracetamol 1g IV,Critical — ventilator support,Wallie Beamand
+837,1837,Myra Lodhi,2024-09-12 14:26:56,83.3,134/73,96.6,Cardiology,Neurology,IV Antihypertensives,Paracetamol 1g IV,Requires monitoring,Tadd Locks
+838,1838,Ali Qureshi,2025-02-22 12:53:41,95.7,114/90,98.5,Orthopaedic,PaediatricsType 2 Diabetes,Angioplasty,Morphine 10mg,Stable,Millard Flag
+839,1839,Sana Mughal,2025-10-07 01:05:04,93.1,102/72,99.0,Cardiology,Neurology,Insulin Therapy,Ceftriaxone 1g IV,Transferred from ICU,Layla Kellick
+840,1840,Maryam Hussain,2025-01-23 00:39:03,105.7,137/85,98.4,Neurology,PaediatricsType 2 Diabetes,Surgical Fixation,Ceftriaxone 1g IV,Improving,Delilah Fleckno
+841,1841,Ahmed Butt,2024-02-12 15:44:52,82.1,149/64,96.7,Paediatrics,Acute Myocardial Infarction,IV Antihypertensives,Ceftriaxone 1g IV,Transferred from ICU,Hyman Chatain
+842,1842,Usman Malik,2025-09-28 13:01:29,96.7,147/64,98.0,ICU,Neurology,Thrombolysis,Morphine 10mg,Transferred from ICU,Betteanne Cromley
+843,1843,Zaid Hussain,2024-04-08 10:42:30,94.2,148/82,92.7,Neurology,Appendicitis,Insulin Therapy,Paracetamol 1g IV,Stable,Veda Lacelett
+844,1844,Sana Naqvi,2023-03-06 01:22:13,98.4,147/83,95.0,Cardiology,Appendicitis,Surgical Fixation,Insulin 20 units,Requires monitoring,Sibelle Broader
+845,1845,Hiba Chaudhary,2025-08-26 15:09:05,88.2,140/63,94.6,ICU,Appendicitis,Insulin Therapy,Ceftriaxone 1g IV,Critical — ventilator support,Evanne Losty
+846,1846,Aisha Farooqi,2023-04-08 11:51:38,108.3,137/65,93.4,General,Cardiology,Insulin Therapy,Paracetamol 1g IV,Requires monitoring,Albert Kubicek
+847,1847,Hassan Lodhi,2023-10-09 21:13:30,93.7,143/87,95.6,Neurology,Fractured Femur,IV Antihypertensives,Metoprolol 25mg,Critical — ventilator support,Mano Tongue
+848,1848,Maryam Jatoi,2025-01-23 06:02:30,78.9,119/85,94.0,Paediatrics,Fractured Femur,Thrombolysis,Morphine 10mg,Post-op recovery,Car Pleasants
+849,1849,Ahmed Hashmi,2025-05-27 19:10:55,92.1,149/77,92.6,Paediatrics,Appendicitis,Appendectomy,Paracetamol 1g IV,Post-op recovery,Kerby Crumley
+850,1850,Usman Hashmi,2024-08-12 17:28:15,95.6,126/76,95.5,Paediatrics,Acute Myocardial Infarction,IV Antibiotics,Ceftriaxone 1g IV,Transferred from ICU,Dacy Dufty
+851,1851,Mahnoor Shah,2024-05-14 19:28:59,78.4,114/72,96.9,Paediatrics,Acute Myocardial Infarction,Appendectomy,Morphine 10mg,Transferred from ICU,Anne-corinne Gonsalvez
+852,1852,Zaid Lodhi,2023-04-29 19:43:10,60.3,148/67,92.0,Paediatrics,General,Appendectomy,Morphine 10mg,Post-op recovery,Nikolai Ryding
+853,1853,Hamza Siddiqui,2023-03-17 15:01:45,79.1,115/66,92.3,ICU,Neurology,Surgical Fixation,Metoprolol 25mg,Improving,Thia Alltimes
+854,1854,Myra Jatoi,2023-05-20 10:24:02,61.3,141/66,96.2,Paediatrics,Acute Myocardial Infarction,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Bidget Root
+855,1855,Fatima Ali,2025-06-07 03:56:55,83.3,108/69,93.5,Paediatrics,Appendicitis,IV Antihypertensives,Insulin 20 units,Transferred from ICU,Jania Learmont
+856,1856,Dua Hashmi,2023-06-02 17:21:31,90.4,135/74,92.4,ICU,Cardiology,IV Antihypertensives,Morphine 10mg,Post-op recovery,Chloette Crewdson
+857,1857,Zainab Rizvi,2025-06-04 10:35:54,83.0,149/78,94.7,Cardiology,PaediatricsType 2 Diabetes,IV Antihypertensives,Insulin 20 units,Improving,Rhoda Dowd
+858,1858,Aisha Abbas,2024-11-26 22:53:20,75.5,130/92,96.4,Paediatrics,General,IV Antihypertensives,Metoprolol 25mg,Requires monitoring,Cyndi Rickson
+859,1859,Myra Afridi,2025-12-23 12:48:12,99.9,127/66,95.3,ICU,Ischemic Stroke,IV Antihypertensives,Morphine 10mg,Critical — ventilator support,Wynnie Stace
+860,1860,Ali Jatoi,2023-02-18 10:00:42,64.5,138/75,93.0,Paediatrics,Ischemic Stroke,Thrombolysis,Morphine 10mg,Improving,Berkly Fladgate
+861,1861,Anaya Farooqi,2025-03-13 19:26:06,88.9,127/65,92.3,Paediatrics,Fractured Femur,IV Antibiotics,Ceftriaxone 1g IV,Improving,Zandra Malia
+862,1862,Zaid Mughal,2024-06-17 23:56:14,85.3,126/64,92.1,Paediatrics,PaediatricsType 2 Diabetes,Angioplasty,Ceftriaxone 1g IV,Critical — ventilator support,Thornton Cruden
+863,1863,Bilal Afridi,2025-10-18 19:24:28,82.0,127/89,94.0,Orthopaedic,Acute Myocardial Infarction,Surgical Fixation,Ceftriaxone 1g IV,Stable,Eldridge Badder
+864,1864,Arsalan Jatoi,2023-01-22 22:44:40,64.2,113/73,97.6,Cardiology,Fractured Femur,IV Antibiotics,Metoprolol 25mg,Critical — ventilator support,Almira Rook
+865,1865,Ali Malik,2023-04-09 19:10:54,70.3,134/76,94.8,ICU,General,Thrombolysis,Heparin 5000 IU,Post-op recovery,Xylina Batistelli
+866,1866,Rehan Naqvi,2024-07-25 06:12:26,97.4,133/85,96.6,Orthopaedic,Orthopaedic,Insulin Therapy,Morphine 10mg,Improving,Morrie Wadwell
+867,1867,Omar Ahmed,2025-06-04 06:39:55,104.8,119/78,96.9,General,Neurology,Appendectomy,Metoprolol 25mg,Transferred from ICU,Julius Lorne
+868,1868,Ali Rizvi,2025-04-05 10:24:08,70.5,114/74,94.9,General,Ischemic Stroke,Thrombolysis,Insulin 20 units,Transferred from ICU,Ryann Dingwall
+869,1869,Hiba Farooqi,2025-05-05 23:25:39,73.2,142/94,96.9,Paediatrics,Orthopaedic,Surgical Fixation,Morphine 10mg,Improving,Mandi Shere
+870,1870,Zainab Qureshi,2024-04-13 05:26:48,93.5,143/85,96.9,Paediatrics,Ischemic Stroke,Appendectomy,Ceftriaxone 1g IV,Post-op recovery,Phyllys Snelson
+871,1871,Sana Afridi,2024-02-19 13:24:11,55.7,145/88,97.1,ICU,Acute Myocardial Infarction,Surgical Fixation,Metoprolol 25mg,Transferred from ICU,Sissy Dumbleton
+872,1872,Aisha Bajwa,2024-03-20 13:28:02,107.7,102/62,98.3,ICU,PaediatricsType 2 Diabetes,IV Antihypertensives,Heparin 5000 IU,Post-op recovery,Anderea Flannery
+873,1873,Noor Aziz,2025-08-12 09:05:50,90.2,126/70,95.4,General,ICU,Thrombolysis,Heparin 5000 IU,Improving,Beaufort Shipcott
+874,1874,Hiba Aziz,2023-11-06 23:19:55,67.4,134/71,92.3,Paediatrics,Pneumonia,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Martynne Yuryaev
+875,1875,Hamza Butt,2023-08-01 19:35:17,93.9,111/79,98.5,Orthopaedic,Cardiology,Thrombolysis,Ceftriaxone 1g IV,Transferred from ICU,Vikky Murdy
+876,1876,Ahmed Iqbal,2025-01-19 15:15:06,108.0,121/90,93.4,Cardiology,Hypertensive Crisis,Insulin Therapy,Morphine 10mg,Transferred from ICU,Nell Brignall
+877,1877,Ibrahim Siddiqui,2024-05-02 08:39:41,74.7,122/72,93.8,Orthopaedic,PaediatricsType 2 Diabetes,Appendectomy,Morphine 10mg,Improving,Kristine Siddell
+878,1878,Zainab Malik,2024-01-03 01:14:20,108.8,100/85,94.2,Paediatrics,Ischemic Stroke,Thrombolysis,Paracetamol 1g IV,Requires monitoring,Alejandrina O'Farrell
+879,1879,Myra Naqvi,2025-05-11 08:55:52,88.8,141/66,92.9,Paediatrics,Fractured Femur,IV Antihypertensives,Paracetamol 1g IV,Transferred from ICU,Lotte Barthelme
+880,1880,Sara Naqvi,2025-08-02 22:00:50,60.1,149/88,95.9,ICU,Hypertensive Crisis,Insulin Therapy,Insulin 20 units,Stable,Clea Prinnett
+881,1881,Noor Afridi,2025-09-08 09:29:52,79.3,141/78,95.2,ICU,Orthopaedic,Angioplasty,Insulin 20 units,Requires monitoring,Corette Aylin
+882,1882,Myra Iqbal,2023-07-31 02:20:27,67.3,122/62,94.7,Neurology,Hypertensive Crisis,Appendectomy,Insulin 20 units,Critical — ventilator support,Gus Curtayne
+883,1883,Omar Shah,2023-10-22 12:05:38,55.1,122/79,94.9,General,Pneumonia,IV Antihypertensives,Heparin 5000 IU,Stable,Lelia Battista
+884,1884,Anaya Qureshi,2024-07-16 12:42:45,94.9,125/89,95.2,Cardiology,Hypertensive Crisis,IV Antibiotics,Insulin 20 units,Transferred from ICU,Adelaide Pesik
+885,1885,Sara Shah,2023-02-04 02:39:46,67.0,111/77,93.8,Paediatrics,PaediatricsType 2 Diabetes,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Babara Hinemoor
+886,1886,Ahmed Iqbal,2025-11-25 03:30:12,65.7,130/63,97.4,General,ICU,Surgical Fixation,Metoprolol 25mg,Requires monitoring,Iggy Domotor
+887,1887,Sana Ahmed,2024-07-28 15:52:47,107.7,110/80,93.6,General,Acute Myocardial Infarction,Surgical Fixation,Paracetamol 1g IV,Transferred from ICU,Bryn Chatain
+888,1888,Zainab Gillani,2024-10-03 02:49:45,63.0,140/93,95.8,Orthopaedic,Cardiology,Insulin Therapy,Ceftriaxone 1g IV,Transferred from ICU,Ardelia Bellefant
+889,1889,Sana Mirza,2023-12-25 19:47:29,94.4,132/81,96.6,Neurology,Ischemic Stroke,Surgical Fixation,Morphine 10mg,Stable,Red Atwell
+890,1890,Mustafa Ahmed,2025-03-13 12:41:05,57.2,132/90,98.6,Paediatrics,Neurology,IV Antibiotics,Ceftriaxone 1g IV,Improving,Horatius Aaronson
+891,1891,Maryam Butt,2025-04-18 19:10:46,89.4,148/69,97.2,ICU,PaediatricsType 2 Diabetes,Appendectomy,Morphine 10mg,Transferred from ICU,Mehetabel Boustred
+892,1892,Mustafa Lodhi,2024-02-01 18:52:28,105.3,136/93,95.8,Orthopaedic,ICU,Appendectomy,Metoprolol 25mg,Stable,Shandie Lampaert
+893,1893,Ibrahim Chaudhary,2024-11-11 01:44:57,90.9,147/95,95.0,Paediatrics,Hypertensive Crisis,Appendectomy,Metoprolol 25mg,Post-op recovery,Graig Tout
+894,1894,Hamza Malik,2025-08-12 05:30:40,97.1,150/87,92.4,ICU,Pneumonia,IV Antihypertensives,Insulin 20 units,Transferred from ICU,Buddie Patey
+895,1895,Ibrahim Jatoi,2025-09-03 07:22:09,99.7,102/68,95.8,ICU,Orthopaedic,Appendectomy,Paracetamol 1g IV,Improving,Brose Sainter
+896,1896,Maryam Butt,2024-03-24 14:11:41,70.0,143/68,97.2,Cardiology,PaediatricsType 2 Diabetes,Appendectomy,Metoprolol 25mg,Requires monitoring,Delainey Smeall
+897,1897,Omar Khan,2024-12-01 01:09:02,88.5,125/79,92.0,ICU,ICU,Angioplasty,Metoprolol 25mg,Requires monitoring,Maggy Blasiak
+898,1898,Noor Shah,2023-08-24 09:00:36,58.4,124/87,92.6,Orthopaedic,Pneumonia,Thrombolysis,Metoprolol 25mg,Post-op recovery,Peg Severy
+899,1899,Hassan Jatoi,2025-09-26 03:21:42,103.4,116/61,93.2,Cardiology,Neurology,Angioplasty,Ceftriaxone 1g IV,Stable,Francklin Poff
+900,1900,Aisha Hussain,2025-01-27 20:36:19,79.3,141/60,97.9,Cardiology,Orthopaedic,Appendectomy,Metoprolol 25mg,Improving,Tani Demanche
+901,1901,Hamza Abbas,2024-02-21 21:51:53,68.8,149/78,98.8,Paediatrics,Ischemic Stroke,Appendectomy,Metoprolol 25mg,Critical — ventilator support,Tarrance Geke
+902,1902,Aisha Chaudhary,2023-06-06 09:31:24,107.3,110/75,97.9,ICU,Ischemic Stroke,Surgical Fixation,Insulin 20 units,Stable,Chrystel Albion
+903,1903,Mustafa Farooqi,2025-07-04 05:07:37,98.7,106/83,98.7,Neurology,Acute Myocardial Infarction,IV Antibiotics,Insulin 20 units,Transferred from ICU,Junie Cone
+904,1904,Maryam Abbas,2025-10-03 14:44:41,70.4,130/93,93.3,General,Hypertensive Crisis,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Gussie Handasyde
+905,1905,Ibrahim Afridi,2025-02-14 11:25:11,76.6,112/77,92.9,Neurology,Cardiology,Insulin Therapy,Morphine 10mg,Transferred from ICU,Roslyn Sivier
+906,1906,Hamza Naqvi,2024-10-10 06:06:35,61.1,106/87,95.8,Orthopaedic,Acute Myocardial Infarction,Surgical Fixation,Paracetamol 1g IV,Requires monitoring,Vitoria Halbert
+907,1907,Omar Malik,2024-11-01 00:18:03,69.8,146/70,97.0,Cardiology,Neurology,IV Antibiotics,Paracetamol 1g IV,Requires monitoring,Avigdor Gabe
+908,1908,Bilal Ahmed,2025-01-22 21:14:17,105.5,102/93,94.4,Neurology,Appendicitis,Insulin Therapy,Ceftriaxone 1g IV,Requires monitoring,Neala Crosoer
+909,1909,Mahnoor Mirza,2024-03-22 07:15:12,96.1,128/77,93.0,Cardiology,Acute Myocardial Infarction,Appendectomy,Insulin 20 units,Stable,Kenny Bewfield
+910,1910,Fatima Siddiqui,2024-07-17 01:26:24,57.6,113/82,93.6,Neurology,Fractured Femur,Thrombolysis,Morphine 10mg,Post-op recovery,Gabi Wardlow
+911,1911,Khadija Farooqi,2025-12-19 23:53:34,96.1,133/73,95.8,Orthopaedic,Hypertensive Crisis,Angioplasty,Morphine 10mg,Critical — ventilator support,Mala Spinley
+912,1912,Aisha Chaudhary,2025-08-27 04:33:22,88.2,100/83,98.7,General,Hypertensive Crisis,IV Antihypertensives,Paracetamol 1g IV,Stable,Kerry Dyer
+913,1913,Omar Malik,2025-03-23 15:11:52,71.1,138/73,96.6,Cardiology,General,Appendectomy,Insulin 20 units,Critical — ventilator support,Bobine Gearing
+914,1914,Mustafa Hashmi,2025-03-11 20:00:10,100.8,133/78,98.9,Orthopaedic,Fractured Femur,IV Antihypertensives,Paracetamol 1g IV,Stable,Fletch Camblin
+915,1915,Rehan Jatoi,2024-05-08 10:52:57,58.0,103/66,94.2,Orthopaedic,Neurology,IV Antibiotics,Heparin 5000 IU,Improving,Dinnie Rigate
+916,1916,Zaid Jatoi,2025-04-25 15:51:49,66.9,144/79,99.0,Cardiology,Acute Myocardial Infarction,IV Antibiotics,Metoprolol 25mg,Stable,Kristyn Lanchester
+917,1917,Noor Gillani,2023-07-16 20:44:44,102.0,133/64,96.8,Paediatrics,Appendicitis,Insulin Therapy,Metoprolol 25mg,Stable,Eloise Collingwood
+918,1918,Aisha Aziz,2023-08-23 20:02:41,96.1,101/60,98.1,Paediatrics,PaediatricsType 2 Diabetes,IV Antibiotics,Heparin 5000 IU,Improving,Risa Maud
+919,1919,Hassan Butt,2025-08-27 12:41:20,105.7,107/67,93.1,Orthopaedic,Hypertensive Crisis,Surgical Fixation,Morphine 10mg,Stable,Arron Hufton
+920,1920,Zaid Iqbal,2024-02-24 12:36:40,105.0,126/63,96.0,Paediatrics,Neurology,Insulin Therapy,Insulin 20 units,Stable,Josefina Medina
+921,1921,Zaid Afridi,2025-12-20 06:35:18,60.0,124/89,94.3,General,PaediatricsType 2 Diabetes,Thrombolysis,Insulin 20 units,Requires monitoring,Hazlett Chadd
+922,1922,Khadija Butt,2025-12-19 06:23:43,76.1,114/93,93.5,Orthopaedic,Ischemic Stroke,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Faythe Fiddymont
+923,1923,Maryam Mughal,2023-09-17 13:09:28,104.4,125/87,97.7,Orthopaedic,Neurology,IV Antibiotics,Ceftriaxone 1g IV,Critical — ventilator support,Heidi Stairmond
+924,1924,Ali Iqbal,2023-01-01 20:34:20,92.3,140/94,92.3,Neurology,General,Angioplasty,Morphine 10mg,Post-op recovery,Karin Drohan
+925,1925,Fatima Bajwa,2024-05-27 09:38:22,75.1,111/83,98.0,ICU,Cardiology,IV Antihypertensives,Insulin 20 units,Requires monitoring,Fancie Roocroft
+926,1926,Maryam Jatoi,2024-11-20 06:55:03,58.2,106/83,94.0,Cardiology,Cardiology,IV Antibiotics,Metoprolol 25mg,Stable,Langston Witchell
+927,1927,Sara Bajwa,2023-01-15 17:07:00,101.1,103/74,96.7,Orthopaedic,Fractured Femur,Appendectomy,Paracetamol 1g IV,Critical — ventilator support,Judie Cordle
+928,1928,Myra Hashmi,2024-06-30 09:33:33,56.5,123/86,98.5,Cardiology,PaediatricsType 2 Diabetes,IV Antihypertensives,Insulin 20 units,Stable,Colver Mulvaney
+929,1929,Khadija Farooqi,2025-05-01 21:06:38,103.2,105/76,92.7,Paediatrics,ICU,Angioplasty,Insulin 20 units,Requires monitoring,Reade Longbottom
+930,1930,Usman Ali,2024-05-04 02:04:11,55.8,119/86,98.6,General,Fractured Femur,Surgical Fixation,Paracetamol 1g IV,Critical — ventilator support,Lucais Gallardo
+931,1931,Anaya Ali,2024-05-31 05:09:27,93.8,145/95,95.6,Cardiology,Hypertensive Crisis,IV Antibiotics,Ceftriaxone 1g IV,Stable,Gage Tailby
+932,1932,Mahnoor Qureshi,2023-10-02 20:08:15,66.0,102/88,92.8,Orthopaedic,Hypertensive Crisis,Angioplasty,Heparin 5000 IU,Post-op recovery,Georgeta Blaine
+933,1933,Aisha Butt,2023-05-17 20:36:33,94.6,117/83,94.4,Cardiology,Neurology,IV Antibiotics,Paracetamol 1g IV,Post-op recovery,Renard Jeffray
+934,1934,Ali Qureshi,2024-01-25 06:15:42,86.6,103/77,95.3,Orthopaedic,Ischemic Stroke,Thrombolysis,Ceftriaxone 1g IV,Stable,Maitilde Stirman
+935,1935,Hamza Gillani,2023-11-28 22:53:32,69.4,109/76,93.2,ICU,Pneumonia,Surgical Fixation,Ceftriaxone 1g IV,Requires monitoring,Rusty Duigenan
+936,1936,Fatima Sheikh,2025-10-25 13:33:05,63.9,134/95,96.6,General,Neurology,IV Antihypertensives,Insulin 20 units,Critical — ventilator support,Rolf Lidgely
+937,1937,Mustafa Mughal,2024-02-27 17:13:00,109.3,139/80,93.3,ICU,Fractured Femur,IV Antibiotics,Paracetamol 1g IV,Stable,Bianca McPeake
+938,1938,Ahmed Ahmed,2023-10-27 19:33:01,82.1,103/76,92.1,General,Appendicitis,Angioplasty,Insulin 20 units,Stable,Skipper Frays
+939,1939,Hiba Bajwa,2025-03-19 19:00:41,86.0,119/62,98.0,Neurology,Ischemic Stroke,IV Antihypertensives,Heparin 5000 IU,Requires monitoring,Holmes Waplington
+940,1940,Usman Sheikh,2024-08-05 21:33:10,95.7,109/73,95.0,Cardiology,Pneumonia,Angioplasty,Heparin 5000 IU,Requires monitoring,Pammi Goodyear
+941,1941,Maryam Farooqi,2024-06-08 03:27:07,82.0,124/71,92.3,Cardiology,Hypertensive Crisis,Surgical Fixation,Heparin 5000 IU,Transferred from ICU,Brena Brumen
+942,1942,Noor Chaudhary,2025-03-31 00:09:08,84.2,141/78,97.4,Orthopaedic,Pneumonia,Insulin Therapy,Morphine 10mg,Transferred from ICU,Fredra Dilkes
+943,1943,Hiba Khan,2023-07-11 10:40:52,89.3,122/95,97.2,Neurology,Cardiology,IV Antihypertensives,Insulin 20 units,Critical — ventilator support,Alis Mugg
+944,1944,Ahmed Jatoi,2025-03-19 14:04:48,68.0,134/66,94.9,Neurology,Orthopaedic,Insulin Therapy,Heparin 5000 IU,Critical — ventilator support,Shadow Kidds
+945,1945,Omar Abbas,2025-04-30 01:47:20,74.0,126/95,93.2,Orthopaedic,Appendicitis,IV Antihypertensives,Morphine 10mg,Post-op recovery,Jess Menure
+946,1946,Noor Aziz,2023-12-25 08:41:51,56.4,142/79,97.3,General,Appendicitis,Surgical Fixation,Ceftriaxone 1g IV,Transferred from ICU,Shelby Dallison
+947,1947,Fatima Bajwa,2025-08-13 05:54:20,67.3,128/61,98.1,Neurology,Hypertensive Crisis,Surgical Fixation,Morphine 10mg,Stable,Lana Bedinn
+948,1948,Mustafa Chaudhary,2023-01-23 21:32:59,97.2,129/65,93.4,Paediatrics,Cardiology,Surgical Fixation,Metoprolol 25mg,Stable,Donny Jarrell
+949,1949,Arsalan Sheikh,2024-11-12 23:06:40,73.3,103/63,93.6,Paediatrics,General,Insulin Therapy,Insulin 20 units,Stable,Zeke Pashba
+950,1950,Myra Siddiqui,2025-10-18 07:17:41,108.8,102/82,93.1,General,General,Insulin Therapy,Morphine 10mg,Stable,Peyter McGlade
+951,1951,Rehan Hashmi,2023-11-06 03:04:33,63.1,117/77,97.6,Cardiology,ICU,Angioplasty,Metoprolol 25mg,Stable,Fraze Marlon
+952,1952,Mustafa Mirza,2023-12-03 16:53:51,72.0,135/89,98.6,Paediatrics,PaediatricsType 2 Diabetes,Angioplasty,Paracetamol 1g IV,Improving,Manda Lupton
+953,1953,Anaya Qureshi,2024-05-22 17:16:51,102.7,113/61,97.9,General,Hypertensive Crisis,IV Antibiotics,Metoprolol 25mg,Critical — ventilator support,Magda Culy
+954,1954,Rehan Mughal,2025-04-18 22:29:32,89.5,102/84,98.9,Neurology,General,IV Antihypertensives,Insulin 20 units,Stable,Teresina Strognell
+955,1955,Hassan Chaudhary,2024-05-17 02:12:30,104.7,142/64,97.9,General,Pneumonia,IV Antihypertensives,Heparin 5000 IU,Stable,Ora Doerling
+956,1956,Usman Naqvi,2023-04-30 00:59:55,61.2,122/80,94.1,Neurology,Orthopaedic,IV Antihypertensives,Paracetamol 1g IV,Post-op recovery,Ondrea Mitroshinov
+957,1957,Sara Aziz,2024-05-21 22:41:29,55.3,141/63,92.9,Cardiology,Orthopaedic,Thrombolysis,Paracetamol 1g IV,Improving,Marcella Blincow
+958,1958,Omar Bajwa,2023-03-22 12:19:09,66.3,113/84,97.1,Cardiology,Pneumonia,Insulin Therapy,Morphine 10mg,Post-op recovery,Maximo Petch
+959,1959,Hamza Hashmi,2025-12-30 07:07:32,79.7,106/91,93.5,Orthopaedic,Fractured Femur,Angioplasty,Metoprolol 25mg,Stable,Laryssa Ginnell
+960,1960,Hassan Bajwa,2023-12-07 13:48:12,102.4,106/89,97.5,Neurology,Fractured Femur,Surgical Fixation,Insulin 20 units,Transferred from ICU,Kermy Stevenson
+961,1961,Ibrahim Shah,2024-11-16 16:02:51,69.4,149/95,95.3,ICU,PaediatricsType 2 Diabetes,Thrombolysis,Heparin 5000 IU,Transferred from ICU,Elsinore Cockerill
+962,1962,Myra Jatoi,2024-12-24 16:46:41,58.4,120/78,96.8,Cardiology,Cardiology,IV Antibiotics,Morphine 10mg,Critical — ventilator support,Alyssa Bohling
+963,1963,Arsalan Ali,2025-07-16 09:49:26,55.6,145/61,95.7,Paediatrics,Appendicitis,Insulin Therapy,Ceftriaxone 1g IV,Improving,Darbee Ghelardoni
+964,1964,Sara Butt,2024-02-14 06:02:14,108.4,133/82,96.6,Cardiology,PaediatricsType 2 Diabetes,Thrombolysis,Ceftriaxone 1g IV,Critical — ventilator support,Melisa Serot
+965,1965,Sana Sheikh,2024-04-26 23:07:51,72.9,143/87,98.9,Cardiology,Hypertensive Crisis,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Lotta Ausiello
+966,1966,Bilal Shah,2025-03-02 01:20:06,86.6,104/83,98.7,General,Appendicitis,Insulin Therapy,Heparin 5000 IU,Improving,Bryan Jeratt
+967,1967,Anaya Shah,2024-01-16 05:37:04,76.6,111/85,98.6,Neurology,Hypertensive Crisis,Angioplasty,Insulin 20 units,Critical — ventilator support,Dasie Olin
+968,1968,Hassan Ali,2023-05-14 14:56:42,87.3,111/69,93.5,ICU,General,Insulin Therapy,Metoprolol 25mg,Stable,Mata Ducker
+969,1969,Zaid Malik,2024-06-15 10:06:13,57.4,116/81,94.3,ICU,Cardiology,IV Antihypertensives,Ceftriaxone 1g IV,Improving,Heida Yarwood
+970,1970,Khadija Lodhi,2025-04-01 14:43:56,74.2,141/92,97.3,Orthopaedic,General,Surgical Fixation,Insulin 20 units,Critical — ventilator support,Evita Mancer
+971,1971,Sara Chaudhary,2025-08-18 07:44:54,94.9,119/63,93.5,Neurology,Orthopaedic,IV Antibiotics,Insulin 20 units,Transferred from ICU,Lura Lammerts
+972,1972,Anaya Ali,2025-02-26 12:03:02,57.4,146/60,97.5,ICU,Acute Myocardial Infarction,IV Antibiotics,Metoprolol 25mg,Transferred from ICU,Mitzi Priver
+973,1973,Ahmed Mughal,2024-03-06 00:50:03,65.6,136/69,96.6,Paediatrics,Orthopaedic,Angioplasty,Insulin 20 units,Improving,Jennine Kensley
+974,1974,Dua Malik,2025-04-20 07:20:50,62.2,149/77,95.9,ICU,Pneumonia,IV Antihypertensives,Heparin 5000 IU,Critical — ventilator support,Francis Fradgley
+975,1975,Aisha Mughal,2024-07-21 07:49:55,76.0,139/69,92.0,Orthopaedic,Hypertensive Crisis,Appendectomy,Ceftriaxone 1g IV,Critical — ventilator support,Gianna Hastewell
+976,1976,Omar Abbas,2024-08-09 20:24:33,84.5,126/65,93.9,Orthopaedic,Fractured Femur,Angioplasty,Metoprolol 25mg,Transferred from ICU,Anny Cockren
+977,1977,Maryam Aziz,2025-04-03 10:48:55,101.8,129/85,95.4,Paediatrics,Cardiology,Insulin Therapy,Heparin 5000 IU,Transferred from ICU,Troy Arlow
+978,1978,Zaid Bajwa,2023-11-28 23:24:09,98.3,118/66,96.5,Paediatrics,Neurology,IV Antibiotics,Heparin 5000 IU,Requires monitoring,Mallory Dyshart
+979,1979,Aisha Chaudhary,2023-04-19 16:03:03,88.2,143/88,97.8,General,Pneumonia,Insulin Therapy,Insulin 20 units,Transferred from ICU,Roanna Grzeskowski
+980,1980,Noor Jatoi,2024-08-05 10:26:24,61.8,110/78,92.3,General,Ischemic Stroke,Angioplasty,Insulin 20 units,Improving,Vittorio Sheriff
+981,1981,Hassan Afridi,2024-11-04 09:23:28,77.8,144/72,97.1,General,Fractured Femur,Surgical Fixation,Morphine 10mg,Post-op recovery,Alexandrina Butler
+982,1982,Sana Khan,2024-07-17 04:22:07,83.8,121/81,95.3,ICU,Cardiology,IV Antibiotics,Paracetamol 1g IV,Stable,Julianne Moulsdale
+983,1983,Ali Lodhi,2025-05-27 06:01:51,57.3,145/91,95.2,General,Fractured Femur,Thrombolysis,Heparin 5000 IU,Critical — ventilator support,Glynis Mawby
+984,1984,Maryam Iqbal,2023-10-15 01:15:39,95.1,113/67,93.0,General,Orthopaedic,Thrombolysis,Ceftriaxone 1g IV,Improving,Carson Hathorn
+985,1985,Anaya Aziz,2024-04-14 20:35:30,76.0,116/68,92.9,Orthopaedic,ICU,Appendectomy,Ceftriaxone 1g IV,Improving,Devina Antliff
+986,1986,Mahnoor Shah,2024-01-01 04:40:44,65.0,117/80,95.8,Neurology,Cardiology,Appendectomy,Morphine 10mg,Requires monitoring,Berta Pitts
+987,1987,Mustafa Naqvi,2023-05-01 16:27:31,60.4,128/78,97.8,Cardiology,Cardiology,Angioplasty,Heparin 5000 IU,Improving,Aron Scranney
+988,1988,Anaya Iqbal,2023-09-01 07:43:20,107.3,124/89,97.0,Orthopaedic,Cardiology,Thrombolysis,Morphine 10mg,Improving,Kelli Cordall
+989,1989,Anaya Butt,2025-02-28 00:35:06,75.1,140/84,92.6,Neurology,Neurology,Appendectomy,Heparin 5000 IU,Post-op recovery,Ronny Di Bartolommeo
+990,1990,Hiba Afridi,2025-05-01 23:00:47,70.5,149/95,94.1,Paediatrics,Appendicitis,IV Antibiotics,Paracetamol 1g IV,Critical — ventilator support,Joela Longhurst
+991,1991,Zainab Rizvi,2024-06-28 13:54:27,55.6,141/66,98.8,Paediatrics,Neurology,Thrombolysis,Paracetamol 1g IV,Stable,Dall Britt
+992,1992,Fatima Mughal,2023-03-21 06:13:45,85.5,148/69,99.0,General,Appendicitis,Thrombolysis,Morphine 10mg,Transferred from ICU,Ephrem Laslett
+993,1993,Omar Lodhi,2024-11-11 17:06:02,71.2,106/79,97.0,General,Hypertensive Crisis,Appendectomy,Morphine 10mg,Stable,Aggie Climance
+994,1994,Rehan Mughal,2023-03-16 00:08:34,83.3,107/67,94.3,Cardiology,Fractured Femur,Angioplasty,Morphine 10mg,Requires monitoring,Anthiathia Margetson
+995,1995,Noor Naqvi,2024-10-15 14:47:53,68.0,104/87,95.0,Cardiology,Pneumonia,Angioplasty,Metoprolol 25mg,Improving,Lucretia Reven
+996,1996,Zainab Sheikh,2025-08-15 20:05:04,78.2,101/70,92.1,Neurology,Acute Myocardial Infarction,IV Antihypertensives,Morphine 10mg,Post-op recovery,Katya Mortimer
+997,1997,Zaid Ali,2024-02-19 13:03:21,96.7,135/89,95.9,ICU,Pneumonia,IV Antihypertensives,Morphine 10mg,Stable,Camilla Bruyett
+998,1998,Arsalan Rizvi,2024-03-23 04:49:57,67.1,124/88,95.0,General,PaediatricsType 2 Diabetes,Angioplasty,Metoprolol 25mg,Post-op recovery,Sherline Stiger
+999,1999,Ali Abbas,2024-11-23 10:29:23,95.7,145/77,95.9,ICU,Pneumonia,Thrombolysis,Ceftriaxone 1g IV,Transferred from ICU,Shanda Petegree
+1000,2000,Aisha Abbas,2024-07-23 02:58:19,78.1,147/61,93.9,General,Neurology,Surgical Fixation,Paracetamol 1g IV,Requires monitoring,Betsey Shortcliffe

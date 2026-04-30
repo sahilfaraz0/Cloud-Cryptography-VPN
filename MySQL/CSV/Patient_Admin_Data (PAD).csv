@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,full_name,cnic,date_of_birth,contact_number,address,admission_date,admission_reason,emergency_admission,medication_prior,medication_prescribed,assigned_doctor,hospital_branch,discharge_status
+1001,Bilal,Aziz,Bilal Aziz,85896-9565553-8,2004-01-08,03461920855,4 Bowman Street,2025-07-09 01:04:38,Fever,false,Aspirin,Metoprolol,Shelton Broe,Lahore,Deceased
+1002,Khadija,Ahmed,Khadija Ahmed,15721-6380580-3,1956-01-21,03379044114,70 Prairieview Parkway,2024-03-29 17:24:20,Appendicitis,false,Atorvastatin,Omeprazole,Janot Caunter,Lahore,Self-Discharged
+1003,Zaid,Hussain,Zaid Hussain,86922-4208765-2,2002-06-29,03203188623,5 Forest Run Center,2024-03-22 06:59:48,Road Accident,true,Insulin,Metoprolol,Raviv McArley,Lahore,Self-Discharged
+1004,Fatima,Naqvi,Fatima Naqvi,90385-7375064-5,1965-03-03,03484493479,62210 Sloan Park,2023-12-03 03:12:39,Diabetes Complication,true,Atorvastatin,Metoprolol,Francyne Tue,Lahore,Discharged
+1005,Rehan,Naqvi,Rehan Naqvi,44329-6870581-6,1991-09-27,03358634509,58408 Redwing Street,2023-01-12 01:37:14,Diabetes Complication,false,Aspirin,Ceftriaxone,Hulda Kensit,Karachi,Deceased
+1006,Khadija,Lodhi,Khadija Lodhi,49226-1115380-3,1970-10-04,03167456598,389 Valley Edge Plaza,2023-07-21 09:19:33,Fever,true,Metformin,Paracetamol,Sky Pawson,Karachi,Deceased
+1007,Myra,Abbas,Myra Abbas,30045-3331573-6,1981-07-28,03261232902,7 Becker Street,2024-07-24 14:54:38,Fever,false,Insulin,Omeprazole,Harmony Fishly,Multan,Referred
+1008,Mustafa,Khan,Mustafa Khan,99160-2505042-9,2002-10-19,03021598704,84 Lighthouse Bay Street,2024-10-22 13:46:36,Diabetes Complication,false,None,Metoprolol,Donia Brideau,Islamabad,Under Observation
+1009,Noor,Chaudhary,Noor Chaudhary,70651-3155523-6,1991-08-10,03095368522,3720 Pierstorff Hill,2023-07-22 21:37:39,Fever,true,Lisinopril,Omeprazole,Algernon McNevin,Multan,Under Observation
+1010,Khadija,Gillani,Khadija Gillani,97688-8268891-9,1980-12-09,03311425738,294 Ronald Regan Terrace,2025-01-01 11:26:13,Stroke,false,Atorvastatin,Metoprolol,Shelli Biermatowicz,Karachi,Referred
+1011,Mahnoor,Ali,Mahnoor Ali,94712-5125114-3,1977-12-22,03309143744,102 Knutson Pass,2023-11-10 13:02:53,Fracture,true,Atorvastatin,Omeprazole,Randal Dureden,Islamabad,Under Observation
+1012,Zainab,Farooqi,Zainab Farooqi,50823-6845185-9,1992-06-15,03126294586,59589 Dahle Pass,2024-01-30 18:21:29,Fever,true,Aspirin,Metoprolol,Ethelda Gravenell,Rawalpindi,Under Observation
+1013,Hiba,Butt,Hiba Butt,72846-6907629-5,1976-12-01,03000016469,29217 Gina Court,2024-03-31 22:25:00,Hypertension,true,Insulin,Metoprolol,Deanne Evans,Rawalpindi,Deceased
+1014,Fatima,Rizvi,Fatima Rizvi,49117-6366969-8,1956-06-06,03293190776,73 Grayhawk Way,2024-02-16 08:53:29,Hypertension,false,None,Paracetamol,Adriaens Awty,Islamabad,Under Observation
+1015,Zaid,Qureshi,Zaid Qureshi,21513-6095195-8,1986-06-21,03430281609,01407 Namekagon Junction,2025-03-01 08:06:41,Road Accident,true,Metformin,Amoxicillin,Bernelle Le Monnier,Multan,Under Observation
+1016,Dua,Aziz,Dua Aziz,38554-9843388-6,1983-03-17,03417971959,61 Kennedy Circle,2025-12-13 12:24:41,Hypertension,true,Atorvastatin,Metoprolol,Obed Nolin,Rawalpindi,Discharged
+1017,Hassan,Aziz,Hassan Aziz,17559-3451001-8,1965-10-14,03004748701,22 Boyd Place,2024-07-03 00:47:35,Chest Pain,true,Lisinopril,Metoprolol,Jo Tink,Rawalpindi,Deceased
+1018,Fatima,Ahmed,Fatima Ahmed,61302-8649876-7,1951-08-22,03036780400,70 Amoth Street,2025-10-20 20:58:58,Fever,false,Panadol,Ibuprofen,Lorine Golda,Lahore,Under Observation
+1019,Mahnoor,Afridi,Mahnoor Afridi,96821-3996870-9,1957-02-01,03329024068,5562 Cherokee Crossing,2024-09-15 07:25:07,Stroke,false,Insulin,Amoxicillin,Damiano Wrack,Lahore,Deceased
+1020,Hiba,Siddiqui,Hiba Siddiqui,72797-4452215-4,1956-05-25,03430372056,93 Westend Road,2025-11-17 20:38:59,Road Accident,true,Metformin,Paracetamol,Lenka Eveque,Rawalpindi,Discharged
+1021,Mustafa,Shah,Mustafa Shah,98445-9607255-8,1977-10-13,03111255466,33 Anniversary Avenue,2024-03-27 23:25:59,Road Accident,true,Metformin,Metoprolol,Teddie Pottery,Rawalpindi,Deceased
+1022,Hiba,Rizvi,Hiba Rizvi,90916-5592251-3,1990-08-22,03322124847,196 Warrior Park,2025-06-18 02:37:38,Stroke,false,Lisinopril,Omeprazole,Lacee Lukesch,Multan,Deceased
+1023,Arsalan,Shah,Arsalan Shah,40778-9005408-3,1959-01-23,03164960717,8634 Schurz Way,2025-09-02 01:30:11,Road Accident,false,Insulin,Ibuprofen,Josh Hengoed,Lahore,Referred
+1024,Arsalan,Butt,Arsalan Butt,67261-2485525-3,1969-09-01,03208264397,62918 Oneill Crossing,2024-04-16 19:12:36,Appendicitis,true,Insulin,Amoxicillin,Early Caskie,Lahore,Under Observation
+1025,Maryam,Mughal,Maryam Mughal,94952-9959529-3,1992-05-19,03003160203,767 Bluestem Center,2025-01-31 04:15:01,Appendicitis,true,Aspirin,Omeprazole,Dorthy Whardley,Lahore,Discharged
+1026,Hassan,Lodhi,Hassan Lodhi,21255-4067370-7,1985-07-18,03445970818,2 Service Lane,2023-04-24 13:36:57,Road Accident,true,None,Paracetamol,Kristofor Graine,Islamabad,Discharged
+1027,Bilal,Ali,Bilal Ali,30381-7456790-6,1978-01-08,03191119501,3 Union Way,2025-04-15 20:32:58,Appendicitis,true,Panadol,Paracetamol,Darin Kienl,Lahore,Under Observation
+1028,Bilal,Afridi,Bilal Afridi,45902-5597728-4,1962-01-15,03346069647,8008 Acker Court,2025-11-26 23:31:37,Road Accident,true,Metformin,Ibuprofen,Vite Bratton,Rawalpindi,Referred
+1029,Aisha,Sheikh,Aisha Sheikh,55217-3108512-3,1970-06-11,03084112405,29 Anniversary Place,2023-10-24 09:36:05,Hypertension,true,Panadol,Metoprolol,Nicol Wederell,Faisalabad,Under Observation
+1030,Maryam,Malik,Maryam Malik,55338-3920911-9,1975-01-03,03339025562,5086 Trailsway Junction,2024-08-04 06:34:44,Fracture,false,Insulin,Metoprolol,Lawry Colquhoun,Lahore,Deceased
+1031,Rehan,Butt,Rehan Butt,46007-8982595-7,2003-07-16,03089295980,653 Badeau Drive,2024-10-16 21:13:09,Diabetes Complication,false,Lisinopril,Ceftriaxone,Aeriela Tofful,Islamabad,Referred
+1032,Omar,Mirza,Omar Mirza,80118-8695322-7,1988-11-16,03080099450,2 Anzinger Street,2023-03-13 17:45:49,Appendicitis,true,Metformin,Ibuprofen,Tomi Marner,Multan,Deceased
+1033,Zainab,Farooqi,Zainab Farooqi,38632-5415689-6,1975-12-11,03233139317,018 Golf Hill,2023-08-27 01:26:27,Fracture,true,None,Paracetamol,Farris Cossem,Lahore,Referred
+1034,Mustafa,Naqvi,Mustafa Naqvi,49274-5714734-4,1995-01-01,03043424370,8 Memorial Place,2025-10-13 10:05:29,Hypertension,true,Aspirin,Metoprolol,Isabelle Ebrall,Karachi,Referred
+1035,Noor,Siddiqui,Noor Siddiqui,27672-5074321-5,1979-10-22,03334819555,44 Pierstorff Terrace,2025-09-28 17:02:17,Fever,false,Metformin,Paracetamol,Darrelle Tombleson,Multan,Self-Discharged
+1036,Ali,Naqvi,Ali Naqvi,15038-7956416-8,1975-08-16,03382263676,9864 Oneill Terrace,2023-11-21 16:56:19,Hypertension,false,Metformin,Paracetamol,Neala Swan,Rawalpindi,Discharged
+1037,Mustafa,Ali,Mustafa Ali,62965-2565930-9,1959-03-11,03350393025,6 International Junction,2024-03-31 21:42:53,Fracture,false,Aspirin,Paracetamol,Flore Shreeve,Lahore,Deceased
+1038,Myra,Shah,Myra Shah,76689-6272283-2,1999-03-06,03323506424,1586 Dwight Pass,2025-11-25 11:57:55,Road Accident,true,Lisinopril,Metoprolol,Celle Neasham,Islamabad,Deceased
+1039,Zaid,Malik,Zaid Malik,24376-7283074-3,2002-02-04,03185443189,658 Loeprich Crossing,2024-05-27 17:11:15,Road Accident,true,Atorvastatin,Ibuprofen,Riley Coot,Faisalabad,Referred
+1040,Anaya,Naqvi,Anaya Naqvi,86728-8071278-2,1996-11-26,03452073128,0 Eastlawn Point,2023-08-09 18:12:55,Road Accident,false,Aspirin,Ceftriaxone,Hannis Laidler,Rawalpindi,Self-Discharged
+1041,Noor,Chaudhary,Noor Chaudhary,59988-4471536-2,1994-05-20,03210321633,4603 Meadow Vale Plaza,2023-12-09 17:15:55,Hypertension,false,Metformin,Amoxicillin,Dorri Salt,Karachi,Under Observation
+1042,Omar,Hussain,Omar Hussain,13206-9540537-8,1978-11-25,03057984724,5 Havey Place,2025-04-15 19:13:44,Stroke,true,Insulin,Ceftriaxone,Perry Anthony,Faisalabad,Under Observation
+1043,Ali,Naqvi,Ali Naqvi,79738-2249913-9,1995-08-01,03013114127,28 Cordelia Park,2025-12-25 04:00:00,Hypertension,true,Atorvastatin,Ceftriaxone,Bone Powley,Lahore,Under Observation
+1044,Hassan,Khan,Hassan Khan,14521-3459823-5,2001-10-12,03109722628,8 Corben Junction,2024-06-07 22:05:53,Fracture,false,Metformin,Metoprolol,Grantham Domico,Islamabad,Under Observation
+1045,Usman,Mirza,Usman Mirza,66468-3519032-1,1989-03-31,03275986609,91 Monterey Court,2025-03-30 02:45:44,Fever,true,Atorvastatin,Omeprazole,Clara Gramer,Lahore,Discharged
+1046,Ibrahim,Jatoi,Ibrahim Jatoi,11996-3500398-3,1980-12-27,03244481546,239 Prairieview Point,2025-01-29 17:18:07,Stroke,false,Aspirin,Amoxicillin,Julius Fishby,Multan,Discharged
+1047,Ahmed,Sheikh,Ahmed Sheikh,47359-9182796-4,1964-07-19,03121153201,4492 Derek Circle,2024-09-19 06:25:48,Hypertension,true,Metformin,Ceftriaxone,Chantalle Margett,Lahore,Referred
+1048,Mahnoor,Khan,Mahnoor Khan,81284-4070313-2,1962-10-25,03307170665,094 Summerview Terrace,2023-01-22 05:35:04,Hypertension,true,None,Ceftriaxone,Edd Lindblad,Lahore,Under Observation
+1049,Maryam,Sheikh,Maryam Sheikh,64268-7599536-5,1993-08-16,03041946679,7802 American Ash Street,2024-04-04 16:08:11,Chest Pain,true,Atorvastatin,Omeprazole,Carlin MacCafferky,Rawalpindi,Under Observation
+1050,Ibrahim,Bajwa,Ibrahim Bajwa,44045-7304177-4,1964-10-06,03271959264,4183 Bashford Circle,2023-02-04 03:55:27,Fever,false,Lisinopril,Ibuprofen,Justinian Mowle,Faisalabad,Deceased
+1051,Bilal,Mughal,Bilal Mughal,29761-4157100-5,1958-08-26,03025720574,73 Ridge Oak Trail,2024-06-16 05:53:17,Diabetes Complication,true,None,Paracetamol,Cass Camber,Karachi,Discharged
+1052,Fatima,Malik,Fatima Malik,68561-1513080-4,1991-07-16,03486759317,43 Dwight Circle,2024-07-29 16:43:08,Fever,true,Lisinopril,Ibuprofen,Milo Usmar,Multan,Under Observation
+1053,Omar,Jatoi,Omar Jatoi,24934-9927685-3,1953-09-14,03030293991,33879 Lotheville Road,2025-05-26 23:22:57,Stroke,false,Panadol,Ceftriaxone,Minni Manach,Faisalabad,Discharged
+1054,Sara,Ahmed,Sara Ahmed,25071-1411781-4,1990-02-02,03214661397,94548 Jana Plaza,2024-05-29 04:58:50,Fever,false,Insulin,Paracetamol,Blane Ibel,Lahore,Discharged
+1055,Zainab,Hussain,Zainab Hussain,14256-1945000-8,1971-04-05,03002854727,4 Del Mar Avenue,2024-06-26 20:54:56,Chest Pain,true,Aspirin,Ceftriaxone,Erinn Mc Corley,Rawalpindi,Referred
+1056,Anaya,Qureshi,Anaya Qureshi,81116-8917363-7,1951-10-30,03096102423,748 Grasskamp Parkway,2024-01-19 07:44:07,Diabetes Complication,true,Panadol,Omeprazole,Elnar Mattam,Islamabad,Discharged
+1057,Myra,Abbas,Myra Abbas,48120-5297156-1,2002-06-06,03177794809,6908 Waxwing Street,2023-09-16 23:22:01,Stroke,true,Atorvastatin,Ibuprofen,Teri Brokenshaw,Lahore,Referred
+1058,Anaya,Mughal,Anaya Mughal,52724-9715057-5,1967-08-24,03276598752,3 Monument Alley,2025-06-07 01:25:48,Diabetes Complication,false,Atorvastatin,Metoprolol,Buck Spurgeon,Islamabad,Self-Discharged
+1059,Maryam,Aziz,Maryam Aziz,97135-2764853-9,1968-04-24,03300017379,6 Anniversary Crossing,2025-08-29 09:59:25,Stroke,false,Aspirin,Omeprazole,Koenraad Oakenford,Rawalpindi,Discharged
+1060,Myra,Lodhi,Myra Lodhi,19909-5391343-1,1987-12-26,03223610436,778 Maple Alley,2023-11-24 18:53:32,Fever,true,Lisinopril,Ibuprofen,Brenna Ishaki,Faisalabad,Referred
+1061,Mahnoor,Farooqi,Mahnoor Farooqi,19362-6273278-3,1979-03-16,03338918296,34237 Daystar Plaza,2024-01-29 18:47:30,Chest Pain,false,Insulin,Ibuprofen,Danit Blackwell,Islamabad,Referred
+1062,Dua,Naqvi,Dua Naqvi,69552-9846345-9,1996-11-30,03403674643,56639 Claremont Pass,2023-01-29 14:48:51,Road Accident,false,None,Amoxicillin,Alethea Turneaux,Multan,Discharged
+1063,Mustafa,Abbas,Mustafa Abbas,68709-9537160-7,1977-08-21,03298076497,2 North Park,2025-05-25 08:13:41,Stroke,false,None,Omeprazole,Dorolisa Halversen,Rawalpindi,Under Observation
+1064,Bilal,Jatoi,Bilal Jatoi,22594-2246605-2,1951-09-29,03115394887,89462 Macpherson Junction,2025-05-21 06:59:13,Road Accident,false,Atorvastatin,Metoprolol,Elysia Elphey,Multan,Under Observation
+1065,Fatima,Mughal,Fatima Mughal,16676-2555898-6,1995-08-06,03182656468,6189 Waubesa Pass,2024-09-27 21:25:46,Diabetes Complication,true,Aspirin,Omeprazole,Lorenza Marney,Rawalpindi,Self-Discharged
+1066,Zaid,Mirza,Zaid Mirza,97198-4003798-3,1963-10-16,03144053272,012 Stephen Parkway,2025-09-06 09:06:54,Chest Pain,true,Lisinopril,Amoxicillin,Gordan Highway,Islamabad,Self-Discharged
+1067,Anaya,Shah,Anaya Shah,39540-6111768-4,1974-07-14,03396037698,6892 Kim Crossing,2024-12-09 07:25:59,Fever,true,None,Paracetamol,Francoise Coller,Faisalabad,Under Observation
+1068,Hiba,Hussain,Hiba Hussain,51137-9675608-5,1972-01-19,03399380487,3657 Golf Course Point,2025-10-03 10:12:44,Diabetes Complication,false,None,Ibuprofen,Batsheva Ivashnyov,Rawalpindi,Discharged
+1069,Dua,Gillani,Dua Gillani,30652-6084190-2,1961-12-17,03082072087,94338 Golf Circle,2025-12-28 11:32:22,Fracture,false,Panadol,Omeprazole,Corinne Lissett,Karachi,Deceased
+1070,Khadija,Khan,Khadija Khan,25927-5648021-8,1980-05-11,03099465010,3439 Lake View Road,2023-04-22 12:42:45,Fever,true,Metformin,Metoprolol,My Hollidge,Rawalpindi,Referred
+1071,Noor,Farooqi,Noor Farooqi,64335-5271887-2,1957-01-19,03224816349,262 Village Green Circle,2023-09-27 15:53:10,Appendicitis,false,None,Omeprazole,Myrtice Pallasch,Karachi,Under Observation
+1072,Mahnoor,Butt,Mahnoor Butt,76974-9776749-8,1962-09-27,03029456446,517 Wayridge Court,2023-12-19 22:44:00,Appendicitis,true,Panadol,Paracetamol,Giuditta Caris,Multan,Self-Discharged
+1073,Anaya,Aziz,Anaya Aziz,84453-3318892-4,1957-01-23,03195191770,8306 Ridgeview Pass,2023-10-15 09:13:41,Diabetes Complication,true,Aspirin,Metoprolol,Trixi Dorney,Multan,Discharged
+1074,Bilal,Aziz,Bilal Aziz,75232-6311670-2,1972-08-27,03368315156,3543 Starling Place,2024-04-26 07:35:01,Appendicitis,true,None,Omeprazole,Ruttger Paragreen,Lahore,Discharged
+1075,Mustafa,Khan,Mustafa Khan,18582-5798359-6,1999-06-21,03278421491,9 Buell Alley,2025-12-29 00:40:25,Fever,false,Panadol,Ceftriaxone,Neely Lovett,Faisalabad,Self-Discharged
+1076,Fatima,Hashmi,Fatima Hashmi,45103-1476784-7,2005-12-23,03473214124,56193 Bashford Park,2024-09-17 00:35:31,Chest Pain,false,Lisinopril,Ceftriaxone,Tatum McGrorty,Faisalabad,Discharged
+1077,Anaya,Iqbal,Anaya Iqbal,74077-3720274-8,1972-06-05,03286595533,1 Elmside Alley,2024-07-24 03:51:36,Road Accident,false,Metformin,Amoxicillin,Sigfried Ashby,Karachi,Referred
+1078,Mustafa,Sheikh,Mustafa Sheikh,52797-2735810-6,1998-09-05,03080946351,4 Park Meadow Center,2025-12-14 13:56:04,Chest Pain,false,Insulin,Metoprolol,Faith Fullick,Lahore,Referred
+1079,Usman,Mughal,Usman Mughal,16342-9071746-9,1964-02-02,03401677799,0961 Spohn Circle,2025-12-18 08:03:38,Chest Pain,false,Aspirin,Ceftriaxone,Christi Wanne,Rawalpindi,Discharged
+1080,Mahnoor,Malik,Mahnoor Malik,38146-4411905-6,1969-09-10,03053634028,40016 Mallard Plaza,2024-04-15 22:01:09,Stroke,true,Atorvastatin,Metoprolol,Simeon Skingle,Islamabad,Referred
+1081,Myra,Khan,Myra Khan,47876-9564890-9,1956-12-08,03463664571,8913 Carpenter Court,2023-07-25 23:47:41,Stroke,true,Atorvastatin,Metoprolol,Dido Kimmerling,Rawalpindi,Deceased
+1082,Ali,Butt,Ali Butt,28466-3572698-7,1986-12-23,03166006600,96 Westend Crossing,2025-06-13 16:02:56,Chest Pain,true,Atorvastatin,Ceftriaxone,Chrysler Spellman,Multan,Referred
+1083,Mustafa,Mughal,Mustafa Mughal,65529-6477421-3,1958-10-31,03131188954,5473 Montana Point,2024-10-04 07:50:49,Appendicitis,false,Atorvastatin,Omeprazole,Morley Abendroth,Lahore,Referred
+1084,Mahnoor,Abbas,Mahnoor Abbas,84146-2829265-3,1971-01-15,03096094989,57967 Pine View Parkway,2025-12-01 13:23:14,Road Accident,true,Atorvastatin,Omeprazole,Veriee Drage,Islamabad,Self-Discharged
+1085,Anaya,Hussain,Anaya Hussain,10480-2222011-3,1995-01-20,03092805925,410 Anhalt Plaza,2023-02-20 19:43:20,Diabetes Complication,false,Atorvastatin,Ceftriaxone,Mable Poleye,Lahore,Under Observation
+1086,Hassan,Qureshi,Hassan Qureshi,14028-9902486-7,2004-09-11,03283242598,697 Sunbrook Terrace,2024-07-22 08:30:59,Hypertension,true,Atorvastatin,Ibuprofen,Sabra Clemetts,Faisalabad,Referred
+1087,Zaid,Butt,Zaid Butt,80777-2651828-5,1957-03-04,03264304485,2 Donald Way,2024-04-30 07:12:01,Stroke,false,None,Ceftriaxone,Corby Jovicic,Islamabad,Under Observation
+1088,Zaid,Afridi,Zaid Afridi,31080-2747378-9,1976-10-11,03173667061,5 Golf Course Lane,2025-01-05 01:37:58,Chest Pain,true,Panadol,Ceftriaxone,Lew Kidston,Islamabad,Deceased
+1089,Bilal,Naqvi,Bilal Naqvi,71040-3077771-2,1997-09-24,03499438850,151 Oak Valley Point,2025-06-21 11:16:22,Fracture,false,None,Ceftriaxone,Tomaso Northfield,Multan,Self-Discharged
+1090,Arsalan,Aziz,Arsalan Aziz,25155-5902165-9,1966-07-28,03427962642,43 Elka Avenue,2024-07-16 06:30:32,Diabetes Complication,true,Lisinopril,Ibuprofen,Mirabella Quodling,Lahore,Discharged
+1091,Bilal,Ahmed,Bilal Ahmed,31492-8926718-3,1957-09-05,03240722848,84060 Prentice Road,2024-02-10 22:48:20,Appendicitis,true,Atorvastatin,Amoxicillin,Byrom Marioneau,Rawalpindi,Referred
+1092,Omar,Butt,Omar Butt,66039-6857691-3,1996-04-06,03227028490,9489 Johnson Way,2023-12-18 08:39:37,Stroke,true,Panadol,Ceftriaxone,Kinsley Lyles,Multan,Referred
+1093,Ali,Sheikh,Ali Sheikh,75562-6484587-1,2004-06-26,03324417822,048 Waubesa Drive,2025-04-08 20:33:12,Appendicitis,false,Lisinopril,Paracetamol,Shandra Undrell,Islamabad,Discharged
+1094,Ibrahim,Mirza,Ibrahim Mirza,51252-2557684-5,1961-10-07,03424803221,65 Coolidge Junction,2024-08-12 00:32:39,Appendicitis,false,Atorvastatin,Omeprazole,Shela Micheu,Lahore,Under Observation
+1095,Rehan,Hussain,Rehan Hussain,77143-8412048-3,1960-06-07,03066296488,5163 North Junction,2025-03-31 17:52:02,Chest Pain,false,Panadol,Paracetamol,De witt Loiterton,Lahore,Discharged
+1096,Khadija,Farooqi,Khadija Farooqi,60028-7655781-1,1965-02-28,03013545669,22142 Bashford Trail,2023-02-21 04:58:58,Fracture,true,Panadol,Amoxicillin,Dominic Liepina,Faisalabad,Discharged
+1097,Maryam,Mughal,Maryam Mughal,84441-1755276-2,1964-07-10,03070728363,8 Northport Drive,2023-01-22 17:58:35,Chest Pain,false,Atorvastatin,Omeprazole,Ronnie Maytum,Lahore,Discharged
+1098,Bilal,Shah,Bilal Shah,35714-2523385-5,2001-01-14,03267391274,80 Vermont Circle,2023-04-06 13:57:40,Chest Pain,false,Panadol,Omeprazole,Pepito Mathouse,Faisalabad,Referred
+1099,Hiba,Sheikh,Hiba Sheikh,97378-2079306-8,1989-11-03,03262126595,89650 8th Pass,2023-10-08 07:10:07,Appendicitis,true,Atorvastatin,Amoxicillin,Benjamin Yerill,Rawalpindi,Deceased
+1100,Ali,Farooqi,Ali Farooqi,39104-9573255-7,1991-12-19,03054931935,95005 Wayridge Hill,2024-07-28 16:52:15,Appendicitis,true,None,Ibuprofen,Margery Simioni,Lahore,Discharged
+1101,Myra,Jatoi,Myra Jatoi,70140-7252963-9,1976-08-27,03098133325,40 Susan Circle,2025-02-03 00:54:37,Hypertension,true,None,Paracetamol,Dore Bruce,Karachi,Discharged
+1102,Aisha,Abbas,Aisha Abbas,84773-9918699-7,1970-02-02,03421240398,5 Walton Road,2025-05-13 08:01:37,Stroke,true,Lisinopril,Amoxicillin,Peadar Barnsley,Rawalpindi,Discharged
+1103,Mustafa,Khan,Mustafa Khan,95854-7055574-6,1975-01-15,03120528279,856 Vera Drive,2024-07-09 06:21:34,Chest Pain,false,Metformin,Metoprolol,Cathie Gerram,Karachi,Deceased
+1104,Myra,Aziz,Myra Aziz,50843-5736130-4,1995-02-23,03365170042,46 Moose Place,2024-07-23 02:31:34,Fever,false,None,Paracetamol,Garold Billyard,Karachi,Deceased
+1105,Ali,Rizvi,Ali Rizvi,41029-4486650-2,1991-02-08,03295956649,334 Lukken Trail,2023-11-21 14:55:39,Hypertension,true,Panadol,Paracetamol,Aluino Younie,Karachi,Self-Discharged
+1106,Mahnoor,Rizvi,Mahnoor Rizvi,65684-7972333-5,1993-07-03,03399608101,0904 Erie Trail,2025-03-12 23:50:17,Appendicitis,true,Atorvastatin,Metoprolol,Lea Cestard,Islamabad,Discharged
+1107,Omar,Jatoi,Omar Jatoi,50353-6080016-4,1992-11-24,03467638846,8 Barby Drive,2025-05-02 06:35:33,Fracture,true,None,Ibuprofen,Normand Copson,Islamabad,Deceased
+1108,Ibrahim,Shah,Ibrahim Shah,70026-2397318-7,1969-03-28,03364581217,18 Park Meadow Pass,2023-03-25 14:33:56,Diabetes Complication,true,Panadol,Ibuprofen,Cassey Janko,Rawalpindi,Referred
+1109,Sara,Siddiqui,Sara Siddiqui,43209-5267982-2,1991-01-03,03075267386,00 Kropf Place,2025-05-21 11:34:28,Appendicitis,false,None,Metoprolol,Lance Deniseau,Multan,Under Observation
+1110,Hamza,Sheikh,Hamza Sheikh,33022-4155596-5,1985-02-24,03261100095,302 Stoughton Place,2024-03-10 12:37:24,Hypertension,true,Atorvastatin,Omeprazole,Reuven Quiney,Lahore,Discharged
+1111,Maryam,Siddiqui,Maryam Siddiqui,81875-9754457-6,1982-04-09,03430230072,608 Alpine Place,2023-05-05 00:41:56,Hypertension,true,None,Metoprolol,Candi St. Queintain,Faisalabad,Referred
+1112,Sana,Jatoi,Sana Jatoi,65122-2798973-9,1988-03-04,03022165676,2 Mcbride Terrace,2025-03-19 05:06:06,Stroke,true,Insulin,Metoprolol,Sibel Landells,Lahore,Self-Discharged
+1113,Aisha,Afridi,Aisha Afridi,73923-2638961-1,1997-10-04,03184424192,3724 Talisman Center,2023-10-20 15:24:55,Road Accident,false,Aspirin,Amoxicillin,Alexandre Swanton,Rawalpindi,Referred
+1114,Sara,Ahmed,Sara Ahmed,21984-5062827-2,1972-06-25,03381143322,0572 Ruskin Way,2025-08-13 08:11:58,Hypertension,true,Panadol,Metoprolol,Cecilla Orpin,Multan,Referred
+1115,Mahnoor,Gillani,Mahnoor Gillani,75904-5639279-3,1976-11-05,03288384365,85 School Parkway,2023-07-14 03:36:08,Stroke,false,Atorvastatin,Ceftriaxone,Loralie Rassmann,Faisalabad,Self-Discharged
+1116,Usman,Malik,Usman Malik,46359-5585114-8,1982-09-17,03140874344,06512 Green Center,2025-08-25 13:19:17,Fracture,true,Lisinopril,Ibuprofen,Arch Luckcock,Islamabad,Referred
+1117,Aisha,Mirza,Aisha Mirza,68180-2124382-5,1994-09-17,03419268951,97 Magdeline Lane,2023-07-25 20:47:48,Fracture,true,Metformin,Paracetamol,Rasia Markussen,Multan,Referred
+1118,Dua,Rizvi,Dua Rizvi,98747-5271152-7,2004-02-07,03471330131,73 Oxford Parkway,2023-09-13 23:36:50,Chest Pain,false,Atorvastatin,Ceftriaxone,Yvonne Allsobrook,Lahore,Under Observation
+1119,Usman,Butt,Usman Butt,76947-1596861-3,1954-10-10,03376999422,6 Vahlen Alley,2024-11-20 14:05:54,Fever,false,Insulin,Paracetamol,Lorne Franchioni,Rawalpindi,Under Observation
+1120,Mahnoor,Mughal,Mahnoor Mughal,76263-6099449-5,1958-01-05,03362644136,393 Weeping Birch Park,2025-03-01 22:46:58,Road Accident,false,Lisinopril,Metoprolol,Barbe Bowhay,Rawalpindi,Under Observation
+1121,Arsalan,Iqbal,Arsalan Iqbal,80724-5025628-9,1986-10-16,03114139598,6193 Memorial Park,2023-07-26 13:05:29,Road Accident,false,Lisinopril,Omeprazole,Ravid Bagge,Lahore,Referred
+1122,Hassan,Chaudhary,Hassan Chaudhary,24428-1453479-3,1953-09-25,03446894296,3520 Debra Hill,2023-06-27 21:13:19,Fracture,true,Panadol,Amoxicillin,Amii Mapes,Rawalpindi,Under Observation
+1123,Omar,Jatoi,Omar Jatoi,40626-4445836-7,2005-02-28,03260039079,6 Magdeline Court,2023-10-15 01:35:30,Diabetes Complication,false,None,Ibuprofen,Kienan Cawte,Islamabad,Referred
+1124,Usman,Afridi,Usman Afridi,56697-9608506-5,1952-10-03,03027524456,7631 Towne Trail,2025-03-01 15:37:47,Chest Pain,true,Insulin,Amoxicillin,Ebonee Claus,Multan,Under Observation
+1125,Fatima,Gillani,Fatima Gillani,72890-3004442-4,1998-11-21,03374743628,7 Anthes Trail,2025-12-05 07:03:35,Diabetes Complication,true,Insulin,Omeprazole,Hughie Blowin,Rawalpindi,Referred
+1126,Myra,Butt,Myra Butt,66118-4685308-6,1983-08-27,03327428701,9 Nova Terrace,2024-11-22 21:45:10,Hypertension,false,Lisinopril,Ibuprofen,Di Fallanche,Karachi,Referred
+1127,Zainab,Shah,Zainab Shah,42035-2770209-3,1981-05-08,03371676376,4390 Hazelcrest Avenue,2025-05-26 16:44:52,Appendicitis,false,Panadol,Ibuprofen,Mandel Makeswell,Lahore,Deceased
+1128,Sara,Afridi,Sara Afridi,59727-6122575-8,1959-02-04,03057368563,2 Center Point,2024-03-06 12:31:28,Hypertension,true,Aspirin,Ibuprofen,Sari Cooksley,Faisalabad,Under Observation
+1129,Khadija,Bajwa,Khadija Bajwa,38844-7919403-4,1971-10-26,03001157528,6384 Northridge Lane,2023-05-01 20:11:04,Chest Pain,false,Lisinopril,Amoxicillin,Linette Rohlfing,Faisalabad,Discharged
+1130,Arsalan,Ahmed,Arsalan Ahmed,70438-7632318-8,1965-01-13,03336030395,5282 Sherman Court,2024-10-12 13:01:31,Road Accident,true,Atorvastatin,Omeprazole,Joelle Salmen,Faisalabad,Self-Discharged
+1131,Omar,Abbas,Omar Abbas,99205-2996965-5,1999-06-02,03231368397,47369 Lillian Circle,2024-10-20 12:01:50,Hypertension,true,Metformin,Ceftriaxone,Bibbye LaBastida,Karachi,Deceased
+1132,Bilal,Iqbal,Bilal Iqbal,44324-4758483-8,1995-04-10,03228647306,685 Crowley Road,2025-10-05 12:38:48,Diabetes Complication,true,Atorvastatin,Amoxicillin,Frants Lindsay,Faisalabad,Discharged
+1133,Aisha,Butt,Aisha Butt,35838-5009975-3,1978-10-05,03393430269,4 Cambridge Point,2025-06-07 20:44:08,Chest Pain,false,Aspirin,Metoprolol,Buffy Borsnall,Karachi,Under Observation
+1134,Mustafa,Mirza,Mustafa Mirza,15265-3696460-9,1997-08-10,03213448208,37 Dahle Plaza,2023-06-09 14:26:50,Road Accident,false,Insulin,Metoprolol,Alene Paske,Rawalpindi,Under Observation
+1135,Aisha,Qureshi,Aisha Qureshi,17880-1041892-5,2005-06-30,03321804258,94 Fallview Avenue,2025-10-24 19:26:26,Stroke,false,Lisinopril,Ceftriaxone,Peri Huke,Lahore,Referred
+1136,Hassan,Iqbal,Hassan Iqbal,95431-3264636-4,1965-07-22,03125782980,149 Pearson Center,2025-08-02 18:08:59,Stroke,false,None,Paracetamol,Prinz Jiru,Karachi,Discharged
+1137,Bilal,Qureshi,Bilal Qureshi,62287-6148415-1,1967-04-28,03049730267,8863 Park Meadow Trail,2024-06-21 21:14:39,Diabetes Complication,false,None,Ceftriaxone,Phillis Dovidian,Islamabad,Under Observation
+1138,Rehan,Mirza,Rehan Mirza,35940-3337762-8,1982-08-13,03124857372,6033 Toban Circle,2025-02-14 12:13:41,Chest Pain,false,None,Ibuprofen,Blane Olivas,Faisalabad,Discharged
+1139,Dua,Butt,Dua Butt,59224-6873775-4,1996-10-12,03333049887,33 Rieder Plaza,2024-03-22 14:41:56,Diabetes Complication,true,Atorvastatin,Ceftriaxone,Addia Brugger,Faisalabad,Self-Discharged
+1140,Myra,Ali,Myra Ali,11251-4721966-2,1959-11-04,03047445847,6 Golf View Court,2023-07-16 08:49:07,Diabetes Complication,false,None,Amoxicillin,Breanne Scarsbrooke,Rawalpindi,Discharged
+1141,Aisha,Rizvi,Aisha Rizvi,49754-2410375-3,1983-07-01,03315913480,68 Fair Oaks Road,2024-07-27 03:11:27,Fever,true,Insulin,Ibuprofen,Edeline Locarno,Karachi,Discharged
+1142,Fatima,Afridi,Fatima Afridi,44065-8170943-4,1958-02-11,03411497730,29 Brown Crossing,2025-12-26 13:45:24,Road Accident,false,Insulin,Ceftriaxone,Juli Cawcutt,Multan,Discharged
+1143,Hamza,Farooqi,Hamza Farooqi,77217-7062578-6,1950-04-17,03245024377,27 Dakota Hill,2023-04-11 13:29:41,Fracture,true,Atorvastatin,Metoprolol,Adams Sheaf,Karachi,Discharged
+1144,Dua,Iqbal,Dua Iqbal,77151-2656511-8,1950-12-14,03468280353,043 Colorado Place,2025-04-20 02:04:53,Stroke,false,Atorvastatin,Paracetamol,Suellen Tidey,Multan,Discharged
+1145,Noor,Abbas,Noor Abbas,52527-9212179-9,1967-10-17,03342426504,871 Superior Junction,2023-11-25 07:27:46,Diabetes Complication,false,Aspirin,Amoxicillin,Stace Strutton,Karachi,Under Observation
+1146,Mustafa,Gillani,Mustafa Gillani,52201-9186072-6,1974-09-20,03499853113,01 Mariners Cove Street,2023-06-17 17:07:19,Fever,true,Atorvastatin,Amoxicillin,Phillie Bultitude,Rawalpindi,Self-Discharged
+1147,Khadija,Hashmi,Khadija Hashmi,78725-7661971-6,2003-07-12,03346591660,7 Debs Crossing,2023-01-16 07:49:18,Fever,false,Atorvastatin,Ibuprofen,Alia Geibel,Rawalpindi,Under Observation
+1148,Fatima,Khan,Fatima Khan,76216-1788268-6,1959-12-10,03488762221,8 Dottie Junction,2024-01-26 08:44:58,Fever,false,None,Omeprazole,Tabitha Edwardson,Faisalabad,Under Observation
+1149,Khadija,Mirza,Khadija Mirza,47260-7230725-5,1976-12-13,03341673543,4302 Butternut Court,2024-02-03 21:30:51,Stroke,true,Panadol,Ibuprofen,Bernita Zecchi,Karachi,Referred
+1150,Myra,Mirza,Myra Mirza,78506-9533072-4,1981-07-03,03319022895,80321 Randy Terrace,2024-08-24 13:40:39,Chest Pain,true,Atorvastatin,Amoxicillin,Fabio Battson,Islamabad,Discharged
+1151,Usman,Hashmi,Usman Hashmi,40290-7567847-5,1963-12-11,03104911061,37 Dennis Junction,2023-01-13 02:55:47,Appendicitis,true,Aspirin,Ceftriaxone,Sharl Aliman,Multan,Deceased
+1152,Arsalan,Ali,Arsalan Ali,32924-3960819-5,1964-12-28,03259446630,2 Birchwood Point,2024-09-07 03:09:41,Chest Pain,true,Panadol,Ceftriaxone,Gwendolyn Hudleston,Karachi,Referred
+1153,Rehan,Mughal,Rehan Mughal,78518-8242989-7,1976-10-09,03115360887,7 Thierer Avenue,2025-03-29 12:17:26,Road Accident,true,Insulin,Paracetamol,Almeria Gillooly,Multan,Deceased
+1154,Khadija,Naqvi,Khadija Naqvi,94199-5772676-7,1985-04-30,03307301591,629 Crest Line Trail,2025-11-27 05:13:34,Diabetes Complication,false,Panadol,Omeprazole,Chloris Pagel,Multan,Under Observation
+1155,Anaya,Afridi,Anaya Afridi,80010-3657859-5,1987-06-13,03271025711,7604 Barby Junction,2025-01-30 03:15:08,Appendicitis,true,Panadol,Paracetamol,Loutitia Lardnar,Faisalabad,Self-Discharged
+1156,Zaid,Farooqi,Zaid Farooqi,17382-5512488-5,1994-04-08,03427944919,9 Sugar Trail,2025-02-13 08:07:04,Stroke,true,Insulin,Amoxicillin,Marissa Gowenlock,Islamabad,Self-Discharged
+1157,Ibrahim,Mirza,Ibrahim Mirza,22989-2340545-8,1980-10-24,03264264155,460 Garrison Circle,2023-02-23 06:32:09,Road Accident,false,Lisinopril,Metoprolol,Julianne Artindale,Faisalabad,Discharged
+1158,Aisha,Rizvi,Aisha Rizvi,55578-3635224-4,1978-05-20,03100011715,5 Ruskin Center,2023-05-25 01:36:23,Chest Pain,false,Lisinopril,Ceftriaxone,Sile Bisson,Rawalpindi,Self-Discharged
+1159,Noor,Mirza,Noor Mirza,14078-7430199-6,1961-10-26,03051563184,3 Transport Road,2023-03-31 18:14:59,Hypertension,true,Insulin,Ibuprofen,Dulcine Hunnywell,Lahore,Referred
+1160,Mustafa,Malik,Mustafa Malik,91680-3418225-5,1965-02-17,03123825353,9598 Hayes Alley,2025-05-19 09:05:58,Hypertension,true,Metformin,Metoprolol,Walden Lound,Karachi,Deceased
+1161,Anaya,Lodhi,Anaya Lodhi,76513-1324717-8,1964-12-06,03267921791,4984 Dakota Crossing,2024-12-05 11:37:47,Chest Pain,false,Insulin,Amoxicillin,Zacherie Corbert,Karachi,Deceased
+1162,Bilal,Qureshi,Bilal Qureshi,55849-1792354-5,1994-04-26,03132831650,255 Coolidge Way,2023-04-16 20:26:11,Stroke,false,Aspirin,Metoprolol,Dorolice Gibbons,Rawalpindi,Deceased
+1163,Aisha,Farooqi,Aisha Farooqi,72586-4884144-6,1950-12-29,03134245581,5126 Warrior Pass,2025-08-20 15:16:40,Fracture,true,Aspirin,Ceftriaxone,Felicle Bougen,Multan,Discharged
+1164,Myra,Siddiqui,Myra Siddiqui,67993-9941549-1,1992-03-23,03085970973,6299 Loomis Terrace,2025-12-03 03:22:49,Road Accident,true,Panadol,Metoprolol,Hunt Sharple,Islamabad,Referred
+1165,Ibrahim,Hashmi,Ibrahim Hashmi,48573-2184164-3,2005-03-10,03259939497,60 Melvin Crossing,2024-10-11 10:40:06,Chest Pain,true,None,Metoprolol,Adolphe MacGaughy,Multan,Self-Discharged
+1166,Noor,Ahmed,Noor Ahmed,34590-4232392-5,1973-02-15,03377870052,71899 Drewry Circle,2024-09-01 20:21:32,Fracture,false,None,Ceftriaxone,Charlean Kalvin,Karachi,Self-Discharged
+1167,Ibrahim,Aziz,Ibrahim Aziz,20587-3823757-3,2004-11-22,03241292851,51 Bartelt Way,2023-07-22 12:36:55,Appendicitis,true,Lisinopril,Ceftriaxone,Rosalie Adhams,Rawalpindi,Under Observation
+1168,Sara,Bajwa,Sara Bajwa,23457-6727723-6,1961-10-26,03283195394,5851 Jay Place,2025-11-01 19:09:51,Road Accident,true,Insulin,Metoprolol,Andra Oglethorpe,Lahore,Referred
+1169,Hamza,Iqbal,Hamza Iqbal,57175-6136721-7,1987-06-05,03449686560,092 Russell Park,2025-08-17 18:21:57,Stroke,true,Atorvastatin,Ceftriaxone,Ab Manass,Rawalpindi,Deceased
+1170,Hamza,Jatoi,Hamza Jatoi,31555-5230999-8,1997-10-30,03048434766,02 Maple Wood Hill,2025-05-23 06:50:05,Fracture,false,Lisinopril,Ceftriaxone,Corey Sharratt,Rawalpindi,Under Observation
+1171,Arsalan,Hussain,Arsalan Hussain,41216-6009000-1,1991-11-18,03039190203,68 Tennessee Parkway,2024-09-03 13:58:28,Diabetes Complication,false,Lisinopril,Ibuprofen,Emera Nerger,Faisalabad,Deceased
+1172,Zainab,Farooqi,Zainab Farooqi,44211-1026964-5,1996-10-22,03377335300,17312 Florence Parkway,2023-11-28 16:02:46,Stroke,false,Aspirin,Ceftriaxone,Celka Matysiak,Rawalpindi,Discharged
+1173,Rehan,Naqvi,Rehan Naqvi,75610-4932547-2,1990-11-05,03387129428,575 Homewood Court,2023-04-16 23:17:55,Stroke,true,Insulin,Ibuprofen,Tildy Vedyashkin,Karachi,Discharged
+1174,Sana,Afridi,Sana Afridi,20349-4122015-5,1990-07-20,03383847369,88480 Mcbride Junction,2023-02-08 02:37:24,Diabetes Complication,false,Insulin,Amoxicillin,Fleming Laherty,Multan,Self-Discharged
+1175,Zainab,Farooqi,Zainab Farooqi,27679-1209622-8,1991-09-25,03087800123,29232 Oxford Park,2024-07-10 11:46:35,Hypertension,false,Metformin,Ibuprofen,Laina Thaine,Lahore,Self-Discharged
+1176,Zainab,Malik,Zainab Malik,46819-8135755-5,1984-02-18,03366304171,842 Bunker Hill Road,2023-09-02 21:49:39,Appendicitis,false,Panadol,Omeprazole,Neda Trays,Rawalpindi,Self-Discharged
+1177,Khadija,Gillani,Khadija Gillani,14835-9372309-8,1950-03-04,03205314045,6 Ridgeview Junction,2023-01-02 10:00:46,Hypertension,true,None,Amoxicillin,Chrissie Baron,Lahore,Self-Discharged
+1178,Anaya,Butt,Anaya Butt,83978-5131527-7,1971-11-03,03419485950,685 Hovde Road,2025-03-16 03:37:38,Road Accident,false,Lisinopril,Omeprazole,Devan Head,Faisalabad,Under Observation
+1179,Khadija,Naqvi,Khadija Naqvi,53183-4796285-5,1965-01-23,03165358342,5 Continental Drive,2024-05-27 17:32:21,Appendicitis,false,Metformin,Metoprolol,Lorelei Rennie,Islamabad,Referred
+1180,Hassan,Mughal,Hassan Mughal,83378-6738185-3,1989-07-13,03110364104,585 Hagan Terrace,2025-03-01 13:21:02,Stroke,true,Insulin,Omeprazole,Teresina Buntine,Multan,Referred
+1181,Dua,Mirza,Dua Mirza,54580-8714436-7,1958-07-17,03478202200,6947 Northport Way,2024-09-22 06:13:51,Diabetes Complication,false,Aspirin,Ceftriaxone,Maxwell Wilmot,Faisalabad,Deceased
+1182,Ali,Malik,Ali Malik,67887-9740164-5,2000-12-05,03405698001,20 Browning Pass,2025-09-03 02:24:44,Road Accident,true,Metformin,Ibuprofen,Bobbie Bakeup,Rawalpindi,Self-Discharged
+1183,Usman,Farooqi,Usman Farooqi,28838-3857941-8,1984-06-23,03337502762,342 Cambridge Terrace,2023-03-05 17:16:25,Hypertension,false,None,Omeprazole,Forbes Bricham,Lahore,Deceased
+1184,Ibrahim,Sheikh,Ibrahim Sheikh,94557-5617494-5,1960-01-20,03127279432,42 Quincy Plaza,2024-02-09 00:23:42,Hypertension,false,Aspirin,Amoxicillin,Thorvald Portinari,Lahore,Deceased
+1185,Hassan,Iqbal,Hassan Iqbal,55349-9212252-9,1980-01-16,03000612515,6 Fordem Avenue,2024-09-29 13:23:04,Appendicitis,false,Panadol,Omeprazole,Dorian Viel,Multan,Self-Discharged
+1186,Aisha,Khan,Aisha Khan,71879-8340500-3,1973-11-25,03000606980,081 Memorial Drive,2025-06-22 13:13:22,Stroke,true,Lisinopril,Paracetamol,Jamison Chippin,Faisalabad,Self-Discharged
+1187,Maryam,Bajwa,Maryam Bajwa,13226-9118897-7,1957-01-21,03485479988,7428 Prentice Terrace,2024-11-22 20:53:20,Fever,false,Atorvastatin,Omeprazole,Rosemary Kingscote,Faisalabad,Deceased
+1188,Hassan,Naqvi,Hassan Naqvi,17055-1210236-2,1955-07-13,03203798578,993 Shopko Park,2023-04-11 11:35:08,Hypertension,true,Panadol,Paracetamol,Ulla Gudgin,Lahore,Deceased
+1189,Maryam,Chaudhary,Maryam Chaudhary,68806-7235392-4,1974-04-26,03175844632,11 Columbus Park,2025-05-06 23:12:09,Road Accident,false,None,Amoxicillin,Nerty MattiCCI,Karachi,Under Observation
+1190,Ibrahim,Naqvi,Ibrahim Naqvi,30915-4316865-6,1983-11-27,03286289209,2 Ronald Regan Place,2025-02-08 04:15:56,Diabetes Complication,true,Panadol,Paracetamol,Arda Henworth,Multan,Discharged
+1191,Ali,Sheikh,Ali Sheikh,65462-1854431-4,1973-01-03,03316203059,81721 Hagan Crossing,2024-01-20 10:40:33,Hypertension,false,Atorvastatin,Omeprazole,Kat Gennerich,Karachi,Under Observation
+1192,Maryam,Iqbal,Maryam Iqbal,98475-2178847-3,1991-12-06,03420575008,855 Roxbury Crossing,2023-05-31 01:53:47,Chest Pain,true,Aspirin,Ceftriaxone,Agneta Knutsen,Multan,Discharged
+1193,Sara,Iqbal,Sara Iqbal,43488-2899682-2,1955-09-03,03019335751,7 Sommers Plaza,2023-10-08 16:45:45,Stroke,false,Insulin,Amoxicillin,Burnard Moyse,Islamabad,Under Observation
+1194,Mustafa,Afridi,Mustafa Afridi,83024-2609063-6,1966-10-05,03111476967,3374 Blue Bill Park Junction,2025-10-09 15:19:52,Hypertension,false,Metformin,Omeprazole,Faythe Betteney,Rawalpindi,Referred
+1195,Sana,Hussain,Sana Hussain,94540-1592904-7,1977-09-22,03258289052,6 Arrowood Alley,2023-03-22 17:10:29,Hypertension,false,Aspirin,Omeprazole,Loella Cuvley,Lahore,Under Observation
+1196,Dua,Farooqi,Dua Farooqi,54700-2382180-6,1984-06-13,03347965025,3554 Caliangt Terrace,2025-11-12 20:24:56,Diabetes Complication,false,Aspirin,Ceftriaxone,Hestia Crosswaite,Multan,Referred
+1197,Mustafa,Chaudhary,Mustafa Chaudhary,28647-9915257-9,1995-01-06,03247464099,84158 Hudson Junction,2025-05-13 16:23:30,Fracture,true,Lisinopril,Ibuprofen,Nil Eastbrook,Rawalpindi,Deceased
+1198,Ahmed,Malik,Ahmed Malik,43221-2330819-3,1961-10-19,03164772941,0001 Nova Court,2025-04-20 17:01:36,Road Accident,true,Atorvastatin,Ceftriaxone,Theodor Kennewell,Karachi,Deceased
+1199,Noor,Afridi,Noor Afridi,50988-3234143-6,1958-06-08,03394612172,16086 Grim Hill,2023-08-15 20:50:59,Appendicitis,true,Lisinopril,Amoxicillin,Aldric Embling,Lahore,Under Observation
+1200,Ali,Afridi,Ali Afridi,60600-8798446-6,1952-06-18,03391535629,52 Raven Trail,2024-01-19 04:38:04,Appendicitis,true,Insulin,Paracetamol,Harrietta Favelle,Faisalabad,Discharged
+1201,Myra,Mirza,Myra Mirza,48777-5073271-7,1989-06-09,03434240347,704 Goodland Point,2024-04-29 17:23:49,Diabetes Complication,false,Lisinopril,Omeprazole,Fifi McGreal,Multan,Referred
+1202,Dua,Mughal,Dua Mughal,53379-2836347-1,1952-12-16,03019958558,75226 Hauk Terrace,2025-03-21 07:11:53,Diabetes Complication,true,Atorvastatin,Ceftriaxone,Ryley Draysey,Islamabad,Self-Discharged
+1203,Hassan,Lodhi,Hassan Lodhi,91091-6303092-5,1990-07-23,03377297831,773 2nd Lane,2024-03-20 10:12:35,Fracture,false,None,Ibuprofen,Ilaire Entwhistle,Rawalpindi,Discharged
+1204,Hassan,Hussain,Hassan Hussain,10936-1759272-2,1958-04-13,03487441908,74211 Clove Alley,2025-08-18 07:29:10,Chest Pain,true,Panadol,Paracetamol,Martyn Keynes,Faisalabad,Self-Discharged
+1205,Anaya,Iqbal,Anaya Iqbal,25071-8354042-3,1998-03-28,03081260442,7 Garrison Street,2023-01-17 05:12:04,Fever,false,Aspirin,Omeprazole,Sibeal Jennick,Karachi,Under Observation
+1206,Aisha,Lodhi,Aisha Lodhi,88938-8373930-8,1956-08-31,03222754822,7723 Comanche Road,2024-03-28 02:03:00,Fever,true,Atorvastatin,Ibuprofen,Kittie Coal,Faisalabad,Referred
+1207,Rehan,Jatoi,Rehan Jatoi,52454-7649298-6,1967-09-06,03311075381,399 Red Cloud Court,2025-10-22 15:57:09,Fracture,true,Insulin,Metoprolol,Errol Rattry,Rawalpindi,Referred
+1208,Maryam,Hussain,Maryam Hussain,77017-9473618-4,1981-11-05,03265223129,590 Muir Way,2025-06-05 08:10:06,Fracture,false,Aspirin,Metoprolol,Ameline Dryden,Karachi,Referred
+1209,Khadija,Ali,Khadija Ali,58710-8530460-9,1986-09-13,03284316210,0213 Northwestern Street,2023-09-27 23:05:08,Fever,true,Aspirin,Metoprolol,Virgil Seagrove,Islamabad,Discharged
+1210,Ali,Bajwa,Ali Bajwa,98018-2421860-9,1993-05-10,03250796866,16202 Clarendon Pass,2025-11-28 21:47:35,Diabetes Complication,false,Insulin,Metoprolol,Anabel Tatem,Faisalabad,Referred
+1211,Zainab,Iqbal,Zainab Iqbal,44098-2814459-6,1988-03-09,03227035500,951 Lukken Street,2025-03-07 08:43:33,Stroke,true,Panadol,Amoxicillin,Kati Savin,Rawalpindi,Self-Discharged
+1212,Ahmed,Malik,Ahmed Malik,99556-4549404-4,1990-01-10,03385619605,047 Troy Plaza,2023-04-27 20:54:28,Diabetes Complication,false,Insulin,Omeprazole,Clem Murrum,Rawalpindi,Deceased
+1213,Aisha,Siddiqui,Aisha Siddiqui,87607-5962834-6,1970-02-01,03146376627,36311 Marquette Terrace,2024-01-03 22:31:28,Hypertension,true,Aspirin,Ibuprofen,Bobbette Capstack,Faisalabad,Referred
+1214,Rehan,Rizvi,Rehan Rizvi,13508-2286713-4,1998-05-14,03413704312,83992 Toban Lane,2025-05-30 16:40:28,Road Accident,false,None,Amoxicillin,Hurleigh Johnston,Islamabad,Under Observation
+1215,Zainab,Naqvi,Zainab Naqvi,59474-8199048-4,1961-01-07,03132627599,5606 Fairview Court,2024-02-06 08:54:36,Diabetes Complication,true,Lisinopril,Metoprolol,Sada McNulty,Multan,Referred
+1216,Ali,Khan,Ali Khan,64798-2538168-2,1977-10-23,03046344543,06848 Holmberg Circle,2025-06-05 20:58:33,Hypertension,true,Panadol,Paracetamol,Anjanette Elby,Lahore,Under Observation
+1217,Aisha,Butt,Aisha Butt,40569-4886449-5,1981-05-08,03286528478,88 Kingsford Lane,2023-05-14 00:07:43,Hypertension,false,Aspirin,Ceftriaxone,Christine MacArd,Karachi,Under Observation
+1218,Hiba,Hussain,Hiba Hussain,93165-1386807-4,1973-02-21,03050743614,554 Moland Alley,2024-04-01 19:52:02,Hypertension,true,Lisinopril,Omeprazole,Tobi Verrechia,Rawalpindi,Deceased
+1219,Hamza,Siddiqui,Hamza Siddiqui,98087-5755136-5,1972-07-30,03370954667,5 Duke Point,2025-05-19 07:43:35,Fever,true,Lisinopril,Ceftriaxone,Lelah Wile,Lahore,Self-Discharged
+1220,Sara,Jatoi,Sara Jatoi,37315-1108034-1,2004-09-30,03266145297,4 Doe Crossing Point,2024-02-21 14:03:18,Fracture,true,Atorvastatin,Paracetamol,Dilly Exon,Faisalabad,Referred
+1221,Khadija,Aziz,Khadija Aziz,19599-9591443-5,1991-02-10,03324551324,7 Bay Avenue,2025-12-12 06:26:51,Fever,false,Panadol,Ceftriaxone,Caspar Gowdridge,Multan,Discharged
+1222,Usman,Naqvi,Usman Naqvi,96570-3539726-8,2005-07-12,03160035715,6 Magdeline Park,2023-10-17 14:47:04,Fracture,false,Panadol,Paracetamol,Myrtice Pesticcio,Rawalpindi,Referred
+1223,Mahnoor,Ali,Mahnoor Ali,66254-4869102-8,2005-08-28,03011848574,9527 Menomonie Hill,2024-02-28 13:31:32,Fracture,true,Panadol,Ibuprofen,Isaac Chittie,Karachi,Self-Discharged
+1224,Ahmed,Rizvi,Ahmed Rizvi,94085-5460112-8,1957-05-11,03213234747,5978 Bashford Plaza,2023-07-25 13:18:01,Road Accident,false,Atorvastatin,Omeprazole,Carlyle Mercy,Karachi,Discharged
+1225,Myra,Lodhi,Myra Lodhi,96135-6944994-5,1990-08-10,03232302353,12 Longview Terrace,2024-08-31 22:37:21,Fever,false,Lisinopril,Omeprazole,Aristotle Farens,Faisalabad,Under Observation
+1226,Myra,Chaudhary,Myra Chaudhary,27171-6876472-4,1966-11-15,03436449140,422 Sunnyside Pass,2023-10-02 06:08:32,Stroke,false,Lisinopril,Paracetamol,Kacy Welling,Rawalpindi,Under Observation
+1227,Omar,Rizvi,Omar Rizvi,37697-1385345-3,2003-10-21,03143931181,14231 Elmside Alley,2023-10-06 01:38:54,Diabetes Complication,true,None,Metoprolol,Irvine Fidell,Multan,Deceased
+1228,Fatima,Abbas,Fatima Abbas,51317-1790760-1,1967-10-24,03016684295,4 Kensington Court,2024-01-29 10:24:37,Chest Pain,true,Insulin,Metoprolol,Gerry Oldroyde,Multan,Under Observation
+1229,Anaya,Abbas,Anaya Abbas,53263-5453406-4,1976-03-13,03215582894,66 Bluejay Lane,2023-12-16 18:25:42,Diabetes Complication,true,Atorvastatin,Omeprazole,Hedvige Romera,Islamabad,Under Observation
+1230,Ali,Mirza,Ali Mirza,18606-1676911-4,1993-03-10,03048781698,38960 Grim Pass,2024-01-02 21:39:34,Road Accident,false,Atorvastatin,Omeprazole,Brianne Wyldes,Multan,Under Observation
+1231,Sana,Bajwa,Sana Bajwa,23949-6468450-2,1967-08-26,03334638459,46989 Carioca Drive,2025-12-18 04:09:10,Diabetes Complication,false,None,Paracetamol,Codie Boddis,Rawalpindi,Self-Discharged
+1232,Mahnoor,Siddiqui,Mahnoor Siddiqui,91352-9998401-9,1988-07-23,03421347274,04 Washington Trail,2023-01-03 20:47:13,Fracture,true,Insulin,Amoxicillin,Allyce Levey,Rawalpindi,Self-Discharged
+1233,Rehan,Malik,Rehan Malik,14674-8615592-9,2002-07-04,03227236450,3 Merchant Alley,2023-06-12 11:53:54,Fracture,true,Metformin,Amoxicillin,Ebony Rigeby,Faisalabad,Self-Discharged
+1234,Zaid,Aziz,Zaid Aziz,52741-5805203-6,2004-05-31,03325607001,59577 Gulseth Plaza,2025-04-29 18:25:21,Chest Pain,false,None,Paracetamol,Lazar McKellen,Islamabad,Referred
+1235,Mahnoor,Hashmi,Mahnoor Hashmi,99015-8292127-5,1980-01-16,03007105958,5 Bluestem Junction,2024-12-14 13:17:15,Diabetes Complication,false,Lisinopril,Metoprolol,Drucy Sodor,Islamabad,Deceased
+1236,Usman,Shah,Usman Shah,28277-3737333-3,1956-10-25,03081370062,2 Sauthoff Terrace,2025-07-05 05:25:01,Stroke,true,Aspirin,Paracetamol,Tim Pittet,Islamabad,Discharged
+1237,Hassan,Qureshi,Hassan Qureshi,34913-9420319-2,1973-07-03,03291709540,3350 8th Avenue,2023-06-10 19:22:57,Diabetes Complication,true,Metformin,Paracetamol,Bride Murdy,Rawalpindi,Referred
+1238,Fatima,Sheikh,Fatima Sheikh,76817-9184757-5,1987-01-29,03142957704,85 Golf View Pass,2025-09-17 10:33:27,Fever,false,Insulin,Omeprazole,Lanita Shaddock,Lahore,Under Observation
+1239,Maryam,Bajwa,Maryam Bajwa,71842-8020631-5,1962-03-01,03274624279,71 Jackson Road,2024-06-10 12:03:44,Stroke,true,Aspirin,Paracetamol,Irena Cutford,Karachi,Under Observation
+1240,Fatima,Ali,Fatima Ali,92154-8673528-1,1986-07-10,03077059981,10461 Dixon Way,2023-03-03 07:37:26,Stroke,false,Insulin,Paracetamol,Dukie Chastney,Rawalpindi,Discharged
+1241,Noor,Ahmed,Noor Ahmed,24827-6342407-3,1966-06-11,03434537108,9 Butterfield Street,2024-04-15 12:32:29,Diabetes Complication,false,Panadol,Ceftriaxone,Cammie Harmour,Islamabad,Referred
+1242,Myra,Mughal,Myra Mughal,95140-1266145-3,2003-06-29,03233034293,7172 Oak Circle,2023-08-20 11:45:44,Stroke,true,None,Metoprolol,Pavel McNickle,Multan,Self-Discharged
+1243,Ali,Butt,Ali Butt,44420-5240276-3,2003-11-25,03008243904,8170 Corben Drive,2025-07-29 09:59:52,Appendicitis,true,None,Amoxicillin,Dori Swiggs,Multan,Under Observation
+1244,Ibrahim,Lodhi,Ibrahim Lodhi,94961-2000108-8,1952-05-30,03052175003,81 Lillian Alley,2024-12-12 04:44:31,Fever,true,Lisinopril,Amoxicillin,Perkin Leyden,Lahore,Deceased
+1245,Myra,Bajwa,Myra Bajwa,12383-3358327-6,1990-04-16,03439648605,35 Anhalt Pass,2024-08-11 21:45:32,Road Accident,true,Aspirin,Ibuprofen,Kenny Gerge,Karachi,Discharged
+1246,Omar,Rizvi,Omar Rizvi,94067-7433704-1,1985-02-02,03186886716,9451 Harbort Alley,2023-03-27 14:33:54,Chest Pain,false,Lisinopril,Amoxicillin,Hedda Whitington,Islamabad,Under Observation
+1247,Hamza,Sheikh,Hamza Sheikh,60943-2590406-4,1958-12-23,03222615385,0 Cottonwood Court,2025-02-18 15:20:51,Fever,true,Aspirin,Omeprazole,Harrie Hicks,Islamabad,Self-Discharged
+1248,Zainab,Ahmed,Zainab Ahmed,37830-6293724-5,1975-02-25,03216571499,89 Farwell Alley,2025-05-28 13:46:39,Fever,false,Panadol,Ibuprofen,Cammy Djurisic,Islamabad,Deceased
+1249,Arsalan,Afridi,Arsalan Afridi,68721-7461790-7,1982-03-09,03287602828,9350 Jenifer Street,2023-03-25 10:48:17,Appendicitis,false,Aspirin,Amoxicillin,Pamelina Hayter,Karachi,Self-Discharged
+1250,Mustafa,Ahmed,Mustafa Ahmed,34992-2743012-3,2004-03-01,03209834486,09606 Hoepker Parkway,2023-10-08 18:31:17,Appendicitis,true,None,Paracetamol,Humfrey McNamee,Multan,Discharged
+1251,Bilal,Ali,Bilal Ali,17391-5902194-1,1967-01-28,03477663392,6234 Fordem Place,2023-11-01 15:28:36,Appendicitis,true,None,Omeprazole,Shoshanna Wedmore.,Karachi,Deceased
+1252,Ali,Mirza,Ali Mirza,97862-9182528-2,1969-07-20,03316703262,17 Del Sol Lane,2024-03-08 11:40:53,Fever,false,None,Amoxicillin,Hillier Cottill,Faisalabad,Discharged
+1253,Khadija,Gillani,Khadija Gillani,38793-7003174-7,1974-04-28,03438346874,715 Meadow Vale Parkway,2023-02-20 03:49:36,Fever,false,Atorvastatin,Metoprolol,Lesley Klimuk,Islamabad,Deceased
+1254,Bilal,Gillani,Bilal Gillani,67032-1223930-5,1960-06-18,03122192905,5834 Marquette Terrace,2025-08-06 23:41:27,Stroke,false,Aspirin,Metoprolol,Claudelle Wattingham,Karachi,Discharged
+1255,Sana,Ali,Sana Ali,61109-6389951-7,1979-02-25,03199635828,65438 Bunting Hill,2025-03-24 01:02:04,Fracture,false,Metformin,Metoprolol,Alaster Fullom,Multan,Self-Discharged
+1256,Mahnoor,Butt,Mahnoor Butt,61266-8472661-1,1979-11-28,03137520877,76625 Stang Crossing,2024-04-03 16:02:10,Chest Pain,false,Aspirin,Amoxicillin,Eulalie Musslewhite,Lahore,Referred
+1257,Rehan,Hashmi,Rehan Hashmi,27122-1909749-1,1997-06-20,03331418826,28 Lakewood Avenue,2025-08-25 11:08:35,Road Accident,true,Aspirin,Amoxicillin,Merrie Feria,Lahore,Self-Discharged
+1258,Zaid,Butt,Zaid Butt,44368-3909583-9,1985-02-21,03007880030,8428 Gale Crossing,2023-09-19 19:25:35,Road Accident,true,Metformin,Ceftriaxone,Karil Heinemann,Karachi,Referred
+1259,Hassan,Ali,Hassan Ali,68638-2064979-7,1984-01-22,03201551006,6 Dixon Pass,2023-11-27 06:29:21,Chest Pain,true,Lisinopril,Ceftriaxone,Vincents Baniard,Multan,Under Observation
+1260,Usman,Butt,Usman Butt,97989-3145531-3,1985-11-10,03420780970,07 Eliot Terrace,2024-10-18 08:35:33,Fever,true,None,Metoprolol,Wanids Speachley,Faisalabad,Referred
+1261,Ahmed,Naqvi,Ahmed Naqvi,73887-2704751-5,1977-09-15,03136150953,114 Weeping Birch Way,2024-08-06 21:47:40,Road Accident,false,Insulin,Ceftriaxone,Addie Rendle,Multan,Discharged
+1262,Anaya,Jatoi,Anaya Jatoi,31797-2163153-9,1969-03-08,03089623587,793 Stone Corner Lane,2023-09-26 10:39:41,Appendicitis,false,Panadol,Ibuprofen,Ariella Hauxwell,Faisalabad,Self-Discharged
+1263,Mahnoor,Abbas,Mahnoor Abbas,80389-5421610-6,1961-06-14,03127289268,9 Union Terrace,2025-06-20 18:05:28,Stroke,false,Atorvastatin,Ceftriaxone,Curt Loudyan,Islamabad,Self-Discharged
+1264,Mahnoor,Lodhi,Mahnoor Lodhi,60845-4154385-2,1964-05-30,03334511900,681 Katie Plaza,2023-09-23 16:43:39,Fever,false,Insulin,Amoxicillin,Melessa Kettridge,Karachi,Self-Discharged
+1265,Aisha,Ahmed,Aisha Ahmed,11830-8727730-8,1993-03-13,03067637300,59962 Merrick Lane,2024-12-21 04:23:41,Diabetes Complication,false,Atorvastatin,Amoxicillin,Bobette Chadbourne,Islamabad,Deceased
+1266,Anaya,Ahmed,Anaya Ahmed,92602-5836316-4,1997-07-17,03446054767,3131 Transport Terrace,2023-07-09 14:32:08,Diabetes Complication,false,Insulin,Omeprazole,Pete Halkyard,Karachi,Deceased
+1267,Anaya,Chaudhary,Anaya Chaudhary,53938-2008660-8,1953-09-19,03411789289,8 Mcguire Lane,2023-02-03 02:40:42,Fever,true,Lisinopril,Paracetamol,Torr Pinhorn,Rawalpindi,Under Observation
+1268,Sara,Jatoi,Sara Jatoi,82255-1415873-9,1962-08-06,03045902991,5 Lillian Road,2024-02-03 18:29:38,Road Accident,false,Aspirin,Ceftriaxone,Gery Castanho,Faisalabad,Under Observation
+1269,Dua,Khan,Dua Khan,88719-1797034-6,1998-10-17,03416631041,859 Hallows Place,2024-04-27 10:08:26,Appendicitis,false,Atorvastatin,Ibuprofen,Mark Barwack,Faisalabad,Self-Discharged
+1270,Aisha,Mughal,Aisha Mughal,55589-8078932-5,1970-04-21,03150716032,4 Morningstar Terrace,2023-06-29 02:40:00,Fracture,true,Atorvastatin,Ceftriaxone,Abigail Trevains,Karachi,Self-Discharged
+1271,Zainab,Hussain,Zainab Hussain,25672-6369801-7,1986-07-24,03053258600,087 Miller Way,2024-12-02 13:34:58,Chest Pain,true,None,Ceftriaxone,Robinet Eouzan,Rawalpindi,Referred
+1272,Hassan,Ahmed,Hassan Ahmed,22328-8933708-1,1961-10-15,03379680326,12592 Hauk Road,2024-10-13 03:40:39,Diabetes Complication,true,Metformin,Ceftriaxone,Wyatan Bigrigg,Rawalpindi,Referred
+1273,Anaya,Rizvi,Anaya Rizvi,27877-1529562-6,1970-05-04,03195308237,78 Hooker Parkway,2024-02-07 17:36:58,Fracture,false,Panadol,Metoprolol,Augustine Grealey,Rawalpindi,Referred
+1274,Maryam,Afridi,Maryam Afridi,99041-1529612-9,1981-08-28,03351043406,52 Surrey Center,2023-09-05 05:09:09,Fever,false,Metformin,Ceftriaxone,Aggie Clemmens,Multan,Discharged
+1275,Fatima,Chaudhary,Fatima Chaudhary,40990-1255697-6,1965-01-22,03358564679,62 Browning Circle,2024-07-21 00:37:38,Appendicitis,false,Aspirin,Paracetamol,Estele Cheshir,Islamabad,Discharged
+1276,Hassan,Gillani,Hassan Gillani,27404-2017905-2,1988-05-28,03089122043,0 Canary Crossing,2025-03-10 02:26:54,Chest Pain,true,Insulin,Ceftriaxone,Caspar Tooker,Lahore,Self-Discharged
+1277,Hiba,Khan,Hiba Khan,12193-7705596-2,2003-12-07,03073142810,5226 Talisman Circle,2023-09-04 00:45:29,Appendicitis,true,Atorvastatin,Metoprolol,Jamaal Prenty,Islamabad,Self-Discharged
+1278,Bilal,Mughal,Bilal Mughal,91102-9130396-7,1973-08-26,03423745021,38 Bellgrove Alley,2025-10-17 05:18:59,Diabetes Complication,true,Lisinopril,Paracetamol,Andris O'Towey,Rawalpindi,Self-Discharged
+1279,Hiba,Rizvi,Hiba Rizvi,60296-1848021-9,1992-06-25,03061944339,293 Nova Road,2025-10-17 08:36:48,Hypertension,true,Aspirin,Paracetamol,La verne Hanne,Multan,Self-Discharged
+1280,Hamza,Malik,Hamza Malik,83651-8567580-3,1969-06-03,03061015000,1210 Carpenter Trail,2025-05-17 12:48:13,Fracture,true,Atorvastatin,Ceftriaxone,Terrie Forgie,Karachi,Under Observation
+1281,Ahmed,Gillani,Ahmed Gillani,74100-3834563-6,1989-12-28,03456316290,0213 Wayridge Lane,2023-12-02 15:52:57,Appendicitis,false,Panadol,Paracetamol,Marta Tsar,Islamabad,Under Observation
+1282,Aisha,Ahmed,Aisha Ahmed,37542-7533326-8,1970-01-15,03292695616,752 Hayes Place,2024-07-24 07:42:02,Diabetes Complication,true,Aspirin,Metoprolol,Andy Zannelli,Rawalpindi,Deceased
+1283,Maryam,Farooqi,Maryam Farooqi,90166-8735827-8,1952-10-24,03448489053,562 Rutledge Hill,2024-11-17 02:14:59,Fever,false,Panadol,Amoxicillin,Micaela Walthew,Karachi,Discharged
+1284,Bilal,Jatoi,Bilal Jatoi,48952-3874610-5,1997-01-18,03320827477,77 Vidon Hill,2023-07-27 00:02:21,Diabetes Complication,false,Insulin,Ceftriaxone,Gates McIlvenna,Karachi,Under Observation
+1285,Ibrahim,Chaudhary,Ibrahim Chaudhary,75431-7323316-1,2001-10-03,03434064176,1 Shelley Pass,2024-10-29 12:57:30,Fracture,false,Atorvastatin,Metoprolol,Shaylynn Tilliard,Islamabad,Deceased
+1286,Khadija,Siddiqui,Khadija Siddiqui,19655-5964531-7,2005-03-02,03312403305,4 Russell Place,2025-06-29 03:49:23,Stroke,true,Metformin,Paracetamol,Bogey Fradgley,Lahore,Referred
+1287,Aisha,Ali,Aisha Ali,41296-5103138-3,1961-10-27,03460848763,04308 Paget Circle,2024-10-11 20:17:37,Chest Pain,false,Atorvastatin,Ceftriaxone,Koressa Craigheid,Lahore,Deceased
+1288,Sana,Gillani,Sana Gillani,36026-7141115-5,1978-06-15,03327586698,95 Derek Plaza,2025-09-08 02:16:57,Stroke,true,Metformin,Ceftriaxone,Haywood Hayley,Faisalabad,Deceased
+1289,Myra,Iqbal,Myra Iqbal,38058-9994181-1,2004-03-18,03406323045,0555 Bluejay Parkway,2025-12-22 15:52:00,Stroke,true,Insulin,Paracetamol,Devin Borrie,Lahore,Referred
+1290,Rehan,Naqvi,Rehan Naqvi,88971-4629453-6,1952-03-27,03369547192,55 Canary Circle,2024-08-25 11:12:04,Road Accident,true,Metformin,Omeprazole,Mirabelle Local,Rawalpindi,Discharged
+1291,Dua,Ali,Dua Ali,18496-8001187-1,2001-01-26,03016529650,59 Ramsey Alley,2025-06-20 13:19:14,Stroke,true,None,Ibuprofen,Astra Showen,Islamabad,Discharged
+1292,Maryam,Hashmi,Maryam Hashmi,48419-5534230-2,1983-08-16,03373854845,74156 Oxford Crossing,2025-06-27 13:17:08,Road Accident,true,Atorvastatin,Omeprazole,Vasilis Pinnocke,Rawalpindi,Discharged
+1293,Noor,Afridi,Noor Afridi,37112-2769478-6,2002-07-25,03318235361,192 Dakota Court,2024-01-05 15:24:12,Appendicitis,true,None,Paracetamol,Randy Bland,Rawalpindi,Discharged
+1294,Dua,Lodhi,Dua Lodhi,72939-5801183-1,2000-09-26,03292278227,00 Southridge Avenue,2024-09-14 11:52:35,Appendicitis,false,Atorvastatin,Paracetamol,Vick Zelner,Karachi,Discharged
+1295,Zaid,Butt,Zaid Butt,33760-7293239-1,1954-08-01,03162885148,2 Havey Crossing,2025-10-18 23:32:23,Stroke,true,None,Ceftriaxone,Darren Bembrick,Faisalabad,Referred
+1296,Mahnoor,Jatoi,Mahnoor Jatoi,12341-4392794-9,1964-09-20,03104530932,80 Monica Parkway,2025-05-05 20:54:54,Appendicitis,true,Aspirin,Metoprolol,Betteann Goldstraw,Rawalpindi,Discharged
+1297,Myra,Rizvi,Myra Rizvi,69875-1873857-6,1961-12-12,03168950376,874 Pankratz Terrace,2023-10-27 02:00:47,Chest Pain,true,Insulin,Ceftriaxone,Pernell Frier,Faisalabad,Self-Discharged
+1298,Fatima,Jatoi,Fatima Jatoi,84364-2081106-9,2004-10-14,03383748662,6 Village Green Road,2024-04-24 16:45:57,Hypertension,false,Atorvastatin,Metoprolol,Robbie Potell,Lahore,Deceased
+1299,Sana,Siddiqui,Sana Siddiqui,98584-7557271-4,2005-06-19,03002154483,4916 Dovetail Point,2025-08-18 08:09:51,Road Accident,true,Lisinopril,Ibuprofen,Gaile Ianinotti,Karachi,Under Observation
+1300,Sara,Sheikh,Sara Sheikh,86404-6920739-7,1958-10-14,03172560015,8970 Crownhardt Circle,2024-01-03 22:45:19,Appendicitis,true,Metformin,Omeprazole,Daron Dicks,Islamabad,Self-Discharged
+1301,Mahnoor,Jatoi,Mahnoor Jatoi,65905-8747188-5,1968-11-25,03445304050,5427 Glacier Hill Road,2023-11-17 23:57:02,Chest Pain,true,Metformin,Paracetamol,Bill Blyden,Faisalabad,Referred
+1302,Arsalan,Hussain,Arsalan Hussain,44144-4057305-9,1981-11-25,03131394885,02 Goodland Pass,2023-03-29 05:11:07,Fracture,true,Insulin,Ceftriaxone,Emilie Hazeup,Lahore,Deceased
+1303,Arsalan,Butt,Arsalan Butt,37835-3981880-2,1985-10-20,03051348778,39261 Redwing Trail,2025-07-21 21:00:35,Road Accident,true,Panadol,Ibuprofen,Herman Veschambre,Karachi,Self-Discharged
+1304,Myra,Gillani,Myra Gillani,88655-8176984-2,1954-01-26,03421314481,4 Kipling Street,2023-04-03 07:07:08,Fever,false,Lisinopril,Ceftriaxone,Chantal Tibbs,Karachi,Self-Discharged
+1305,Aisha,Abbas,Aisha Abbas,18888-3494585-3,1995-01-09,03180170241,23 Vera Plaza,2023-07-27 03:52:25,Road Accident,true,Aspirin,Amoxicillin,Julio Cordaroy,Lahore,Under Observation
+1306,Ali,Rizvi,Ali Rizvi,61039-8242443-1,2001-07-05,03229998218,8004 Redwing Parkway,2023-10-12 23:27:12,Appendicitis,false,Insulin,Paracetamol,Katharina Beccero,Karachi,Under Observation
+1307,Usman,Gillani,Usman Gillani,54822-6333801-5,1972-02-01,03150463222,0 Algoma Plaza,2025-06-20 01:58:56,Chest Pain,true,Lisinopril,Omeprazole,Ilyse Rolin,Multan,Under Observation
+1308,Zainab,Lodhi,Zainab Lodhi,87060-6194009-5,1971-11-04,03493201551,07033 Crescent Oaks Plaza,2025-01-15 08:43:23,Fever,false,Panadol,Metoprolol,Gerick Alabaster,Faisalabad,Self-Discharged
+1309,Zaid,Ali,Zaid Ali,53128-8863759-1,1996-08-03,03046175388,29 Corben Parkway,2023-09-28 20:49:17,Fever,true,Panadol,Metoprolol,Ivor Ganforthe,Faisalabad,Deceased
+1310,Aisha,Qureshi,Aisha Qureshi,66881-1852892-6,1999-05-04,03171854176,1927 Delladonna Way,2023-11-04 21:56:34,Diabetes Complication,false,Atorvastatin,Amoxicillin,Annamarie Sowthcote,Faisalabad,Under Observation
+1311,Hassan,Gillani,Hassan Gillani,31585-3435189-1,1964-05-28,03384568317,24 Gale Terrace,2025-09-30 16:13:44,Diabetes Complication,true,Aspirin,Amoxicillin,Andras Conrart,Lahore,Discharged
+1312,Zaid,Malik,Zaid Malik,22118-5632718-8,1999-01-09,03388256061,9 Northland Circle,2024-08-05 19:05:44,Chest Pain,false,Insulin,Omeprazole,Kahlil Overill,Faisalabad,Under Observation
+1313,Noor,Farooqi,Noor Farooqi,14348-2116184-7,1970-07-22,03316576614,3682 Sherman Court,2025-11-15 09:05:01,Stroke,true,Atorvastatin,Metoprolol,Barry Fanton,Lahore,Deceased
+1314,Hassan,Chaudhary,Hassan Chaudhary,24140-2365863-9,1973-08-09,03164354018,29211 Ramsey Terrace,2025-04-21 08:13:12,Chest Pain,true,Metformin,Metoprolol,Ruthie Ferrao,Rawalpindi,Deceased
+1315,Fatima,Abbas,Fatima Abbas,36154-6398872-2,1959-10-30,03060765812,065 Rigney Hill,2023-12-02 08:41:14,Hypertension,true,Panadol,Paracetamol,Gui Bassford,Lahore,Under Observation
+1316,Ahmed,Ali,Ahmed Ali,14839-3145900-4,1974-05-18,03283642698,9 Hazelcrest Pass,2025-09-20 04:48:56,Appendicitis,false,Aspirin,Ibuprofen,Solly Twizell,Lahore,Self-Discharged
+1317,Aisha,Mughal,Aisha Mughal,69756-1328351-4,1974-11-16,03057968868,19 Bowman Avenue,2024-10-18 07:37:29,Hypertension,false,Lisinopril,Metoprolol,Bobbe Carrabot,Rawalpindi,Referred
+1318,Myra,Siddiqui,Myra Siddiqui,46968-1808888-9,1955-03-14,03300776829,637 Cody Point,2024-04-09 23:10:36,Diabetes Complication,true,Atorvastatin,Omeprazole,Helli Elvin,Faisalabad,Discharged
+1319,Fatima,Malik,Fatima Malik,65322-1178541-9,1956-03-24,03053159875,1310 Boyd Crossing,2025-03-27 12:53:43,Stroke,false,Atorvastatin,Ceftriaxone,Diann Michelotti,Faisalabad,Referred
+1320,Ibrahim,Bajwa,Ibrahim Bajwa,48611-2464144-8,1982-04-23,03079852797,464 Bayside Junction,2025-06-01 21:43:33,Chest Pain,true,Insulin,Ibuprofen,Cybil Pulhoster,Multan,Self-Discharged
+1321,Sana,Butt,Sana Butt,34120-4520309-4,1959-07-13,03342807487,41798 Ruskin Street,2024-10-24 15:35:04,Road Accident,true,Insulin,Ibuprofen,Murray Playford,Islamabad,Discharged
+1322,Hamza,Aziz,Hamza Aziz,97084-9123591-9,1967-11-20,03027772685,5 Waxwing Road,2025-10-30 20:16:18,Road Accident,false,None,Paracetamol,Francine Burtwhistle,Faisalabad,Under Observation
+1323,Zaid,Sheikh,Zaid Sheikh,46701-9676484-2,1992-01-22,03203579872,659 Sutherland Way,2025-07-06 02:25:41,Chest Pain,true,Panadol,Paracetamol,Charmane Wennam,Karachi,Referred
+1324,Dua,Qureshi,Dua Qureshi,26643-9691832-1,1958-06-02,03408577215,0570 Ludington Hill,2025-07-14 13:18:01,Stroke,false,Atorvastatin,Amoxicillin,Etti Biggin,Karachi,Deceased
+1325,Mustafa,Hashmi,Mustafa Hashmi,84805-1307257-2,1996-03-16,03251953497,46 Forest Run Parkway,2023-04-20 10:52:09,Fracture,true,None,Amoxicillin,Rorie McOnie,Karachi,Under Observation
+1326,Mustafa,Mirza,Mustafa Mirza,19662-2891855-7,1971-07-30,03360435614,5186 Jenna Road,2023-01-26 15:02:19,Road Accident,false,None,Paracetamol,Tomasine Cason,Multan,Referred
+1327,Zaid,Malik,Zaid Malik,37475-1978952-9,1976-11-04,03124735904,27 Emmet Plaza,2024-12-06 01:26:40,Fever,true,Aspirin,Amoxicillin,Tedi Nabarro,Faisalabad,Deceased
+1328,Mahnoor,Aziz,Mahnoor Aziz,16942-8491818-9,1962-01-21,03426567339,289 Scott Center,2025-04-09 04:14:42,Diabetes Complication,false,Panadol,Metoprolol,Estelle Mushart,Multan,Referred
+1329,Hiba,Gillani,Hiba Gillani,30982-1374492-7,1987-07-29,03094710665,03870 5th Parkway,2025-06-30 00:52:50,Road Accident,true,Panadol,Metoprolol,Orin Shellshear,Multan,Under Observation
+1330,Mahnoor,Ali,Mahnoor Ali,67247-3441463-3,2003-01-30,03383943784,0 Birchwood Crossing,2023-02-25 03:46:24,Appendicitis,true,Panadol,Amoxicillin,Elora De Mitri,Islamabad,Discharged
+1331,Dua,Mughal,Dua Mughal,14243-2282411-2,1998-12-29,03128081424,6060 Fallview Way,2024-02-05 10:33:55,Road Accident,false,Panadol,Ceftriaxone,Paco Fischer,Karachi,Under Observation
+1332,Usman,Shah,Usman Shah,29369-2191950-9,1956-05-22,03196139159,59 Pankratz Park,2024-06-08 12:25:38,Fracture,true,Panadol,Paracetamol,Devinne Stading,Lahore,Deceased
+1333,Sara,Afridi,Sara Afridi,23812-5998800-2,1963-01-19,03211599425,7 Warbler Avenue,2024-04-18 08:34:50,Hypertension,true,Aspirin,Ceftriaxone,Bibbie Filmer,Multan,Under Observation
+1334,Fatima,Qureshi,Fatima Qureshi,10541-7487597-4,2001-04-14,03142672564,14753 Gulseth Pass,2024-10-17 16:00:05,Fracture,false,Atorvastatin,Omeprazole,Xever Sackes,Multan,Discharged
+1335,Zaid,Rizvi,Zaid Rizvi,45279-3425727-1,1962-06-29,03254774185,24 Columbus Drive,2024-02-27 23:02:03,Chest Pain,false,Lisinopril,Ceftriaxone,Rosanna Kurdani,Faisalabad,Under Observation
+1336,Sana,Butt,Sana Butt,71733-5074561-6,2000-08-31,03439081236,4033 Harbort Lane,2023-06-22 03:44:37,Road Accident,true,Metformin,Ceftriaxone,Raff Jacquemard,Lahore,Deceased
+1337,Hiba,Malik,Hiba Malik,24483-9661241-5,1959-10-28,03311429116,443 Grover Crossing,2025-06-25 21:57:12,Fever,true,Lisinopril,Paracetamol,Modestine Noke,Faisalabad,Self-Discharged
+1338,Noor,Bajwa,Noor Bajwa,17942-6462875-3,1993-09-11,03414580610,13218 Clemons Street,2024-04-03 17:43:44,Hypertension,false,None,Omeprazole,Cash Spivie,Islamabad,Under Observation
+1339,Maryam,Jatoi,Maryam Jatoi,89353-9272945-1,1983-11-16,03034567230,05271 School Point,2025-06-07 03:07:33,Stroke,false,None,Amoxicillin,Casi Munden,Multan,Discharged
+1340,Anaya,Rizvi,Anaya Rizvi,47321-4746061-5,1959-03-27,03036727123,28 Grayhawk Street,2025-05-21 17:14:06,Stroke,false,Aspirin,Amoxicillin,Bartel Borges,Lahore,Referred
+1341,Myra,Khan,Myra Khan,61948-8288298-8,1972-11-15,03119217687,395 Ilene Parkway,2024-02-21 19:52:56,Hypertension,true,Panadol,Paracetamol,Kiri Sims,Islamabad,Under Observation
+1342,Rehan,Rizvi,Rehan Rizvi,22081-1761707-1,1968-11-16,03295132311,2 Algoma Junction,2023-08-13 02:18:56,Fever,true,Metformin,Amoxicillin,Rad Jado,Lahore,Discharged
+1343,Maryam,Mirza,Maryam Mirza,85050-7697778-6,1977-03-15,03267122629,272 East Plaza,2023-02-13 13:38:40,Chest Pain,false,Aspirin,Metoprolol,Chrystel Tuison,Multan,Deceased
+1344,Fatima,Abbas,Fatima Abbas,21444-1949916-7,1965-10-30,03176721056,29 Colorado Parkway,2025-04-07 05:29:50,Fracture,false,Aspirin,Metoprolol,Darcey Orhrt,Islamabad,Deceased
+1345,Anaya,Afridi,Anaya Afridi,87747-7512043-6,1991-01-28,03038657095,31 Jana Circle,2024-04-15 18:16:48,Hypertension,true,Atorvastatin,Ceftriaxone,Kalie Haining,Multan,Under Observation
+1346,Omar,Ali,Omar Ali,53950-3500474-6,1954-10-03,03195588879,86565 Macpherson Trail,2025-06-22 06:21:15,Hypertension,false,Insulin,Paracetamol,Brucie Geikie,Islamabad,Under Observation
+1347,Aisha,Lodhi,Aisha Lodhi,16541-3159854-8,1990-10-10,03196803974,780 Chive Pass,2024-08-12 22:54:17,Appendicitis,false,Aspirin,Omeprazole,Nessy Divver,Islamabad,Self-Discharged
+1348,Zaid,Malik,Zaid Malik,32887-1140373-2,1994-06-15,03007286873,08 Loftsgordon Drive,2024-06-17 16:30:23,Road Accident,true,Insulin,Ceftriaxone,Liam Sture,Islamabad,Self-Discharged
+1349,Myra,Mughal,Myra Mughal,83945-8355576-2,1973-11-22,03304008018,65036 Cascade Avenue,2023-09-28 23:46:05,Road Accident,false,Lisinopril,Amoxicillin,Jed Ubee,Karachi,Deceased
+1350,Mahnoor,Butt,Mahnoor Butt,47293-6692010-8,1983-10-10,03052166169,54 Bobwhite Court,2023-10-12 11:51:57,Stroke,false,Aspirin,Paracetamol,Viviyan Rubenfeld,Karachi,Deceased
+1351,Omar,Bajwa,Omar Bajwa,51035-7149647-8,1990-09-20,03193851123,918 Fairfield Plaza,2024-02-12 12:08:48,Appendicitis,true,None,Ibuprofen,Sapphira Gorring,Islamabad,Discharged
+1352,Anaya,Abbas,Anaya Abbas,76958-6092407-9,1981-12-29,03296994464,313 Tomscot Hill,2024-04-20 16:26:42,Appendicitis,false,Insulin,Omeprazole,Cairistiona Balderson,Rawalpindi,Deceased
+1353,Bilal,Sheikh,Bilal Sheikh,20037-3633738-2,1988-04-11,03255539819,6430 Michigan Circle,2023-11-21 00:15:01,Appendicitis,true,Panadol,Metoprolol,Wilburt Grubb,Faisalabad,Self-Discharged
+1354,Arsalan,Hussain,Arsalan Hussain,55235-1040373-9,1975-10-25,03163752135,6413 Glacier Hill Hill,2024-12-20 15:21:31,Chest Pain,false,Panadol,Metoprolol,Juliann Strawbridge,Rawalpindi,Self-Discharged
+1355,Zainab,Chaudhary,Zainab Chaudhary,61852-1323551-3,1951-10-11,03276662230,78 Walton Plaza,2025-01-21 06:27:43,Hypertension,true,Aspirin,Amoxicillin,Allene Dome,Lahore,Under Observation
+1356,Sara,Mughal,Sara Mughal,55239-2725733-7,1969-01-17,03282870856,18510 Bobwhite Pass,2024-11-19 08:10:51,Stroke,false,Atorvastatin,Metoprolol,Jimmy Breinlein,Islamabad,Self-Discharged
+1357,Maryam,Bajwa,Maryam Bajwa,45510-5468510-3,2004-02-27,03381625456,90921 Green Ridge Court,2024-08-11 12:15:20,Stroke,true,Atorvastatin,Paracetamol,Ezra Gervaise,Lahore,Deceased
+1358,Aisha,Ali,Aisha Ali,35321-6401984-1,1989-06-24,03359122674,68005 Debra Lane,2024-07-09 02:36:56,Diabetes Complication,false,None,Ibuprofen,Abran Forrestor,Multan,Discharged
+1359,Hamza,Butt,Hamza Butt,73854-2960439-4,1994-09-03,03308511188,1591 Southridge Park,2024-07-29 06:13:03,Road Accident,false,Atorvastatin,Omeprazole,Margy Drummer,Multan,Discharged
+1360,Hamza,Jatoi,Hamza Jatoi,97820-7145487-3,1960-09-21,03282343873,6 Huxley Way,2023-02-19 08:34:07,Fracture,true,Aspirin,Paracetamol,Shay Cutchee,Lahore,Deceased
+1361,Fatima,Ali,Fatima Ali,39866-8304282-9,1990-07-24,03072121510,53816 Jackson Terrace,2023-11-06 14:38:34,Stroke,false,Metformin,Amoxicillin,Hannis Parcells,Islamabad,Under Observation
+1362,Aisha,Hashmi,Aisha Hashmi,14107-4318009-3,1956-06-07,03258291564,7 Meadow Ridge Court,2024-04-30 16:30:12,Appendicitis,false,Insulin,Omeprazole,Obidiah Staynes,Islamabad,Referred
+1363,Hassan,Siddiqui,Hassan Siddiqui,38764-5654968-4,1969-11-12,03135530594,85 Corry Trail,2024-02-23 16:59:37,Fever,true,Metformin,Ibuprofen,Suzy Andreou,Lahore,Deceased
+1364,Maryam,Farooqi,Maryam Farooqi,61715-6760485-8,2000-04-16,03076739847,00661 Forest Run Parkway,2023-06-26 07:52:06,Fracture,true,Lisinopril,Metoprolol,Samantha Congrave,Rawalpindi,Referred
+1365,Myra,Hussain,Myra Hussain,16496-8883233-7,1954-02-21,03162564477,6362 Armistice Way,2024-08-29 19:55:22,Hypertension,false,Panadol,Ceftriaxone,Ginnie Hullins,Faisalabad,Discharged
+1366,Zainab,Mughal,Zainab Mughal,86317-4093504-2,2003-11-26,03007325072,28 Fremont Hill,2024-11-04 23:52:58,Hypertension,false,Metformin,Metoprolol,Bidget Turrell,Karachi,Deceased
+1367,Aisha,Hashmi,Aisha Hashmi,84722-7666439-7,1979-05-29,03401395832,0 Acker Avenue,2025-09-24 10:07:54,Hypertension,false,Lisinopril,Amoxicillin,Temple Frantzen,Multan,Deceased
+1368,Bilal,Farooqi,Bilal Farooqi,10082-8644707-5,1951-07-21,03435606314,6538 Quincy Street,2024-11-23 00:53:13,Hypertension,true,Lisinopril,Omeprazole,Izzy Charleston,Karachi,Deceased
+1369,Khadija,Siddiqui,Khadija Siddiqui,44967-5799652-2,1978-01-18,03254079304,8493 Bunting Point,2023-03-28 08:15:02,Chest Pain,false,Metformin,Ceftriaxone,Floris Wotherspoon,Karachi,Referred
+1370,Bilal,Chaudhary,Bilal Chaudhary,49927-1390122-2,2003-01-18,03002492767,4447 Welch Junction,2024-04-20 01:04:36,Fracture,false,Lisinopril,Omeprazole,Devi Bubbings,Karachi,Self-Discharged
+1371,Hiba,Gillani,Hiba Gillani,64448-1116020-1,1982-08-09,03390294899,258 Almo Circle,2023-02-09 18:16:06,Fever,true,Lisinopril,Paracetamol,Alexis Muldowney,Rawalpindi,Deceased
+1372,Omar,Rizvi,Omar Rizvi,35577-8170475-3,1972-03-13,03361663478,3641 Gulseth Crossing,2024-08-17 01:07:58,Appendicitis,true,Aspirin,Paracetamol,Barthel Giffen,Karachi,Referred
+1373,Aisha,Iqbal,Aisha Iqbal,26752-5468983-6,1998-04-15,03361598931,96305 Stoughton Drive,2024-06-02 12:57:14,Appendicitis,true,Atorvastatin,Paracetamol,Alastair Schiementz,Lahore,Referred
+1374,Rehan,Siddiqui,Rehan Siddiqui,43304-5013561-8,1964-03-03,03490642893,758 Fuller Terrace,2025-01-19 20:51:53,Fracture,true,Aspirin,Metoprolol,Tabatha Hannam,Rawalpindi,Deceased
+1375,Fatima,Ahmed,Fatima Ahmed,24029-5070617-2,1971-08-15,03309337269,423 Division Park,2023-11-06 02:27:02,Hypertension,true,Insulin,Ibuprofen,Parker Pimlott,Multan,Self-Discharged
+1376,Dua,Jatoi,Dua Jatoi,44963-2597354-8,1959-04-07,03040988322,305 Union Alley,2024-12-23 09:58:56,Hypertension,false,Panadol,Ibuprofen,Ave Stener,Faisalabad,Referred
+1377,Sara,Gillani,Sara Gillani,30934-6904876-2,1975-11-09,03438190724,9101 Warbler Place,2023-12-02 02:57:30,Hypertension,false,Aspirin,Ibuprofen,Margalit Paffley,Lahore,Discharged
+1378,Sara,Chaudhary,Sara Chaudhary,41286-7715897-9,1982-08-26,03012819713,4009 Mcbride Parkway,2023-01-03 05:13:39,Chest Pain,true,Insulin,Metoprolol,Ingunna McGilmartin,Multan,Deceased
+1379,Noor,Naqvi,Noor Naqvi,12697-5999560-6,2001-01-24,03164987931,50 Clarendon Junction,2025-05-19 15:15:04,Diabetes Complication,false,Metformin,Paracetamol,Lita De Giorgis,Lahore,Deceased
+1380,Hiba,Siddiqui,Hiba Siddiqui,59206-3041507-1,1950-02-15,03384878663,4819 Myrtle Trail,2023-05-30 10:58:52,Fracture,true,Panadol,Ceftriaxone,Lockwood Leithgoe,Multan,Referred
+1381,Anaya,Mirza,Anaya Mirza,92080-1725309-9,1983-07-11,03491455045,9287 Grayhawk Park,2025-04-23 19:37:40,Road Accident,true,Metformin,Ibuprofen,Janaye Durnian,Rawalpindi,Self-Discharged
+1382,Hassan,Abbas,Hassan Abbas,61490-9633446-3,2000-05-21,03047144035,1036 Graceland Parkway,2025-04-11 13:54:01,Road Accident,true,Insulin,Ceftriaxone,Idaline Drejer,Islamabad,Discharged
+1383,Usman,Khan,Usman Khan,58332-4135385-7,1961-03-06,03388528113,795 Mallory Place,2023-08-19 00:30:00,Chest Pain,false,Lisinopril,Paracetamol,Julius Pelman,Multan,Deceased
+1384,Usman,Mirza,Usman Mirza,56525-6082274-8,1967-06-06,03405215486,05331 Blackbird Parkway,2024-04-17 01:31:37,Appendicitis,false,Aspirin,Ibuprofen,Regan Blasio,Karachi,Discharged
+1385,Sara,Siddiqui,Sara Siddiqui,15168-5046389-5,2004-11-18,03436374253,91383 Lillian Pass,2024-08-25 02:00:00,Diabetes Complication,false,Metformin,Ceftriaxone,Oswald MacSkeagan,Rawalpindi,Self-Discharged
+1386,Ali,Butt,Ali Butt,88378-4761281-8,1995-06-04,03429835158,872 Rieder Road,2024-11-07 21:02:30,Appendicitis,false,Panadol,Amoxicillin,Maryjo Murrigan,Karachi,Referred
+1387,Maryam,Ahmed,Maryam Ahmed,59843-3448022-4,1982-05-29,03234720275,49 Artisan Trail,2023-12-21 09:47:52,Diabetes Complication,false,Lisinopril,Paracetamol,Jonathon Casella,Faisalabad,Referred
+1388,Mahnoor,Jatoi,Mahnoor Jatoi,51510-8382582-4,1964-02-11,03165498094,23164 Leroy Avenue,2023-08-05 15:05:53,Road Accident,true,Insulin,Ceftriaxone,Kelby Gumbrell,Karachi,Self-Discharged
+1389,Fatima,Iqbal,Fatima Iqbal,84630-3164047-5,1988-09-16,03004988452,3 Hansons Hill,2023-11-13 17:15:26,Fracture,true,None,Paracetamol,Joelle Groneway,Karachi,Self-Discharged
+1390,Hassan,Hashmi,Hassan Hashmi,34958-3398778-9,1995-10-07,03188107045,24 Stang Hill,2025-04-21 07:19:17,Chest Pain,true,Metformin,Ibuprofen,Miltie Tarbet,Islamabad,Under Observation
+1391,Ahmed,Ali,Ahmed Ali,59628-9836852-3,1992-07-23,03411817851,4 Burning Wood Point,2023-12-20 21:31:53,Stroke,true,Insulin,Amoxicillin,Brietta Bryant,Lahore,Discharged
+1392,Khadija,Malik,Khadija Malik,93328-9853203-5,1953-12-24,03078729913,164 Porter Junction,2025-07-21 04:22:01,Hypertension,true,Metformin,Omeprazole,Jase Geale,Lahore,Discharged
+1393,Hiba,Khan,Hiba Khan,42238-2350989-9,1953-04-04,03465233701,72546 Stephen Crossing,2024-02-01 11:30:08,Fracture,false,Panadol,Paracetamol,Lewiss Epgrave,Multan,Self-Discharged
+1394,Hassan,Gillani,Hassan Gillani,63223-1773279-5,1987-12-12,03298000443,6873 Oriole Street,2025-11-17 10:36:08,Fever,false,Atorvastatin,Metoprolol,William Glaum,Rawalpindi,Under Observation
+1395,Dua,Butt,Dua Butt,48920-7093433-2,1990-03-18,03474585320,9 Cascade Lane,2023-06-22 12:41:58,Fever,true,Metformin,Metoprolol,Patricia Tierney,Rawalpindi,Under Observation
+1396,Fatima,Khan,Fatima Khan,57949-6911088-8,2003-11-05,03209991919,9343 Tennessee Way,2024-07-06 11:03:50,Chest Pain,false,Aspirin,Metoprolol,Dotti Kellar,Faisalabad,Self-Discharged
+1397,Khadija,Abbas,Khadija Abbas,87713-5352731-3,1959-05-07,03219733987,62620 Esker Parkway,2023-11-14 07:08:20,Chest Pain,true,None,Metoprolol,Augustin Larne,Karachi,Referred
+1398,Ibrahim,Jatoi,Ibrahim Jatoi,14848-7075702-2,1986-06-18,03227147459,3929 Mitchell Alley,2025-12-28 05:36:03,Diabetes Complication,false,None,Omeprazole,Cirstoforo Poge,Faisalabad,Referred
+1399,Ahmed,Mirza,Ahmed Mirza,47946-6996939-3,1997-12-19,03381821125,0 Scoville Court,2023-04-09 17:07:22,Appendicitis,true,Aspirin,Ceftriaxone,Ekaterina Rumble,Lahore,Deceased
+1400,Mahnoor,Shah,Mahnoor Shah,21674-6267804-3,1954-09-23,03277152165,6 Dawn Crossing,2025-04-11 23:55:42,Chest Pain,false,None,Metoprolol,Barde Roddell,Rawalpindi,Self-Discharged
+1401,Myra,Ahmed,Myra Ahmed,84660-3211009-9,1988-10-30,03122413862,6 Little Fleur Park,2024-08-21 20:38:25,Road Accident,false,Aspirin,Amoxicillin,Noellyn Chell,Lahore,Under Observation
+1402,Ibrahim,Gillani,Ibrahim Gillani,74226-2724511-6,1959-11-28,03221019881,46 Florence Trail,2023-12-31 13:02:42,Appendicitis,true,Lisinopril,Metoprolol,Moll Attride,Multan,Discharged
+1403,Maryam,Naqvi,Maryam Naqvi,71717-8324647-1,2004-10-12,03211962696,23392 Village Alley,2023-01-07 23:42:06,Appendicitis,true,Panadol,Ceftriaxone,Bram Bignold,Faisalabad,Self-Discharged
+1404,Hassan,Iqbal,Hassan Iqbal,62269-8651630-3,1995-02-02,03470771498,28 Debra Junction,2024-05-13 06:37:14,Chest Pain,false,Atorvastatin,Ceftriaxone,Brewster Haygreen,Lahore,Self-Discharged
+1405,Aisha,Afridi,Aisha Afridi,40993-1110548-6,2005-02-28,03012327078,35 Morrow Street,2023-04-24 04:45:22,Road Accident,true,None,Omeprazole,Whitby Selman,Islamabad,Self-Discharged
+1406,Myra,Afridi,Myra Afridi,29679-3013409-3,1970-03-03,03009711719,774 Debra Court,2023-09-08 09:05:45,Chest Pain,true,Metformin,Metoprolol,Sal Darwen,Faisalabad,Deceased
+1407,Mustafa,Ahmed,Mustafa Ahmed,92875-3963485-9,1989-06-04,03421065710,84654 Hermina Point,2024-06-21 06:09:01,Fracture,true,Insulin,Ibuprofen,Wiley Stearns,Islamabad,Discharged
+1408,Mustafa,Ahmed,Mustafa Ahmed,59200-8718621-8,1979-02-18,03204078711,487 Haas Parkway,2024-01-04 20:14:46,Road Accident,true,Aspirin,Amoxicillin,Erik Barbier,Islamabad,Deceased
+1409,Maryam,Sheikh,Maryam Sheikh,81011-7768184-4,1982-11-11,03057964980,8 Norway Maple Pass,2024-09-05 02:37:57,Fracture,false,Lisinopril,Ibuprofen,Jerrylee Grahlmans,Lahore,Discharged
+1410,Myra,Abbas,Myra Abbas,54980-3577690-8,1960-04-02,03396278119,6 Vernon Circle,2025-06-05 21:25:28,Appendicitis,false,Atorvastatin,Amoxicillin,Sayres Cumpton,Rawalpindi,Self-Discharged
+1411,Mustafa,Abbas,Mustafa Abbas,66461-7652612-3,1963-08-10,03218434789,24139 Columbus Street,2024-04-03 11:49:14,Appendicitis,false,Lisinopril,Metoprolol,Faulkner Surgeon,Multan,Discharged
+1412,Mahnoor,Mirza,Mahnoor Mirza,17710-7094539-6,1989-06-14,03231542713,29068 David Court,2024-04-20 00:26:40,Appendicitis,true,Lisinopril,Metoprolol,Roxi Nelmes,Faisalabad,Deceased
+1413,Hassan,Siddiqui,Hassan Siddiqui,95924-8337650-3,1950-10-18,03085604313,12101 International Place,2024-05-15 01:32:05,Diabetes Complication,false,None,Amoxicillin,Chandal Casebourne,Islamabad,Self-Discharged
+1414,Anaya,Butt,Anaya Butt,14054-5995686-3,1998-12-04,03068085241,3520 Esch Alley,2025-05-07 03:47:04,Appendicitis,false,Insulin,Metoprolol,Nollie Swayne,Lahore,Referred
+1415,Fatima,Ahmed,Fatima Ahmed,21084-7458335-9,1963-05-10,03419059806,9152 Clemons Plaza,2025-08-21 02:13:06,Diabetes Complication,false,Lisinopril,Omeprazole,Jacob Lascell,Multan,Self-Discharged
+1416,Hassan,Sheikh,Hassan Sheikh,13161-3963111-5,1977-07-29,03168977327,64 Truax Avenue,2024-01-21 13:06:00,Hypertension,true,None,Amoxicillin,Francisca Cauldfield,Multan,Referred
+1417,Sara,Naqvi,Sara Naqvi,56490-8908399-8,1983-08-02,03141538798,645 David Center,2024-09-28 06:33:36,Fever,true,Insulin,Ceftriaxone,Reeba Mehmet,Multan,Discharged
+1418,Sara,Mughal,Sara Mughal,58285-1455751-1,1966-07-21,03219477270,4395 Macpherson Circle,2023-01-29 20:36:01,Diabetes Complication,false,Metformin,Ibuprofen,Noni Gipp,Rawalpindi,Referred
+1419,Mahnoor,Sheikh,Mahnoor Sheikh,33852-9038098-8,1960-02-10,03307197900,5 Welch Center,2023-12-15 05:41:23,Stroke,false,Atorvastatin,Metoprolol,Jamie Bullen,Lahore,Self-Discharged
+1420,Khadija,Gillani,Khadija Gillani,35349-4179976-2,1962-06-10,03106535669,44866 Montana Parkway,2023-07-26 17:50:21,Hypertension,false,None,Ceftriaxone,Devondra Phaup,Karachi,Referred
+1421,Sara,Bajwa,Sara Bajwa,94577-8447797-4,1960-05-15,03445004556,8005 Rowland Circle,2025-11-06 11:52:55,Diabetes Complication,true,Panadol,Ibuprofen,Berrie Blown,Faisalabad,Referred
+1422,Mahnoor,Ali,Mahnoor Ali,68323-5144420-8,2001-04-11,03155537142,33771 Red Cloud Crossing,2023-01-30 06:57:44,Fever,false,Metformin,Ceftriaxone,Nady Raywood,Islamabad,Deceased
+1423,Anaya,Naqvi,Anaya Naqvi,28571-2759230-6,1995-10-04,03199434532,56274 Arizona Way,2023-08-09 07:12:38,Hypertension,false,Lisinopril,Amoxicillin,Alia Peverell,Islamabad,Under Observation
+1424,Zainab,Malik,Zainab Malik,32547-4639184-1,1960-05-08,03157538163,07540 Lien Place,2025-11-17 23:52:39,Fracture,true,Lisinopril,Metoprolol,Queenie Huntington,Rawalpindi,Discharged
+1425,Aisha,Siddiqui,Aisha Siddiqui,32363-2845162-5,1994-01-01,03164183050,64517 Clarendon Road,2023-09-09 18:26:08,Road Accident,true,Panadol,Paracetamol,Lynsey Franzonello,Karachi,Under Observation
+1426,Rehan,Lodhi,Rehan Lodhi,46276-6758280-1,1989-06-05,03340998092,6691 Ronald Regan Center,2023-08-31 08:54:02,Appendicitis,false,Panadol,Amoxicillin,Avram Poser,Multan,Self-Discharged
+1427,Myra,Malik,Myra Malik,58584-1198432-3,1992-01-26,03483445452,250 Cottonwood Hill,2023-11-09 03:07:19,Diabetes Complication,false,Metformin,Omeprazole,Charlena Pheby,Multan,Discharged
+1428,Hamza,Lodhi,Hamza Lodhi,48638-7601960-7,1976-11-25,03278159759,7 Aberg Parkway,2025-04-26 22:19:50,Fracture,true,Panadol,Ceftriaxone,Karlens Holwell,Rawalpindi,Self-Discharged
+1429,Mustafa,Mirza,Mustafa Mirza,38190-8976167-3,1957-06-17,03039247125,0090 Hintze Parkway,2023-12-05 09:16:48,Hypertension,false,None,Amoxicillin,Becki Flescher,Faisalabad,Self-Discharged
+1430,Fatima,Qureshi,Fatima Qureshi,66081-7975424-5,1984-04-27,03392921337,15804 International Drive,2025-01-13 10:56:38,Fracture,false,Atorvastatin,Ceftriaxone,Carl Morphew,Lahore,Referred
+1431,Aisha,Bajwa,Aisha Bajwa,47255-8068685-8,1992-07-08,03060170578,9 Stephen Plaza,2025-01-16 18:11:21,Fever,false,Panadol,Paracetamol,Regan Billinge,Islamabad,Discharged
+1432,Sara,Lodhi,Sara Lodhi,70748-5470651-9,1991-10-22,03295578387,69 Mosinee Court,2025-07-15 11:11:55,Chest Pain,false,Metformin,Amoxicillin,Noelani Sazio,Lahore,Referred
+1433,Hiba,Ali,Hiba Ali,14218-9568610-1,1969-07-31,03394906629,45981 Coolidge Road,2025-06-16 13:29:21,Road Accident,true,Metformin,Metoprolol,Ilyssa Urry,Islamabad,Under Observation
+1434,Ali,Afridi,Ali Afridi,98950-5424152-8,1994-04-18,03028480629,08 Melrose Way,2023-09-04 16:12:34,Fever,true,None,Omeprazole,L;urette Verbruggen,Islamabad,Discharged
+1435,Sana,Abbas,Sana Abbas,73648-7167715-5,1993-01-08,03393885886,7 Scofield Circle,2025-12-29 16:18:45,Hypertension,false,Atorvastatin,Ibuprofen,Nan Montrose,Islamabad,Under Observation
+1436,Zaid,Aziz,Zaid Aziz,85671-2134761-7,1988-03-26,03116114458,6782 Brentwood Center,2023-05-20 04:19:27,Fracture,false,Panadol,Omeprazole,Juline O'Scanlon,Rawalpindi,Discharged
+1437,Mahnoor,Jatoi,Mahnoor Jatoi,12928-9368014-9,1985-05-23,03033091409,1 Boyd Junction,2025-03-22 16:02:10,Stroke,true,Aspirin,Ibuprofen,Dasie Edards,Faisalabad,Deceased
+1438,Zainab,Malik,Zainab Malik,76645-8054117-9,1979-10-17,03149908662,086 Myrtle Alley,2024-12-30 03:57:44,Appendicitis,false,Insulin,Paracetamol,Wallace Ragborne,Islamabad,Discharged
+1439,Ahmed,Hashmi,Ahmed Hashmi,57953-9030450-3,1976-11-07,03005450927,21 Sheridan Alley,2024-12-18 18:42:29,Fracture,false,Aspirin,Metoprolol,Marcelle Benka,Islamabad,Self-Discharged
+1440,Maryam,Ali,Maryam Ali,68379-4223109-6,1976-05-06,03133547337,66799 Kings Terrace,2025-05-25 05:42:15,Fever,true,Atorvastatin,Paracetamol,Townsend Ackerley,Faisalabad,Self-Discharged
+1441,Hassan,Bajwa,Hassan Bajwa,96073-1760967-5,1980-10-07,03046133912,948 Glacier Hill Court,2025-06-21 06:26:19,Appendicitis,true,Insulin,Metoprolol,Henrie Arsey,Multan,Under Observation
+1442,Dua,Naqvi,Dua Naqvi,90274-1294204-8,2001-10-27,03229869200,212 Emmet Parkway,2024-04-25 20:42:17,Chest Pain,true,None,Metoprolol,Dennie Bonnell,Lahore,Deceased
+1443,Zaid,Ahmed,Zaid Ahmed,16955-9199414-1,1983-01-24,03490406997,26218 Monument Court,2025-02-03 04:50:32,Stroke,true,Atorvastatin,Omeprazole,Silas Cordeix,Islamabad,Under Observation
+1444,Rehan,Lodhi,Rehan Lodhi,82817-2844625-2,1952-07-02,03174660290,7721 Macpherson Parkway,2025-03-11 05:49:00,Chest Pain,true,Metformin,Ibuprofen,Bartram Mayzes,Islamabad,Under Observation
+1445,Fatima,Gillani,Fatima Gillani,33922-3635195-9,1971-02-28,03211837273,54 Sunbrook Lane,2024-05-15 04:06:37,Diabetes Complication,true,Metformin,Paracetamol,Ruthi Gabb,Multan,Referred
+1446,Fatima,Ahmed,Fatima Ahmed,65069-2434538-6,1997-07-06,03224030707,459 Fairfield Road,2023-10-27 17:53:08,Chest Pain,true,None,Metoprolol,Marlin Bellefant,Islamabad,Referred
+1447,Zaid,Mirza,Zaid Mirza,65621-4908833-5,1976-12-15,03401703572,021 Buell Pass,2024-11-24 06:46:26,Fracture,true,Metformin,Ceftriaxone,Staci Dalla,Islamabad,Self-Discharged
+1448,Usman,Gillani,Usman Gillani,81319-1831966-5,1956-04-11,03271897285,88 Service Park,2023-03-04 14:01:05,Chest Pain,true,None,Ibuprofen,Frazier Frango,Multan,Discharged
+1449,Hamza,Afridi,Hamza Afridi,92155-6619050-6,1983-01-13,03086124634,975 Kenwood Way,2024-01-09 15:56:16,Fracture,false,Insulin,Amoxicillin,Boonie Goad,Islamabad,Deceased
+1450,Noor,Ahmed,Noor Ahmed,76791-5248520-7,1967-09-15,03086684079,3149 Northport Trail,2025-08-28 04:14:51,Fracture,true,Lisinopril,Ibuprofen,Bevvy Wrotham,Rawalpindi,Self-Discharged
+1451,Zaid,Sheikh,Zaid Sheikh,74563-3066486-8,1970-07-23,03356106089,4 Dennis Way,2024-12-11 18:36:47,Diabetes Complication,false,Lisinopril,Amoxicillin,Lorilyn Shadwick,Multan,Self-Discharged
+1452,Hiba,Naqvi,Hiba Naqvi,93714-4514641-7,1984-04-17,03043208863,8303 East Pass,2025-11-16 13:36:13,Fracture,true,Metformin,Ceftriaxone,Sharity Gosker,Islamabad,Self-Discharged
+1453,Usman,Bajwa,Usman Bajwa,14895-1037530-4,1992-05-29,03228749761,436 Dapin Point,2023-01-13 20:42:13,Chest Pain,true,Metformin,Ibuprofen,Noland Normanell,Faisalabad,Deceased
+1454,Usman,Khan,Usman Khan,53352-9952807-7,1977-12-14,03370683094,2218 Kennedy Road,2025-01-03 17:07:03,Stroke,false,Atorvastatin,Omeprazole,Gillan Kniveton,Multan,Deceased
+1455,Hassan,Jatoi,Hassan Jatoi,61487-8399453-8,2004-12-20,03163844632,3080 Cherokee Trail,2024-05-17 19:35:26,Appendicitis,false,Lisinopril,Paracetamol,Raymund Syne,Faisalabad,Self-Discharged
+1456,Hiba,Malik,Hiba Malik,89955-7302042-3,1951-04-03,03366174196,63706 Eagan Way,2024-06-17 14:34:33,Fracture,false,None,Omeprazole,Saundra De Blase,Islamabad,Discharged
+1457,Sana,Qureshi,Sana Qureshi,74484-1790413-2,1970-08-01,03009185824,4 Pankratz Junction,2024-10-15 09:05:52,Stroke,false,Aspirin,Paracetamol,Kally Mackerel,Rawalpindi,Under Observation
+1458,Hamza,Rizvi,Hamza Rizvi,38218-6985711-9,1952-06-16,03483203768,03924 Ridgeway Drive,2023-02-12 16:05:20,Diabetes Complication,false,Panadol,Ceftriaxone,Milissent McAster,Faisalabad,Referred
+1459,Hamza,Rizvi,Hamza Rizvi,24403-6665780-3,1952-06-26,03494975276,5 Commercial Center,2025-07-18 14:43:36,Diabetes Complication,true,Panadol,Paracetamol,Leodora Hilley,Lahore,Under Observation
+1460,Hiba,Naqvi,Hiba Naqvi,52051-5549248-7,1955-11-17,03163218361,83403 Autumn Leaf Park,2024-10-01 07:03:50,Chest Pain,false,Metformin,Paracetamol,Jere Cunde,Rawalpindi,Self-Discharged
+1461,Usman,Malik,Usman Malik,57779-6083404-3,2005-11-04,03357760019,570 8th Crossing,2024-05-25 22:52:47,Road Accident,true,Panadol,Ceftriaxone,Rozalie Leggatt,Rawalpindi,Under Observation
+1462,Sara,Sheikh,Sara Sheikh,32806-3259118-3,1966-11-29,03450853191,0512 Bluejay Junction,2024-08-07 20:57:46,Fracture,false,Aspirin,Ibuprofen,Raphaela Wapples,Karachi,Discharged
+1463,Dua,Rizvi,Dua Rizvi,31379-2151656-7,1952-10-10,03291907863,3 Lakeland Court,2025-07-13 03:56:40,Appendicitis,true,Metformin,Omeprazole,El Cosgrive,Multan,Self-Discharged
+1464,Myra,Lodhi,Myra Lodhi,38044-5147064-2,1985-01-17,03019771185,979 Autumn Leaf Avenue,2023-03-11 04:23:30,Stroke,true,Panadol,Metoprolol,Audrye Stallibrass,Karachi,Referred
+1465,Dua,Malik,Dua Malik,54309-3303031-8,2002-03-15,03452805155,4728 Pearson Court,2025-10-23 12:33:08,Road Accident,false,Lisinopril,Metoprolol,Darb Plummer,Karachi,Referred
+1466,Hassan,Hashmi,Hassan Hashmi,84632-8429876-8,1973-02-11,03000837421,423 Transport Court,2023-12-22 09:22:01,Appendicitis,false,Atorvastatin,Paracetamol,Ferdy Fryd,Faisalabad,Deceased
+1467,Sara,Iqbal,Sara Iqbal,64559-4991507-8,1978-04-01,03164160870,976 3rd Circle,2023-12-31 13:31:21,Fever,false,Metformin,Amoxicillin,Elga Southan,Lahore,Self-Discharged
+1468,Khadija,Shah,Khadija Shah,49591-9284450-2,1959-03-11,03135575254,2782 Kennedy Alley,2023-07-30 23:21:19,Fever,false,Atorvastatin,Omeprazole,Bonny Kears,Islamabad,Referred
+1469,Fatima,Naqvi,Fatima Naqvi,39186-4173734-7,1998-11-18,03276585269,1 Moulton Alley,2023-09-08 23:14:03,Hypertension,false,None,Ibuprofen,Wait Penner,Karachi,Deceased
+1470,Ibrahim,Hashmi,Ibrahim Hashmi,77523-9413330-8,1984-01-12,03341393532,39343 Sutherland Pass,2024-09-26 21:28:59,Fracture,false,Lisinopril,Metoprolol,Dottie Trumper,Faisalabad,Self-Discharged
+1471,Maryam,Khan,Maryam Khan,89920-6726972-3,1992-07-11,03191035209,55 Pond Junction,2023-03-14 11:56:10,Fracture,false,Atorvastatin,Omeprazole,Bucky Brothwood,Islamabad,Deceased
+1472,Sana,Abbas,Sana Abbas,85535-3902281-8,1978-06-07,03300839600,80530 Moulton Point,2025-01-14 21:41:53,Diabetes Complication,true,Lisinopril,Amoxicillin,Markus Tizzard,Islamabad,Deceased
+1473,Aisha,Iqbal,Aisha Iqbal,31434-6088682-6,1979-05-03,03042433795,8 Butternut Way,2023-02-03 07:48:07,Stroke,true,Metformin,Amoxicillin,Brandtr Hoopper,Multan,Self-Discharged
+1474,Bilal,Naqvi,Bilal Naqvi,53139-8798653-1,1975-03-25,03496272684,32804 Melody Way,2024-09-06 00:33:00,Road Accident,true,Panadol,Ibuprofen,Susann Messer,Rawalpindi,Discharged
+1475,Omar,Jatoi,Omar Jatoi,73808-7431508-5,2004-06-26,03023798633,5105 Cordelia Point,2023-04-13 05:34:07,Fever,false,None,Paracetamol,Jory Mottershaw,Faisalabad,Under Observation
+1476,Fatima,Qureshi,Fatima Qureshi,83704-9052659-9,1966-08-20,03419190620,6708 Upham Point,2023-12-08 18:51:54,Stroke,false,Atorvastatin,Paracetamol,Jacquelin Rowlin,Rawalpindi,Self-Discharged
+1477,Zaid,Lodhi,Zaid Lodhi,12704-8915245-3,1982-05-02,03273372769,2 Scott Place,2025-07-18 12:41:11,Diabetes Complication,false,Insulin,Ceftriaxone,Hewet Prys,Karachi,Discharged
+1478,Aisha,Naqvi,Aisha Naqvi,70905-8670908-4,1957-06-03,03014429132,93151 Grasskamp Circle,2023-09-26 14:15:50,Appendicitis,false,Metformin,Paracetamol,Malva Shakelady,Faisalabad,Self-Discharged
+1479,Hassan,Farooqi,Hassan Farooqi,50051-9027519-3,1989-12-12,03236111093,185 Westridge Terrace,2023-05-10 04:07:51,Fracture,true,Atorvastatin,Amoxicillin,Conroy Shaughnessy,Islamabad,Deceased
+1480,Sana,Afridi,Sana Afridi,22275-4930500-1,1954-07-29,03271328173,45468 Kensington Street,2025-05-19 19:07:33,Hypertension,false,Atorvastatin,Ceftriaxone,Nomi Richichi,Islamabad,Self-Discharged
+1481,Zaid,Naqvi,Zaid Naqvi,79092-2991317-9,1985-01-24,03024793025,85 Garrison Crossing,2024-09-02 13:51:42,Hypertension,false,Atorvastatin,Ceftriaxone,Romeo Crebbin,Lahore,Under Observation
+1482,Noor,Butt,Noor Butt,88069-1440902-8,1950-01-30,03475298218,81206 Luster Court,2023-12-04 23:00:47,Stroke,false,Panadol,Ceftriaxone,Nolly Dougan,Karachi,Deceased
+1483,Hiba,Malik,Hiba Malik,61402-8996177-6,1987-06-15,03080931162,27278 Hayes Center,2025-02-01 10:47:44,Diabetes Complication,true,Metformin,Ibuprofen,Ezequiel Bernth,Faisalabad,Referred
+1484,Myra,Afridi,Myra Afridi,20138-5205640-1,1963-02-12,03242661071,215 Bayside Avenue,2025-09-18 14:17:24,Hypertension,false,Metformin,Ceftriaxone,Conny Yearron,Rawalpindi,Deceased
+1485,Sana,Lodhi,Sana Lodhi,65647-9037025-1,1969-03-01,03398095769,2439 Logan Street,2025-01-23 19:01:07,Hypertension,false,None,Ibuprofen,Jon Gyrgorwicx,Rawalpindi,Deceased
+1486,Arsalan,Sheikh,Arsalan Sheikh,45821-5507742-2,1951-03-03,03193569351,8 Memorial Point,2023-02-25 00:04:59,Fracture,true,Aspirin,Metoprolol,Gussi Glendzer,Islamabad,Deceased
+1487,Hiba,Farooqi,Hiba Farooqi,95926-5827127-9,1969-01-18,03227011365,98208 Ronald Regan Circle,2025-10-30 08:14:14,Road Accident,false,Insulin,Ibuprofen,Enrique Chesshyre,Multan,Under Observation
+1488,Omar,Gillani,Omar Gillani,24650-8930554-2,1971-07-15,03483895794,12 Ridge Oak Plaza,2025-04-18 22:08:36,Hypertension,false,Metformin,Ibuprofen,Bren MacKowle,Rawalpindi,Under Observation
+1489,Hassan,Ali,Hassan Ali,23197-4872361-3,1972-04-11,03269923556,77 Mallard Trail,2025-03-21 08:13:41,Road Accident,true,Aspirin,Omeprazole,Luciana Laxton,Karachi,Referred
+1490,Fatima,Gillani,Fatima Gillani,57190-6059108-9,1994-10-27,03264671288,1024 Stang Pass,2024-03-30 05:51:06,Stroke,false,Lisinopril,Paracetamol,Callie Ferrolli,Karachi,Discharged
+1491,Maryam,Mughal,Maryam Mughal,88285-3222141-1,1954-11-01,03369530081,8 Judy Park,2024-12-10 05:49:18,Fever,true,Lisinopril,Metoprolol,Margaretha Grishkov,Multan,Deceased
+1492,Mahnoor,Khan,Mahnoor Khan,81369-3213021-2,1989-05-28,03262232009,72 Mcbride Court,2025-08-12 15:12:14,Chest Pain,true,Aspirin,Amoxicillin,Klarrisa Offill,Lahore,Deceased
+1493,Fatima,Ahmed,Fatima Ahmed,29148-9028890-5,2004-03-12,03351827081,56 Autumn Leaf Lane,2025-12-15 14:40:11,Road Accident,false,Atorvastatin,Omeprazole,Nikkie Lucy,Karachi,Discharged
+1494,Myra,Khan,Myra Khan,96952-1378770-4,1983-08-22,03067618752,206 Arizona Trail,2023-08-20 23:40:50,Chest Pain,true,Panadol,Omeprazole,Odelia Farnall,Multan,Under Observation
+1495,Anaya,Mirza,Anaya Mirza,95597-6915598-8,1985-06-20,03457136358,2697 Portage Terrace,2024-06-22 11:54:26,Stroke,false,Insulin,Ceftriaxone,Julie Galtone,Islamabad,Referred
+1496,Omar,Afridi,Omar Afridi,91536-6564533-5,1997-01-26,03209370189,0474 Glacier Hill Avenue,2023-05-25 03:12:32,Fracture,true,Metformin,Amoxicillin,Jana Adriaens,Multan,Deceased
+1497,Maryam,Ali,Maryam Ali,24423-2480823-7,2004-09-07,03410256221,18 Fulton Terrace,2025-04-19 05:24:11,Hypertension,true,Aspirin,Paracetamol,Darcee Stening,Multan,Self-Discharged
+1498,Omar,Abbas,Omar Abbas,54937-4617886-3,1991-09-09,03470840516,569 Oneill Junction,2023-10-17 21:34:57,Diabetes Complication,true,Atorvastatin,Amoxicillin,Andreana Weatherburn,Rawalpindi,Discharged
+1499,Aisha,Ali,Aisha Ali,24407-8629305-3,1968-02-19,03279150251,9764 Weeping Birch Court,2025-03-09 14:35:00,Appendicitis,false,Aspirin,Paracetamol,Alfi Culy,Multan,Under Observation
+1500,Anaya,Qureshi,Anaya Qureshi,96583-9461453-1,2002-01-13,03027822839,074 Sullivan Hill,2023-07-11 19:40:45,Fracture,true,Atorvastatin,Omeprazole,Eleni Taylorson,Faisalabad,Referred
+1501,Mahnoor,Rizvi,Mahnoor Rizvi,89008-1112675-6,1980-06-24,03007258724,2283 Elka Trail,2025-03-28 16:25:26,Appendicitis,true,Aspirin,Paracetamol,Daffie Ankers,Karachi,Self-Discharged
+1502,Aisha,Naqvi,Aisha Naqvi,10310-8844830-7,1952-04-01,03006374860,4 Trailsway Road,2023-02-17 03:41:17,Diabetes Complication,true,Panadol,Ceftriaxone,Verina O'Halloran,Multan,Under Observation
+1503,Ibrahim,Naqvi,Ibrahim Naqvi,48336-2542593-8,1955-06-24,03462269423,69406 Scofield Plaza,2024-07-16 13:14:28,Appendicitis,true,Atorvastatin,Metoprolol,Ruperta Saffen,Faisalabad,Under Observation
+1504,Sana,Shah,Sana Shah,23804-6780758-3,2000-03-04,03315943419,2961 Coleman Court,2025-09-12 10:50:10,Diabetes Complication,true,Insulin,Amoxicillin,Mela Lane,Lahore,Discharged
+1505,Bilal,Sheikh,Bilal Sheikh,67287-6335798-9,1975-12-15,03310206245,1 Charing Cross Avenue,2023-10-22 21:25:08,Diabetes Complication,false,None,Amoxicillin,Brockie Filinkov,Faisalabad,Self-Discharged
+1506,Maryam,Aziz,Maryam Aziz,12457-6547934-3,1985-10-04,03113655719,0 Mosinee Pass,2025-01-08 22:57:21,Fracture,true,Lisinopril,Metoprolol,Burg Easseby,Lahore,Under Observation
+1507,Zainab,Hashmi,Zainab Hashmi,95507-1774791-9,1961-04-15,03127205074,8 Longview Terrace,2025-10-19 04:53:48,Appendicitis,true,Aspirin,Amoxicillin,Magdaia Bousler,Islamabad,Deceased
+1508,Sara,Afridi,Sara Afridi,66895-7589884-5,1975-11-08,03388811775,2353 Armistice Park,2025-01-10 09:17:37,Appendicitis,false,Metformin,Omeprazole,Perice Oxborrow,Islamabad,Self-Discharged
+1509,Hiba,Sheikh,Hiba Sheikh,72020-7019903-5,2003-03-07,03446197423,06 Clemons Place,2024-12-12 19:36:31,Road Accident,true,Aspirin,Metoprolol,Buckie Rottenbury,Lahore,Referred
+1510,Ali,Farooqi,Ali Farooqi,15720-6818453-9,1973-01-14,03291797862,61 Jay Terrace,2025-02-16 10:52:31,Fever,false,Panadol,Amoxicillin,Clea Pirdue,Islamabad,Referred
+1511,Ahmed,Shah,Ahmed Shah,20400-4258253-9,1968-06-10,03473377333,1099 Bultman Pass,2023-04-18 10:53:17,Diabetes Complication,true,Metformin,Ibuprofen,Estell Chasemore,Karachi,Self-Discharged
+1512,Myra,Ali,Myra Ali,97598-3171129-9,1962-09-16,03125033739,9570 South Hill,2023-09-12 00:26:48,Road Accident,true,Insulin,Metoprolol,Umeko Berrygun,Lahore,Discharged
+1513,Zaid,Gillani,Zaid Gillani,19797-5608892-1,1961-06-20,03498991960,7 Warbler Point,2024-02-14 06:26:31,Fracture,false,Aspirin,Omeprazole,Isobel De Nisco,Islamabad,Self-Discharged
+1514,Hamza,Mirza,Hamza Mirza,73143-5947932-8,1996-09-03,03467876098,44397 Carpenter Center,2025-03-15 02:51:19,Stroke,true,Lisinopril,Omeprazole,Penny Corby,Faisalabad,Discharged
+1515,Arsalan,Jatoi,Arsalan Jatoi,17443-4755903-7,2002-03-31,03334479827,29 Spenser Crossing,2024-10-14 02:31:00,Road Accident,true,Lisinopril,Ibuprofen,Miguela Swinburn,Islamabad,Self-Discharged
+1516,Usman,Ali,Usman Ali,39033-5133713-9,1961-06-01,03238940918,928 Bobwhite Road,2023-09-11 07:01:47,Hypertension,false,Aspirin,Metoprolol,Christie Bachelar,Faisalabad,Self-Discharged
+1517,Omar,Shah,Omar Shah,86464-3332525-3,1994-01-11,03332006499,62 Bartelt Plaza,2025-06-21 09:37:25,Fever,true,None,Amoxicillin,Nadia Zemler,Lahore,Self-Discharged
+1518,Hassan,Khan,Hassan Khan,54761-3168006-8,1956-02-26,03177557797,32202 Kingsford Hill,2025-07-18 07:27:12,Appendicitis,false,Metformin,Amoxicillin,Sheff Beavors,Multan,Self-Discharged
+1519,Aisha,Siddiqui,Aisha Siddiqui,65981-8959104-8,1990-06-09,03009250143,33 Linden Trail,2024-10-07 13:05:30,Hypertension,true,Insulin,Ibuprofen,Theobald Billo,Faisalabad,Self-Discharged
+1520,Omar,Mughal,Omar Mughal,32122-6533821-6,1982-06-01,03037364303,1086 Glacier Hill Avenue,2025-03-26 11:32:07,Appendicitis,true,Aspirin,Paracetamol,Land Greeveson,Islamabad,Under Observation
+1521,Aisha,Shah,Aisha Shah,48960-3365019-8,1979-01-31,03102052808,5 Tennyson Crossing,2025-04-09 03:24:45,Fracture,false,Metformin,Ceftriaxone,Atlante Marquet,Faisalabad,Deceased
+1522,Aisha,Bajwa,Aisha Bajwa,58232-6388696-9,1991-11-28,03428352180,62409 Ridgeview Park,2023-06-23 01:54:45,Hypertension,true,Lisinopril,Ceftriaxone,Lanette Huntingdon,Rawalpindi,Self-Discharged
+1523,Omar,Qureshi,Omar Qureshi,20720-1411641-7,1951-03-03,03360353961,32 Lakewood Pass,2024-04-15 02:34:59,Chest Pain,false,Atorvastatin,Amoxicillin,Dorian Rawkesby,Islamabad,Self-Discharged
+1524,Ali,Mirza,Ali Mirza,88862-2761918-3,1960-03-25,03445803076,9 Montana Place,2025-12-07 10:37:14,Road Accident,true,Metformin,Omeprazole,Giulia Birkmyr,Multan,Under Observation
+1525,Noor,Mughal,Noor Mughal,60406-7210176-8,1976-08-03,03496586620,5 Mayer Alley,2023-06-06 14:39:20,Hypertension,true,None,Omeprazole,Theobald Eliez,Islamabad,Under Observation
+1526,Rehan,Sheikh,Rehan Sheikh,80756-3525242-8,2000-11-15,03325763580,92 Eliot Avenue,2023-09-06 15:48:12,Fever,false,Metformin,Metoprolol,Dinny Brockwell,Lahore,Self-Discharged
+1527,Hassan,Afridi,Hassan Afridi,67683-7259457-7,2005-11-20,03171992251,8 Donald Drive,2025-01-07 01:59:34,Stroke,false,Atorvastatin,Omeprazole,Elden Sharer,Faisalabad,Deceased
+1528,Ibrahim,Iqbal,Ibrahim Iqbal,95050-9165211-4,1959-07-04,03084459278,7 Pleasure Court,2025-12-05 19:54:40,Diabetes Complication,false,Lisinopril,Metoprolol,Liesa Cattellion,Lahore,Deceased
+1529,Anaya,Mirza,Anaya Mirza,56834-5800104-7,1950-09-19,03026261162,9505 Beilfuss Junction,2024-11-04 19:14:46,Appendicitis,true,Insulin,Ceftriaxone,Torey Ridgers,Lahore,Discharged
+1530,Mustafa,Bajwa,Mustafa Bajwa,88376-9591280-3,1967-07-08,03482139927,3030 Kropf Circle,2025-03-28 01:28:27,Fracture,false,Atorvastatin,Ceftriaxone,Bar Scrowton,Faisalabad,Deceased
+1531,Sana,Sheikh,Sana Sheikh,98724-1410195-6,1962-04-05,03415912069,6955 Declaration Hill,2024-12-19 11:08:28,Hypertension,false,Panadol,Metoprolol,Janina Cameron,Karachi,Deceased
+1532,Rehan,Ahmed,Rehan Ahmed,78503-6665490-3,1961-07-20,03374022344,49947 Granby Point,2023-09-08 22:07:07,Fever,true,Atorvastatin,Ceftriaxone,Franklyn Ilyinykh,Lahore,Under Observation
+1533,Usman,Chaudhary,Usman Chaudhary,34067-6296266-5,1962-12-29,03257674893,11 Holmberg Crossing,2024-08-21 00:49:44,Road Accident,true,Panadol,Paracetamol,Jesse Craigg,Faisalabad,Deceased
+1534,Zaid,Khan,Zaid Khan,97544-8475344-1,1993-01-17,03372790155,5265 Lakeland Hill,2023-09-24 05:31:31,Road Accident,false,Lisinopril,Ibuprofen,Cosimo McElane,Islamabad,Self-Discharged
+1535,Omar,Mughal,Omar Mughal,58035-1061303-5,1975-09-24,03023172888,81 Montana Drive,2025-09-29 13:43:56,Fever,true,Lisinopril,Ceftriaxone,Dolli Girardy,Islamabad,Under Observation
+1536,Zainab,Lodhi,Zainab Lodhi,48995-3009102-1,1991-09-30,03207263257,6 Jackson Parkway,2024-01-16 08:31:34,Fracture,true,None,Amoxicillin,Claire Galler,Faisalabad,Discharged
+1537,Hamza,Jatoi,Hamza Jatoi,96913-3575538-5,1999-05-01,03110546938,4879 West Avenue,2023-11-30 04:30:25,Road Accident,true,Panadol,Metoprolol,Constantin Weight,Rawalpindi,Self-Discharged
+1538,Maryam,Farooqi,Maryam Farooqi,16002-3882017-6,1952-03-04,03303612821,1 Hooker Park,2025-09-03 06:11:44,Fracture,false,Lisinopril,Ibuprofen,Wally Donovan,Karachi,Under Observation
+1539,Zaid,Farooqi,Zaid Farooqi,52234-4907318-3,1969-03-29,03340168016,7948 Armistice Terrace,2023-09-05 09:29:49,Diabetes Complication,false,Aspirin,Omeprazole,Gilberte Davidovics,Faisalabad,Discharged
+1540,Anaya,Ahmed,Anaya Ahmed,86511-6850278-7,1999-01-31,03392189641,0 Red Cloud Terrace,2023-03-14 16:00:33,Road Accident,true,Atorvastatin,Ibuprofen,Honoria Dulanty,Faisalabad,Self-Discharged
+1541,Ahmed,Malik,Ahmed Malik,62550-9153692-4,1979-11-23,03498130217,9197 Morningstar Terrace,2024-10-16 05:54:46,Hypertension,false,None,Ibuprofen,Misha Decker,Karachi,Self-Discharged
+1542,Hamza,Malik,Hamza Malik,72996-3558282-5,1982-01-26,03167187403,297 Pond Trail,2024-02-14 09:22:19,Fracture,true,None,Paracetamol,Agnella Gookes,Karachi,Deceased
+1543,Usman,Rizvi,Usman Rizvi,97747-5326059-9,1987-06-07,03074066590,14713 Talmadge Junction,2024-08-09 05:47:53,Stroke,false,Panadol,Ibuprofen,Henri Sertin,Faisalabad,Self-Discharged
+1544,Hassan,Mirza,Hassan Mirza,46553-6273006-7,1962-02-18,03071007270,6 Morning Terrace,2025-08-01 12:04:58,Fracture,true,Metformin,Paracetamol,Corrie Sepey,Islamabad,Deceased
+1545,Bilal,Naqvi,Bilal Naqvi,73881-4388545-1,1959-08-13,03136895483,61676 High Crossing Circle,2024-12-01 04:07:36,Diabetes Complication,false,Aspirin,Metoprolol,Petra Saltsberg,Rawalpindi,Self-Discharged
+1546,Maryam,Rizvi,Maryam Rizvi,58167-7722226-3,1960-01-01,03102484765,15503 Lawn Crossing,2024-06-21 13:15:50,Diabetes Complication,true,Lisinopril,Omeprazole,Abbie Corbitt,Lahore,Referred
+1547,Aisha,Mirza,Aisha Mirza,47290-8777051-3,1958-05-26,03046518433,9 Kim Point,2024-08-05 04:38:19,Road Accident,true,Aspirin,Omeprazole,Clayson Gatteridge,Lahore,Discharged
+1548,Omar,Sheikh,Omar Sheikh,87983-8776548-5,1996-07-19,03275193190,78 Kipling Road,2024-12-12 03:30:08,Chest Pain,false,Aspirin,Amoxicillin,Riane Darcy,Rawalpindi,Self-Discharged
+1549,Ibrahim,Mughal,Ibrahim Mughal,79180-1790837-1,1968-09-20,03440577912,06 Schiller Place,2023-10-23 19:47:45,Stroke,true,Atorvastatin,Metoprolol,Montgomery Tomaszewicz,Karachi,Self-Discharged
+1550,Anaya,Siddiqui,Anaya Siddiqui,82824-3441613-5,1967-11-12,03436000536,5011 Clyde Gallagher Circle,2024-05-09 19:59:39,Appendicitis,true,Panadol,Ceftriaxone,Matilda Bruin,Islamabad,Self-Discharged
+1551,Anaya,Chaudhary,Anaya Chaudhary,44065-8302171-1,1974-06-01,03129155774,6881 International Drive,2024-07-24 10:24:28,Fever,false,Insulin,Ibuprofen,Claudelle Waberer,Multan,Discharged
+1552,Myra,Iqbal,Myra Iqbal,25287-7341179-2,1985-07-17,03006385421,87081 Jay Alley,2023-09-03 02:33:57,Stroke,false,Lisinopril,Paracetamol,Jamie Shilleto,Rawalpindi,Under Observation
+1553,Noor,Qureshi,Noor Qureshi,70182-8531824-5,1970-08-12,03387073548,9 Moose Terrace,2023-08-29 20:44:30,Road Accident,true,Aspirin,Paracetamol,Brooks Jewsbury,Islamabad,Self-Discharged
+1554,Sana,Bajwa,Sana Bajwa,42152-5025732-6,1974-06-10,03357488589,60398 Ruskin Crossing,2023-04-08 04:15:18,Road Accident,true,Metformin,Metoprolol,Port Tows,Multan,Self-Discharged
+1555,Hassan,Iqbal,Hassan Iqbal,78787-1319392-1,1996-07-07,03214098248,78842 Green Lane,2024-02-16 02:54:48,Fracture,true,None,Paracetamol,Artie Muzzillo,Karachi,Self-Discharged
+1556,Rehan,Chaudhary,Rehan Chaudhary,73414-7526704-8,1965-06-03,03281804338,65641 Rowland Junction,2023-07-23 22:06:53,Appendicitis,true,Atorvastatin,Ceftriaxone,Jessey Rochester,Faisalabad,Deceased
+1557,Maryam,Jatoi,Maryam Jatoi,47003-7984699-1,2001-05-08,03056178027,114 Declaration Lane,2025-08-16 14:53:35,Stroke,false,Aspirin,Amoxicillin,Antonino Robilliard,Rawalpindi,Discharged
+1558,Mustafa,Siddiqui,Mustafa Siddiqui,24468-3639552-3,1999-10-13,03203707115,38 Warrior Lane,2023-08-29 11:00:10,Appendicitis,false,Aspirin,Amoxicillin,Cal Clarricoates,Lahore,Self-Discharged
+1559,Zainab,Siddiqui,Zainab Siddiqui,59871-9399253-2,1999-07-10,03433769963,315 Muir Parkway,2023-06-18 04:11:33,Chest Pain,false,Aspirin,Amoxicillin,Jeffry Adriaens,Lahore,Discharged
+1560,Fatima,Siddiqui,Fatima Siddiqui,67368-8444234-3,1950-11-03,03472472435,3 Eastlawn Park,2024-07-22 17:04:59,Hypertension,false,Metformin,Ibuprofen,Thom Kilmaster,Islamabad,Self-Discharged
+1561,Anaya,Iqbal,Anaya Iqbal,38437-4972352-3,1953-07-06,03104971337,5021 Buena Vista Junction,2024-04-15 05:24:53,Road Accident,true,Aspirin,Ceftriaxone,Pearl Murray,Faisalabad,Referred
+1562,Maryam,Mirza,Maryam Mirza,60437-2964737-1,1954-08-18,03319406250,52 Ryan Avenue,2024-02-04 17:10:39,Fever,true,Insulin,Paracetamol,Opaline Buncher,Lahore,Deceased
+1563,Noor,Iqbal,Noor Iqbal,17839-1876607-9,1956-10-07,03454578021,01 Emmet Court,2025-05-01 21:00:05,Stroke,true,Lisinopril,Amoxicillin,Clarita Novill,Islamabad,Under Observation
+1564,Hamza,Ali,Hamza Ali,28645-4734685-5,2003-11-14,03471012123,9 Shasta Center,2023-06-19 06:24:30,Appendicitis,true,None,Amoxicillin,Lissie Burnyeat,Lahore,Self-Discharged
+1565,Hassan,Aziz,Hassan Aziz,96454-8789931-6,1962-10-03,03346300661,0 Holmberg Road,2025-11-25 05:19:55,Road Accident,true,None,Paracetamol,Helyn Gronaller,Multan,Self-Discharged
+1566,Hassan,Jatoi,Hassan Jatoi,19425-5828044-6,1965-07-12,03489175125,05 Waywood Park,2024-06-08 04:44:18,Fracture,true,Aspirin,Ceftriaxone,Paulo Lavender,Karachi,Referred
+1567,Sara,Butt,Sara Butt,26412-5757882-6,1956-09-02,03127783563,66 Dayton Point,2024-08-05 20:11:03,Chest Pain,false,Panadol,Metoprolol,Arthur Scotchmur,Islamabad,Under Observation
+1568,Hassan,Hussain,Hassan Hussain,72996-3804685-2,1971-07-30,03186831293,2 Everett Crossing,2025-09-30 08:45:35,Stroke,false,Panadol,Paracetamol,Cordie Mandrier,Faisalabad,Deceased
+1569,Omar,Gillani,Omar Gillani,93687-7497887-9,1995-04-01,03078787086,8109 Bellgrove Crossing,2025-08-26 05:15:29,Road Accident,true,Atorvastatin,Omeprazole,Terri Laugherane,Faisalabad,Self-Discharged
+1570,Arsalan,Bajwa,Arsalan Bajwa,13364-1630316-1,1954-07-12,03194694011,82 Morrow Lane,2025-05-25 14:55:35,Hypertension,true,Lisinopril,Ibuprofen,Joscelin Jankovsky,Islamabad,Deceased
+1571,Anaya,Jatoi,Anaya Jatoi,38441-1838633-6,1971-08-07,03218355071,9428 Kedzie Hill,2023-12-25 21:13:46,Fever,false,None,Omeprazole,Adriano Dunne,Faisalabad,Deceased
+1572,Sara,Butt,Sara Butt,78468-7353204-8,1968-02-14,03130217198,6914 Marcy Drive,2023-11-24 16:03:01,Appendicitis,true,Atorvastatin,Omeprazole,Gus Kubicka,Faisalabad,Under Observation
+1573,Sara,Abbas,Sara Abbas,35800-8045213-9,1956-12-11,03239660180,5014 Ludington Avenue,2025-12-26 02:42:13,Fracture,false,None,Metoprolol,Coletta Chaudron,Rawalpindi,Deceased
+1574,Mahnoor,Bajwa,Mahnoor Bajwa,21475-2188294-6,1992-06-08,03219932540,38 Sunbrook Lane,2023-09-13 15:50:02,Diabetes Complication,false,Atorvastatin,Metoprolol,Dre Tabbernor,Rawalpindi,Deceased
+1575,Ali,Ahmed,Ali Ahmed,29127-7741874-5,1987-12-23,03192472697,5926 Huxley Center,2025-01-21 01:54:03,Fever,true,Insulin,Ibuprofen,Rayshell Cartmail,Lahore,Referred
+1576,Dua,Lodhi,Dua Lodhi,99871-9764753-8,1977-04-08,03190414554,23076 Erie Trail,2024-03-30 16:35:30,Road Accident,true,Insulin,Ibuprofen,Sallie McAvaddy,Rawalpindi,Under Observation
+1577,Hamza,Malik,Hamza Malik,71845-2738593-9,1955-04-02,03138986538,9887 Kim Plaza,2023-04-09 08:59:44,Stroke,false,Panadol,Omeprazole,Sherlock Stroder,Lahore,Referred
+1578,Hassan,Abbas,Hassan Abbas,92691-9110852-4,1993-09-27,03072232293,2409 Valley Edge Plaza,2024-05-16 23:37:46,Road Accident,true,Lisinopril,Ceftriaxone,Waiter Forton,Karachi,Referred
+1579,Sana,Hashmi,Sana Hashmi,79599-2369477-5,2000-08-08,03135883575,63383 Lake View Alley,2023-06-17 00:11:55,Hypertension,true,Aspirin,Ceftriaxone,Wilburt Hughes,Multan,Under Observation
+1580,Fatima,Chaudhary,Fatima Chaudhary,53046-2522852-6,1975-11-18,03339370870,6885 Dorton Drive,2025-01-31 02:06:53,Fracture,true,None,Metoprolol,Carissa Rodder,Multan,Self-Discharged
+1581,Aisha,Naqvi,Aisha Naqvi,30098-6783171-2,1986-04-25,03012211348,68201 Thompson Center,2025-08-19 04:20:45,Stroke,true,Atorvastatin,Amoxicillin,Dyana Osgardby,Rawalpindi,Self-Discharged
+1582,Ibrahim,Hussain,Ibrahim Hussain,77017-7281389-6,1961-05-28,03155552275,64031 Glacier Hill Junction,2024-02-17 01:59:45,Chest Pain,true,Metformin,Omeprazole,Nolly Mereweather,Multan,Self-Discharged
+1583,Maryam,Sheikh,Maryam Sheikh,15716-7566840-6,2004-02-16,03146742559,994 Bowman Center,2024-01-15 21:49:38,Appendicitis,false,Aspirin,Amoxicillin,Amii Lathaye,Karachi,Deceased
+1584,Hassan,Lodhi,Hassan Lodhi,49064-7671483-3,1976-10-08,03222961634,5 Everett Center,2023-04-07 09:45:11,Fracture,true,Atorvastatin,Paracetamol,Noella Davenhill,Rawalpindi,Deceased
+1585,Zaid,Hashmi,Zaid Hashmi,91306-5510892-5,1969-03-11,03472856143,69 Veith Center,2023-03-29 00:47:15,Road Accident,false,Aspirin,Ceftriaxone,Ivette MacCallam,Faisalabad,Referred
+1586,Zaid,Gillani,Zaid Gillani,10200-1576489-4,2004-05-27,03494463843,00 Meadow Ridge Trail,2025-03-05 22:53:41,Diabetes Complication,false,Metformin,Ibuprofen,Alicea Oulner,Lahore,Under Observation
+1587,Sara,Hussain,Sara Hussain,72052-8780811-3,1977-03-10,03159621327,238 Bay Drive,2025-11-27 10:27:54,Fever,true,Metformin,Omeprazole,Robers Toope,Islamabad,Under Observation
+1588,Usman,Mughal,Usman Mughal,36157-1645048-5,2002-03-06,03172475748,80135 Basil Alley,2024-05-08 14:48:05,Hypertension,false,None,Ceftriaxone,Ingrid Glanister,Islamabad,Deceased
+1589,Dua,Shah,Dua Shah,51380-2567481-3,2005-07-11,03147187328,4 Del Mar Circle,2025-02-22 16:00:14,Diabetes Complication,false,Lisinopril,Metoprolol,Alvy Lancastle,Islamabad,Referred
+1590,Hiba,Iqbal,Hiba Iqbal,38090-3402621-8,1971-07-05,03083988731,46100 Melody Drive,2024-03-17 12:30:54,Fever,false,None,Omeprazole,Agnese Laville,Rawalpindi,Discharged
+1591,Hiba,Malik,Hiba Malik,34937-6439788-7,1976-04-04,03472795551,25882 Commercial Court,2023-08-03 16:37:11,Fracture,true,Metformin,Amoxicillin,Elwira Chaikovski,Karachi,Discharged
+1592,Dua,Khan,Dua Khan,90871-1509830-9,1982-09-02,03232662966,10 Leroy Place,2024-12-16 07:31:54,Hypertension,false,Insulin,Ibuprofen,Bayard Alvey,Faisalabad,Deceased
+1593,Hassan,Farooqi,Hassan Farooqi,55809-7056921-9,1951-08-06,03306064559,13355 Mallory Street,2024-05-04 05:15:17,Road Accident,false,Aspirin,Ibuprofen,Karlyn Chicchelli,Multan,Deceased
+1594,Omar,Malik,Omar Malik,90350-1968261-2,1973-11-22,03188882465,023 Nevada Way,2023-03-03 06:41:40,Fever,false,Panadol,Paracetamol,Lizbeth Downing,Multan,Self-Discharged
+1595,Arsalan,Afridi,Arsalan Afridi,99537-8314209-4,1961-07-07,03023549054,3 Vera Terrace,2023-06-12 18:48:41,Stroke,true,Insulin,Ceftriaxone,Bondie Janisson,Rawalpindi,Discharged
+1596,Ibrahim,Afridi,Ibrahim Afridi,17910-3617869-2,1997-02-28,03305858695,5 Logan Court,2023-04-18 23:07:01,Fever,false,None,Paracetamol,Stefa Ennew,Faisalabad,Under Observation
+1597,Anaya,Shah,Anaya Shah,84329-6167243-2,1954-10-05,03057426915,0 Meadow Vale Way,2023-01-01 18:11:27,Appendicitis,true,None,Ibuprofen,Niven Brolechan,Rawalpindi,Self-Discharged
+1598,Fatima,Hussain,Fatima Hussain,96379-1539812-8,1954-10-30,03346096628,229 Emmet Court,2025-12-03 04:02:44,Appendicitis,true,Panadol,Metoprolol,Doralin Driver,Multan,Under Observation
+1599,Anaya,Iqbal,Anaya Iqbal,34820-2989740-5,1978-04-26,03470940863,9992 Brentwood Terrace,2025-10-09 09:44:12,Hypertension,true,Insulin,Paracetamol,Axel Aleksankin,Multan,Discharged
+1600,Sana,Khan,Sana Khan,75398-8055687-6,2003-01-19,03438178934,33 New Castle Way,2025-08-08 10:26:32,Diabetes Complication,true,Insulin,Ceftriaxone,Burch Teideman,Karachi,Deceased
+1601,Noor,Lodhi,Noor Lodhi,40681-7625042-6,1985-04-16,03433346178,70 Doe Crossing Street,2025-07-24 23:10:04,Chest Pain,false,Aspirin,Metoprolol,Rosalinde Dilworth,Lahore,Self-Discharged
+1602,Aisha,Ahmed,Aisha Ahmed,24102-2342802-2,1983-09-01,03231555266,18249 Arkansas Plaza,2025-02-24 17:23:07,Appendicitis,false,Panadol,Ibuprofen,Sanford Whall,Faisalabad,Discharged
+1603,Omar,Hashmi,Omar Hashmi,86666-3810781-8,1962-09-25,03359093531,0711 Holmberg Avenue,2025-08-29 14:11:18,Fever,true,Aspirin,Paracetamol,Nikolaus Jugging,Multan,Discharged
+1604,Dua,Iqbal,Dua Iqbal,86640-5148598-8,1963-09-02,03406237490,2 Holy Cross Pass,2023-07-30 12:36:19,Chest Pain,false,Metformin,Amoxicillin,Alberto Boyfield,Multan,Deceased
+1605,Mahnoor,Mughal,Mahnoor Mughal,93644-2244071-9,1955-05-01,03220795075,69637 Randy Point,2024-08-24 00:59:12,Appendicitis,true,Panadol,Amoxicillin,Shay Fritter,Rawalpindi,Referred
+1606,Mustafa,Lodhi,Mustafa Lodhi,26245-7010748-2,1974-02-06,03299026726,437 Waubesa Point,2024-02-02 10:59:32,Fracture,true,Panadol,Paracetamol,Collette Amott,Islamabad,Discharged
+1607,Maryam,Butt,Maryam Butt,16490-1934846-6,2005-12-12,03028494657,37 Main Court,2025-03-03 12:20:41,Road Accident,true,Insulin,Ceftriaxone,Addie Shemelt,Rawalpindi,Under Observation
+1608,Mahnoor,Ali,Mahnoor Ali,60478-7541050-4,1997-12-08,03315794773,3 Longview Park,2024-05-27 13:07:31,Fracture,false,Panadol,Omeprazole,Hewe Foote,Rawalpindi,Under Observation
+1609,Aisha,Aziz,Aisha Aziz,29132-7877063-6,1998-04-08,03054306381,35 Eastwood Circle,2024-12-05 11:41:07,Stroke,false,Panadol,Ibuprofen,Ardyce Perillo,Lahore,Self-Discharged
+1610,Ali,Jatoi,Ali Jatoi,44932-1631526-8,1978-05-10,03486730233,6903 Ryan Avenue,2025-10-02 13:50:43,Stroke,false,Atorvastatin,Metoprolol,Feodor Tickner,Multan,Self-Discharged
+1611,Mustafa,Hashmi,Mustafa Hashmi,16718-4193321-6,1998-06-10,03223736542,83 Autumn Leaf Trail,2024-01-08 17:51:07,Hypertension,true,Atorvastatin,Ceftriaxone,Kenna Sprackling,Multan,Self-Discharged
+1612,Rehan,Mirza,Rehan Mirza,94305-2744598-1,1969-11-02,03427405785,30 Talmadge Point,2023-12-08 11:30:54,Stroke,true,Aspirin,Metoprolol,Yancy Carswell,Multan,Discharged
+1613,Hamza,Khan,Hamza Khan,83671-9527748-3,1963-05-22,03281880646,518 Hazelcrest Junction,2025-12-05 08:47:17,Stroke,true,Insulin,Omeprazole,Kinny Gerry,Faisalabad,Deceased
+1614,Hassan,Sheikh,Hassan Sheikh,59484-5008813-9,1972-03-31,03347440172,2623 Annamark Center,2024-07-26 00:45:42,Fracture,false,None,Ceftriaxone,Erma Randall,Lahore,Deceased
+1615,Khadija,Abbas,Khadija Abbas,62986-2933605-6,1975-06-15,03028028608,717 Sutherland Place,2024-01-25 11:58:27,Road Accident,false,None,Ceftriaxone,Pete Beazer,Multan,Under Observation
+1616,Zaid,Jatoi,Zaid Jatoi,96655-5557628-8,1953-10-10,03085540385,63 Reinke Park,2024-06-04 23:42:50,Fever,false,Panadol,Metoprolol,Fleming Birkbeck,Lahore,Discharged
+1617,Aisha,Hussain,Aisha Hussain,49324-1961932-1,2000-12-19,03353434890,73 Tony Way,2024-11-17 08:12:44,Fever,false,Insulin,Ceftriaxone,Patrizia Snashall,Faisalabad,Discharged
+1618,Noor,Chaudhary,Noor Chaudhary,41288-3629469-5,2003-04-01,03411230562,95532 Knutson Terrace,2024-03-20 11:07:14,Fracture,true,Atorvastatin,Ceftriaxone,Abby Grant,Karachi,Referred
+1619,Mahnoor,Farooqi,Mahnoor Farooqi,78606-2721413-5,1996-05-27,03287375225,7575 Lien Crossing,2023-02-21 01:22:16,Fracture,false,Metformin,Paracetamol,Lamont Molloy,Faisalabad,Deceased
+1620,Myra,Lodhi,Myra Lodhi,52736-5642004-7,1982-03-29,03022876107,923 Badeau Hill,2024-04-26 19:45:06,Appendicitis,true,Lisinopril,Ceftriaxone,Wilfrid Wall,Faisalabad,Referred
+1621,Sana,Ali,Sana Ali,37794-1000271-4,1989-06-14,03337434954,6704 Coolidge Drive,2024-08-13 17:24:55,Appendicitis,true,Insulin,Ibuprofen,Edy Sheara,Islamabad,Discharged
+1622,Usman,Shah,Usman Shah,39625-4653202-6,1952-02-26,03222864366,76 Raven Drive,2025-03-02 09:42:12,Chest Pain,true,Lisinopril,Ibuprofen,Dal Fillan,Karachi,Referred
+1623,Mustafa,Jatoi,Mustafa Jatoi,10533-1867563-7,1972-11-30,03295586438,04978 Bunting Pass,2025-03-13 23:40:18,Diabetes Complication,false,None,Ibuprofen,Valerye Liepina,Faisalabad,Under Observation
+1624,Ahmed,Ahmed,Ahmed Ahmed,78623-2789693-5,1954-08-27,03220954761,6714 Graceland Point,2023-12-14 09:10:22,Hypertension,false,Aspirin,Paracetamol,Baxie Halladay,Faisalabad,Referred
+1625,Hassan,Malik,Hassan Malik,26942-9859906-3,2003-12-22,03235002210,248 Tomscot Crossing,2025-09-02 15:06:32,Diabetes Complication,true,Insulin,Amoxicillin,Kendrick Milstead,Islamabad,Discharged
+1626,Arsalan,Iqbal,Arsalan Iqbal,65945-9215943-4,1989-07-02,03101108834,98175 Raven Plaza,2024-12-07 01:12:32,Road Accident,true,Insulin,Paracetamol,Jeffry Booth-Jarvis,Islamabad,Under Observation
+1627,Myra,Gillani,Myra Gillani,19128-8842385-6,1966-09-24,03474571023,592 Pennsylvania Point,2024-10-28 20:27:21,Hypertension,false,None,Omeprazole,Vittorio Wibrew,Lahore,Under Observation
+1628,Hassan,Naqvi,Hassan Naqvi,71704-2384231-2,1971-04-23,03290974016,3832 Cody Street,2025-05-19 20:35:29,Chest Pain,true,Lisinopril,Metoprolol,Teddi McIntosh,Rawalpindi,Discharged
+1629,Anaya,Afridi,Anaya Afridi,52227-3240321-2,1959-03-22,03118077446,1 Birchwood Crossing,2025-04-24 12:03:09,Fever,true,Metformin,Omeprazole,Gearard Looby,Multan,Discharged
+1630,Myra,Rizvi,Myra Rizvi,46764-5601492-9,1957-03-03,03054978807,069 Erie Way,2025-12-15 10:00:00,Hypertension,false,Metformin,Ceftriaxone,Vonny Yanshinov,Karachi,Under Observation
+1631,Maryam,Shah,Maryam Shah,34405-9804869-9,1989-01-20,03279622327,43084 American Drive,2025-10-20 09:15:35,Road Accident,false,Metformin,Omeprazole,Keefe Hiscoke,Karachi,Referred
+1632,Usman,Abbas,Usman Abbas,69153-9393928-1,1968-05-31,03098193107,55410 Crowley Hill,2025-02-04 12:03:33,Chest Pain,true,Atorvastatin,Ibuprofen,Benji Josling,Lahore,Deceased
+1633,Dua,Mughal,Dua Mughal,58622-5771862-5,1982-02-10,03025211679,85 Village Junction,2025-10-10 10:32:07,Chest Pain,false,Aspirin,Amoxicillin,Kale Jowitt,Rawalpindi,Discharged
+1634,Aisha,Hussain,Aisha Hussain,81407-1825705-1,2001-01-14,03258885298,394 Hanover Lane,2025-10-05 12:10:32,Appendicitis,false,Lisinopril,Ibuprofen,Dennie Preist,Rawalpindi,Referred
+1635,Ibrahim,Bajwa,Ibrahim Bajwa,71307-3128825-8,1981-05-02,03284324428,1148 Maple Wood Alley,2023-11-03 09:01:06,Road Accident,true,Panadol,Paracetamol,Jo-ann Regan,Faisalabad,Referred
+1636,Khadija,Lodhi,Khadija Lodhi,53191-3754214-7,1972-07-22,03161441586,87 Cascade Lane,2024-10-08 09:00:37,Hypertension,false,Aspirin,Ibuprofen,Elnora Ernke,Multan,Referred
+1637,Hiba,Butt,Hiba Butt,73026-3871745-3,1974-05-28,03141881001,860 Starling Center,2025-11-28 04:37:29,Road Accident,true,Lisinopril,Metoprolol,Tiebold Stellman,Rawalpindi,Self-Discharged
+1638,Sara,Aziz,Sara Aziz,21479-6990241-8,1961-09-27,03497315947,4430 Merrick Pass,2024-10-07 13:23:35,Appendicitis,true,Metformin,Ibuprofen,Kassie Taylerson,Karachi,Referred
+1639,Arsalan,Afridi,Arsalan Afridi,86326-6922875-6,1971-06-19,03213439896,8 Hoffman Pass,2025-06-19 12:02:24,Chest Pain,false,Metformin,Paracetamol,Harriette Hawkyens,Lahore,Referred
+1640,Anaya,Bajwa,Anaya Bajwa,41840-5537968-1,1971-10-13,03259187124,6677 Annamark Hill,2024-06-10 00:38:20,Appendicitis,true,Insulin,Paracetamol,Marcus Sherel,Rawalpindi,Discharged
+1641,Maryam,Ahmed,Maryam Ahmed,76876-1629949-3,1978-06-04,03323327789,35 Algoma Drive,2023-11-20 15:24:30,Stroke,true,None,Paracetamol,Raffaello Spykings,Lahore,Self-Discharged
+1642,Sana,Rizvi,Sana Rizvi,97046-7286145-7,1994-07-28,03056568599,891 Esch Plaza,2023-01-31 06:56:01,Stroke,false,Aspirin,Amoxicillin,Lloyd Braxton,Faisalabad,Referred
+1643,Sana,Siddiqui,Sana Siddiqui,93389-7271274-4,1962-11-25,03496278000,738 Sachtjen Hill,2024-02-11 15:57:10,Diabetes Complication,true,Panadol,Paracetamol,Rhona Twamley,Lahore,Under Observation
+1644,Mahnoor,Shah,Mahnoor Shah,74983-2467274-2,2000-08-02,03361657006,52 Alpine Way,2024-06-21 07:20:04,Hypertension,false,Lisinopril,Paracetamol,Charlena Horry,Lahore,Discharged
+1645,Mahnoor,Hashmi,Mahnoor Hashmi,55405-9572541-8,1959-02-17,03128381507,410 Red Cloud Point,2023-06-27 10:26:04,Stroke,true,Atorvastatin,Amoxicillin,Queenie Valentin,Karachi,Referred
+1646,Myra,Shah,Myra Shah,32935-7994176-9,1971-08-18,03254101236,1 Dryden Way,2024-12-18 19:43:11,Stroke,false,Panadol,Omeprazole,Jere Peeters,Rawalpindi,Discharged
+1647,Noor,Iqbal,Noor Iqbal,77700-1864760-5,1969-02-14,03378142968,1 Green Ridge Junction,2025-11-09 01:35:46,Road Accident,true,Metformin,Paracetamol,Luke Weeds,Faisalabad,Deceased
+1648,Anaya,Shah,Anaya Shah,87802-9181126-7,1965-10-08,03137297667,7405 Basil Place,2023-04-25 18:41:19,Chest Pain,true,None,Ceftriaxone,Bruce Sapwell,Islamabad,Discharged
+1649,Bilal,Qureshi,Bilal Qureshi,36471-8950974-7,1965-03-05,03412672578,01 Oakridge Alley,2024-03-21 03:06:29,Diabetes Complication,false,Aspirin,Omeprazole,Fransisco Storton,Rawalpindi,Discharged
+1650,Zaid,Malik,Zaid Malik,64702-1872215-6,1966-04-13,03148647869,5 Delladonna Park,2023-02-14 11:10:43,Stroke,false,None,Metoprolol,Gram Guest,Karachi,Deceased
+1651,Hamza,Mughal,Hamza Mughal,17431-8201031-5,2001-01-30,03283377735,84 Atwood Avenue,2023-09-22 05:36:01,Hypertension,false,Lisinopril,Paracetamol,Sterling Soall,Karachi,Referred
+1652,Sana,Hussain,Sana Hussain,31641-7497316-8,1982-08-14,03224171280,30775 Mandrake Junction,2024-05-10 07:09:09,Stroke,true,Aspirin,Amoxicillin,Sibyl Ackwood,Rawalpindi,Deceased
+1653,Ibrahim,Chaudhary,Ibrahim Chaudhary,21354-5913265-4,2004-11-08,03104649507,3 Almo Plaza,2024-01-26 03:35:17,Diabetes Complication,false,Insulin,Ceftriaxone,Roseanne Matthai,Multan,Under Observation
+1654,Maryam,Mughal,Maryam Mughal,61636-5808866-9,1979-11-25,03332615680,973 Almo Center,2023-07-15 02:07:05,Stroke,true,None,Ibuprofen,Barnaby Gorse,Islamabad,Discharged
+1655,Mahnoor,Hashmi,Mahnoor Hashmi,14114-7230634-4,1991-01-25,03260590012,44 Gulseth Court,2025-05-18 07:36:19,Fever,false,Aspirin,Ibuprofen,Alvinia Brierley,Islamabad,Deceased
+1656,Rehan,Bajwa,Rehan Bajwa,65269-4375793-2,1985-08-18,03434682130,044 Bayside Plaza,2023-07-07 08:39:03,Road Accident,true,Insulin,Omeprazole,Junia Embleton,Karachi,Referred
+1657,Usman,Hashmi,Usman Hashmi,20427-2427963-8,1997-04-30,03412262932,5 Sunnyside Avenue,2023-11-16 18:28:02,Stroke,false,Lisinopril,Ibuprofen,Guinevere Mikalski,Karachi,Deceased
+1658,Hamza,Butt,Hamza Butt,89609-1241624-8,1979-02-06,03339401670,5 Prairieview Point,2024-03-17 06:51:22,Hypertension,true,Atorvastatin,Paracetamol,Cecelia Haddinton,Multan,Discharged
+1659,Hiba,Bajwa,Hiba Bajwa,45440-8800372-3,1989-06-30,03360075981,8921 Pine View Center,2025-11-24 19:08:42,Chest Pain,false,Lisinopril,Omeprazole,Ephrayim De Maine,Faisalabad,Referred
+1660,Maryam,Hussain,Maryam Hussain,92263-3080077-1,1993-12-16,03139690317,51 Di Loreto Circle,2025-03-09 16:47:57,Fracture,true,Panadol,Ibuprofen,Tomasina Scollan,Lahore,Self-Discharged
+1661,Sara,Gillani,Sara Gillani,53490-1808197-4,1985-09-24,03390541772,0268 Clyde Gallagher Lane,2023-05-13 09:44:43,Road Accident,true,Lisinopril,Omeprazole,Freida Oller,Lahore,Referred
+1662,Hamza,Shah,Hamza Shah,54191-9045270-5,1980-03-20,03084655803,501 Melvin Lane,2024-02-11 13:46:36,Chest Pain,false,Lisinopril,Paracetamol,Charisse Gillino,Karachi,Self-Discharged
+1663,Hamza,Siddiqui,Hamza Siddiqui,90270-9483658-9,1962-12-27,03429405336,9084 Ryan Drive,2023-03-02 09:18:46,Road Accident,true,Atorvastatin,Paracetamol,Etty Sprott,Karachi,Under Observation
+1664,Mahnoor,Shah,Mahnoor Shah,12776-6383675-1,1977-12-27,03284118658,36743 Orin Terrace,2025-10-05 15:37:55,Appendicitis,false,Atorvastatin,Amoxicillin,Forester Vasic,Multan,Under Observation
+1665,Khadija,Farooqi,Khadija Farooqi,28076-9230503-2,1957-08-16,03241048754,80864 Novick Plaza,2024-07-01 22:19:06,Road Accident,false,None,Paracetamol,Sarajane Pimlock,Karachi,Under Observation
+1666,Myra,Butt,Myra Butt,35210-3263629-8,1991-12-10,03212709629,97 Warner Drive,2023-01-22 13:44:39,Stroke,true,Aspirin,Paracetamol,Pepillo Simonetti,Faisalabad,Deceased
+1667,Ali,Aziz,Ali Aziz,43195-7620005-5,1990-10-14,03488290214,7 7th Circle,2025-04-16 21:36:59,Road Accident,true,Atorvastatin,Amoxicillin,Augy Habbershon,Karachi,Deceased
+1668,Mustafa,Ahmed,Mustafa Ahmed,53572-9573049-9,1968-07-20,03139282577,80 Coleman Court,2023-02-07 22:30:57,Chest Pain,false,Metformin,Ibuprofen,Darda Penrose,Islamabad,Deceased
+1669,Sana,Butt,Sana Butt,57169-7580170-7,1979-04-08,03459181978,8759 Beilfuss Alley,2023-09-18 11:39:30,Road Accident,true,Lisinopril,Ibuprofen,Sean Estevez,Faisalabad,Referred
+1670,Sana,Jatoi,Sana Jatoi,73788-1112711-3,1979-04-20,03427234081,2459 Lien Drive,2024-11-01 16:06:05,Fever,false,Metformin,Paracetamol,Jilli Prangley,Rawalpindi,Referred
+1671,Ali,Rizvi,Ali Rizvi,47848-6555021-2,2003-05-23,03017412214,8 Cardinal Place,2023-08-27 13:41:48,Road Accident,true,Insulin,Paracetamol,Garrett Mattingly,Karachi,Referred
+1672,Aisha,Gillani,Aisha Gillani,55555-5029305-5,2000-09-11,03131432358,8 Northview Hill,2025-05-28 16:37:33,Diabetes Complication,true,Aspirin,Amoxicillin,Jemmy Waldera,Faisalabad,Deceased
+1673,Noor,Farooqi,Noor Farooqi,55356-6708179-8,1966-08-09,03061563227,4 Schlimgen Lane,2025-11-07 22:03:56,Fracture,true,Insulin,Amoxicillin,Sky Connors,Rawalpindi,Discharged
+1674,Dua,Lodhi,Dua Lodhi,36682-1700637-3,1955-05-27,03094312599,4 Granby Terrace,2023-11-19 23:47:16,Fracture,true,Atorvastatin,Metoprolol,Terese Braime,Rawalpindi,Referred
+1675,Rehan,Aziz,Rehan Aziz,93046-6860941-1,1976-07-23,03137447908,07729 Bonner Circle,2024-01-02 20:00:02,Stroke,true,Aspirin,Ceftriaxone,Dulcia Devitt,Faisalabad,Self-Discharged
+1676,Mustafa,Malik,Mustafa Malik,88486-8117089-5,2002-03-18,03458475340,10527 Bowman Avenue,2024-09-02 14:15:44,Chest Pain,true,Aspirin,Omeprazole,Annadiana Youngman,Islamabad,Discharged
+1677,Ibrahim,Lodhi,Ibrahim Lodhi,62055-4566325-2,1960-12-03,03224357021,3242 Independence Parkway,2023-01-11 09:29:42,Fracture,false,Panadol,Amoxicillin,Sauncho Meriot,Karachi,Discharged
+1678,Dua,Shah,Dua Shah,28706-8988357-5,1998-06-04,03400510549,51750 2nd Street,2023-10-09 00:25:58,Fracture,true,Panadol,Paracetamol,Kahlil Hinder,Islamabad,Discharged
+1679,Hiba,Shah,Hiba Shah,36933-8896343-3,1980-03-24,03497304452,2986 Dapin Terrace,2024-05-02 08:15:36,Fracture,false,Panadol,Paracetamol,Baron Marvell,Karachi,Discharged
+1680,Myra,Qureshi,Myra Qureshi,38879-4427810-4,1956-09-08,03248980131,28 Colorado Hill,2024-05-21 04:58:23,Diabetes Complication,true,Atorvastatin,Paracetamol,Marjy Smidmore,Faisalabad,Under Observation
+1681,Mahnoor,Aziz,Mahnoor Aziz,86441-4269827-8,1954-04-16,03110112560,7 Mockingbird Hill,2023-06-06 20:03:52,Stroke,false,None,Metoprolol,Norri Southcoat,Multan,Under Observation
+1682,Hiba,Butt,Hiba Butt,55855-4620006-9,1963-11-06,03064995650,3469 Waxwing Drive,2023-01-16 23:30:42,Road Accident,false,Metformin,Metoprolol,Linn Stitch,Rawalpindi,Discharged
+1683,Zainab,Afridi,Zainab Afridi,36147-6395604-3,1979-05-04,03056834760,6 Mesta Street,2024-09-18 10:24:47,Road Accident,true,Panadol,Ceftriaxone,Lorri Kohrt,Lahore,Under Observation
+1684,Usman,Siddiqui,Usman Siddiqui,53460-8348546-9,1988-01-25,03427570494,8 Gina Drive,2024-05-17 04:53:30,Hypertension,false,None,Omeprazole,Krystal Bellard,Karachi,Referred
+1685,Ibrahim,Hashmi,Ibrahim Hashmi,56949-3356654-5,1969-01-18,03281082007,01003 Rusk Road,2023-04-09 01:16:14,Diabetes Complication,false,None,Omeprazole,Alasteir Lodden,Karachi,Deceased
+1686,Aisha,Aziz,Aisha Aziz,15280-8753570-6,1980-01-01,03159452004,13035 Novick Circle,2023-12-24 09:33:16,Road Accident,true,Panadol,Ibuprofen,Chrissy Lockless,Faisalabad,Referred
+1687,Mustafa,Iqbal,Mustafa Iqbal,90978-9896108-9,2004-07-25,03432254197,9 Katie Plaza,2025-09-22 18:16:16,Stroke,true,Atorvastatin,Ceftriaxone,Dar Barthelet,Rawalpindi,Under Observation
+1688,Ibrahim,Siddiqui,Ibrahim Siddiqui,61923-4734984-5,1969-12-15,03018604098,31321 Manley Court,2024-11-05 09:02:42,Hypertension,true,Metformin,Ibuprofen,Ange Baguley,Karachi,Self-Discharged
+1689,Mahnoor,Ali,Mahnoor Ali,41290-8770305-8,1967-04-11,03454855001,02597 Mariners Cove Drive,2024-09-22 11:21:51,Appendicitis,false,Metformin,Amoxicillin,Bo Francesconi,Karachi,Discharged
+1690,Ahmed,Abbas,Ahmed Abbas,31453-6758422-5,2004-10-21,03322514633,06 Vernon Hill,2024-12-22 20:22:07,Road Accident,true,Insulin,Ibuprofen,Ollie Gascoyen,Multan,Discharged
+1691,Rehan,Qureshi,Rehan Qureshi,47177-2801923-6,1957-02-02,03037818453,9165 Homewood Drive,2023-06-25 15:49:26,Hypertension,false,Panadol,Ceftriaxone,Mada Seals,Multan,Self-Discharged
+1692,Anaya,Siddiqui,Anaya Siddiqui,62649-7512827-4,1969-10-26,03376997497,8 Melody Court,2024-02-13 11:45:03,Road Accident,false,Panadol,Amoxicillin,Melly Hadingham,Lahore,Deceased
+1693,Khadija,Chaudhary,Khadija Chaudhary,73192-6074686-4,1998-05-12,03236823044,0266 2nd Drive,2023-04-08 18:12:47,Hypertension,true,Aspirin,Ceftriaxone,Victoria Prantoni,Lahore,Referred
+1694,Zainab,Bajwa,Zainab Bajwa,14513-4522369-5,1992-05-05,03271182305,94 Parkside Place,2024-11-12 00:01:06,Fracture,true,Atorvastatin,Omeprazole,Mabel Berthouloume,Faisalabad,Self-Discharged
+1695,Mustafa,Naqvi,Mustafa Naqvi,20052-5178744-1,1999-07-23,03369159095,1202 Fair Oaks Road,2024-04-05 11:30:18,Road Accident,true,Metformin,Paracetamol,Dawna Gillibrand,Rawalpindi,Referred
+1696,Omar,Ali,Omar Ali,34815-3060580-8,1967-01-29,03105941173,665 Rowland Parkway,2025-03-11 05:58:49,Fracture,false,Metformin,Amoxicillin,Werner Norheny,Rawalpindi,Self-Discharged
+1697,Aisha,Rizvi,Aisha Rizvi,79458-1293622-2,1959-01-23,03251768612,39042 Eastwood Street,2025-12-30 05:23:38,Appendicitis,false,Metformin,Amoxicillin,Sherline Thoumasson,Lahore,Self-Discharged
+1698,Myra,Ahmed,Myra Ahmed,39090-6819177-9,1955-10-28,03256443031,18377 Iowa Alley,2023-07-26 23:40:34,Fracture,false,Insulin,Omeprazole,Ewart Block,Karachi,Under Observation
+1699,Sara,Hashmi,Sara Hashmi,30416-6381991-6,1969-01-28,03313682958,086 Kennedy Place,2024-08-08 12:30:14,Diabetes Complication,true,Panadol,Ibuprofen,Bethany Challenor,Faisalabad,Deceased
+1700,Ibrahim,Aziz,Ibrahim Aziz,97751-4163704-7,1951-04-10,03009053098,1740 Ruskin Court,2023-01-06 09:50:49,Appendicitis,false,None,Ceftriaxone,Tabbi Kluge,Rawalpindi,Deceased
+1701,Usman,Rizvi,Usman Rizvi,41939-7283356-4,1985-03-14,03286959206,908 Michigan Terrace,2024-02-20 04:01:33,Chest Pain,false,Metformin,Amoxicillin,Mozelle Ferrers,Multan,Discharged
+1702,Hiba,Malik,Hiba Malik,85314-8616894-2,1987-06-13,03252509380,25 Wayridge Parkway,2023-09-14 18:33:05,Fracture,false,Panadol,Metoprolol,Hewet Burridge,Faisalabad,Under Observation
+1703,Sana,Qureshi,Sana Qureshi,42134-6527502-8,1953-09-08,03025767110,68 Havey Pass,2023-12-02 00:56:46,Fracture,false,Panadol,Metoprolol,Cesaro Sabatier,Multan,Referred
+1704,Hamza,Hussain,Hamza Hussain,83344-9771742-4,1980-08-24,03192803919,9 4th Court,2025-11-15 12:09:02,Fracture,true,Lisinopril,Ceftriaxone,Harriett Rushford,Islamabad,Under Observation
+1705,Bilal,Mughal,Bilal Mughal,86009-9715972-5,1963-08-12,03133510512,0 Colorado Crossing,2025-09-24 19:02:06,Hypertension,false,Atorvastatin,Ibuprofen,Mozelle Bricham,Multan,Referred
+1706,Rehan,Mirza,Rehan Mirza,64741-1069619-3,1977-02-20,03276268023,82065 Reinke Center,2025-10-10 20:33:37,Chest Pain,true,None,Ceftriaxone,Carroll Debrick,Islamabad,Under Observation
+1707,Hiba,Hussain,Hiba Hussain,70518-3379348-2,1953-02-27,03048563711,6 Northland Parkway,2023-08-10 00:09:04,Diabetes Complication,true,Insulin,Amoxicillin,Myrle Bausor,Multan,Referred
+1708,Hassan,Jatoi,Hassan Jatoi,35121-1848256-3,1958-02-25,03106479855,041 Kennedy Way,2024-03-27 09:53:38,Diabetes Complication,true,Atorvastatin,Ibuprofen,Alphonso Mariault,Karachi,Under Observation
+1709,Omar,Lodhi,Omar Lodhi,63380-6843923-7,1992-07-19,03238636622,312 Express Way,2025-05-23 21:45:31,Chest Pain,true,Insulin,Metoprolol,Quint Ridgedell,Multan,Self-Discharged
+1710,Usman,Butt,Usman Butt,65505-6098299-9,1973-05-15,03098962511,9120 Rowland Center,2024-08-05 20:06:33,Fever,false,Metformin,Ceftriaxone,Ravi Jarvis,Islamabad,Self-Discharged
+1711,Rehan,Hussain,Rehan Hussain,93064-9752549-9,2005-12-13,03220617560,4207 Buhler Terrace,2024-05-02 20:49:29,Road Accident,false,Panadol,Ceftriaxone,Kirsti Bottrell,Lahore,Self-Discharged
+1712,Omar,Hashmi,Omar Hashmi,21692-7926195-4,1991-01-17,03137293183,4299 Gina Place,2024-02-06 11:18:29,Fever,true,Aspirin,Ibuprofen,Meg Ambrois,Karachi,Self-Discharged
+1713,Mustafa,Naqvi,Mustafa Naqvi,56982-8689528-1,2001-05-29,03449883686,0 Calypso Point,2025-12-03 06:00:22,Hypertension,true,Metformin,Ceftriaxone,Cordelie Heare,Faisalabad,Under Observation
+1714,Zaid,Butt,Zaid Butt,30920-6800433-9,1971-09-24,03189193786,46 Russell Crossing,2025-06-24 02:21:38,Stroke,false,None,Metoprolol,Lynette Tevlin,Multan,Referred
+1715,Fatima,Qureshi,Fatima Qureshi,77308-1728098-6,1977-02-04,03101642546,387 Nevada Street,2024-08-13 02:59:40,Chest Pain,false,Panadol,Ibuprofen,Bambie Micklem,Karachi,Discharged
+1716,Dua,Ali,Dua Ali,25402-4831480-8,1956-11-05,03268671462,1 Bobwhite Road,2025-02-15 23:21:17,Diabetes Complication,true,Insulin,Ibuprofen,Felisha Rothery,Rawalpindi,Self-Discharged
+1717,Maryam,Abbas,Maryam Abbas,60406-4563434-2,1991-04-16,03433235676,482 Muir Road,2023-11-07 02:08:01,Stroke,true,Atorvastatin,Omeprazole,Brady Bruyett,Rawalpindi,Deceased
+1718,Noor,Mughal,Noor Mughal,71562-8779621-2,1999-02-05,03436576980,7603 Dayton Way,2024-07-02 08:39:35,Road Accident,false,Insulin,Metoprolol,Conrado Miner,Faisalabad,Under Observation
+1719,Omar,Malik,Omar Malik,83887-5805930-9,1970-05-12,03378718946,79423 Eagan Point,2025-09-07 20:06:11,Appendicitis,true,Lisinopril,Ceftriaxone,Wayne Cantwell,Karachi,Self-Discharged
+1720,Hassan,Sheikh,Hassan Sheikh,24967-7663752-3,1969-11-07,03110956134,977 Alpine Alley,2023-05-23 05:29:53,Road Accident,false,Aspirin,Ibuprofen,Mavis Prettyman,Rawalpindi,Under Observation
+1721,Mustafa,Ali,Mustafa Ali,87449-7280498-4,1994-08-03,03161201362,0 Haas Point,2024-01-11 10:52:44,Fever,false,Panadol,Omeprazole,Dixie Van Oort,Multan,Deceased
+1722,Usman,Afridi,Usman Afridi,56815-7925415-4,1962-08-10,03200879209,92 Village Green Avenue,2023-10-10 22:25:44,Appendicitis,false,Panadol,Ibuprofen,Ludovika Jillins,Lahore,Deceased
+1723,Zaid,Hussain,Zaid Hussain,40251-1225517-7,1971-08-01,03209263823,797 Magdeline Park,2025-11-06 20:24:31,Fracture,true,Insulin,Metoprolol,Sisely Heape,Faisalabad,Discharged
+1724,Zaid,Afridi,Zaid Afridi,14102-5944230-9,2001-05-23,03234731730,203 Roxbury Street,2025-08-29 20:07:49,Fracture,true,Metformin,Ibuprofen,Deanna Von Oertzen,Karachi,Deceased
+1725,Hamza,Afridi,Hamza Afridi,21184-5312602-1,1977-01-10,03288171107,54221 Myrtle Way,2025-08-13 18:42:48,Hypertension,false,Aspirin,Ceftriaxone,Brandyn Sandford,Islamabad,Under Observation
+1726,Mustafa,Aziz,Mustafa Aziz,68442-7284798-9,1967-02-23,03149363822,39 Service Center,2025-09-12 05:00:50,Appendicitis,false,Aspirin,Ceftriaxone,Pansie Wey,Multan,Deceased
+1727,Zainab,Khan,Zainab Khan,69073-8783923-2,1959-06-21,03446533596,5 Dapin Pass,2024-11-18 18:55:21,Fever,false,Metformin,Amoxicillin,Fenelia Barlass,Rawalpindi,Self-Discharged
+1728,Bilal,Chaudhary,Bilal Chaudhary,85793-6049638-3,1962-07-28,03053627819,6 Old Shore Court,2024-12-22 10:29:24,Road Accident,true,Panadol,Ceftriaxone,Hamil Broschke,Multan,Discharged
+1729,Omar,Khan,Omar Khan,52538-7742674-9,1998-12-31,03296709674,54222 Sheridan Junction,2023-08-23 22:02:45,Hypertension,true,Aspirin,Metoprolol,Care Tatershall,Faisalabad,Self-Discharged
+1730,Fatima,Sheikh,Fatima Sheikh,78882-3757667-7,1965-12-07,03094335691,730 Helena Point,2023-12-11 02:13:09,Stroke,true,Metformin,Ibuprofen,Dierdre Olrenshaw,Rawalpindi,Self-Discharged
+1731,Usman,Butt,Usman Butt,33473-7924969-1,1994-05-14,03111744329,653 Ronald Regan Street,2024-10-07 02:43:44,Diabetes Complication,true,Lisinopril,Ceftriaxone,Roselia Wilcocke,Multan,Discharged
+1732,Hassan,Rizvi,Hassan Rizvi,67386-5012391-6,1999-07-14,03479088566,57700 Bunting Parkway,2025-07-29 19:42:19,Chest Pain,true,Aspirin,Ibuprofen,Laurena Comber,Karachi,Under Observation
+1733,Fatima,Iqbal,Fatima Iqbal,15371-6116071-2,1956-03-08,03270825548,16523 Division Way,2025-09-02 02:17:09,Stroke,false,Insulin,Amoxicillin,Ronni Belfrage,Lahore,Under Observation
+1734,Noor,Rizvi,Noor Rizvi,55096-8380708-4,1963-11-03,03025109793,56150 Parkside Pass,2024-06-01 21:06:53,Fever,true,Insulin,Ceftriaxone,Daune Hartfield,Islamabad,Deceased
+1735,Usman,Mirza,Usman Mirza,13698-7782655-6,1982-09-18,03485295199,1927 Shasta Alley,2024-11-15 19:35:53,Stroke,true,Lisinopril,Ceftriaxone,Meriel Goodrich,Rawalpindi,Under Observation
+1736,Hassan,Aziz,Hassan Aziz,30235-2751468-9,1995-06-24,03278097865,8604 Mesta Junction,2024-08-23 17:40:40,Diabetes Complication,true,None,Ibuprofen,Drugi Olivey,Karachi,Under Observation
+1737,Zainab,Sheikh,Zainab Sheikh,64150-5629934-7,1965-11-13,03338325734,12537 Shasta Parkway,2023-07-01 06:53:10,Chest Pain,false,None,Omeprazole,Consuelo Dureden,Karachi,Deceased
+1738,Sana,Siddiqui,Sana Siddiqui,46669-4719629-1,1980-07-12,03256706362,45868 Pearson Road,2023-12-17 02:30:05,Chest Pain,true,Panadol,Amoxicillin,Ernie Pawlicki,Faisalabad,Self-Discharged
+1739,Dua,Mughal,Dua Mughal,26075-1211504-6,1998-03-02,03400182768,12973 Monterey Circle,2025-01-25 09:52:11,Hypertension,true,Aspirin,Amoxicillin,Karyl Ray,Karachi,Under Observation
+1740,Ahmed,Butt,Ahmed Butt,29964-5672425-2,2002-08-04,03002681366,0266 Transport Road,2024-12-07 23:53:27,Fracture,true,None,Amoxicillin,Rafa Van Der Weedenburg,Karachi,Discharged
+1741,Mustafa,Afridi,Mustafa Afridi,34148-8311717-3,1993-04-01,03038843152,95 Arizona Place,2025-08-25 05:40:36,Stroke,false,Insulin,Amoxicillin,Timothy Edel,Rawalpindi,Deceased
+1742,Maryam,Mughal,Maryam Mughal,74389-3258077-6,1985-06-21,03327194872,53 Northland Court,2023-05-06 08:56:09,Stroke,true,Lisinopril,Omeprazole,Raychel Roakes,Faisalabad,Deceased
+1743,Usman,Gillani,Usman Gillani,68612-4495889-4,1968-10-19,03414907875,26186 Nevada Center,2023-12-13 06:16:15,Hypertension,false,Metformin,Metoprolol,Lianna Rosenwasser,Faisalabad,Self-Discharged
+1744,Maryam,Mirza,Maryam Mirza,52249-2361120-8,1966-11-24,03452174266,48 Brickson Park Drive,2024-03-28 09:34:00,Diabetes Complication,false,Insulin,Omeprazole,Angelita Masson,Multan,Referred
+1745,Arsalan,Khan,Arsalan Khan,22532-8177451-4,1994-04-23,03330598862,893 Springs Circle,2023-05-09 07:45:36,Fever,false,Metformin,Ceftriaxone,Bird Middup,Lahore,Referred
+1746,Aisha,Afridi,Aisha Afridi,22795-1982102-6,1955-04-01,03191246227,6 Oneill Lane,2023-08-03 21:19:30,Fracture,true,Metformin,Amoxicillin,Marni Sterricker,Faisalabad,Deceased
+1747,Noor,Iqbal,Noor Iqbal,71548-3820481-9,1964-05-29,03450791839,2388 Autumn Leaf Circle,2025-08-16 00:23:24,Fever,false,Atorvastatin,Ceftriaxone,Wilhelmina Bowater,Rawalpindi,Referred
+1748,Ahmed,Qureshi,Ahmed Qureshi,94815-9552116-1,1992-11-11,03058518488,86 Dapin Avenue,2024-03-17 10:45:44,Stroke,true,Aspirin,Ceftriaxone,Winfield Moxom,Multan,Self-Discharged
+1749,Mahnoor,Afridi,Mahnoor Afridi,49446-1577609-1,1964-07-23,03257563995,997 Independence Parkway,2024-11-19 12:21:57,Stroke,false,Atorvastatin,Paracetamol,Karina Breawood,Faisalabad,Under Observation
+1750,Bilal,Siddiqui,Bilal Siddiqui,92871-5303042-3,1995-01-16,03473181985,21 Petterle Hill,2024-07-09 11:45:05,Stroke,false,Aspirin,Amoxicillin,Katina Pashe,Lahore,Discharged
+1751,Usman,Hashmi,Usman Hashmi,98397-1560339-3,1990-12-15,03054859192,6 Boyd Pass,2025-05-12 21:29:29,Diabetes Complication,false,Atorvastatin,Omeprazole,Bowie Huckin,Lahore,Referred
+1752,Usman,Chaudhary,Usman Chaudhary,66910-1170606-3,1952-07-27,03462264159,366 Arkansas Place,2024-03-14 18:13:29,Stroke,true,None,Ceftriaxone,Collin Kwiek,Rawalpindi,Referred
+1753,Mustafa,Chaudhary,Mustafa Chaudhary,95961-2081534-5,1973-08-31,03116772563,64 Lukken Crossing,2023-07-27 16:42:07,Hypertension,true,Lisinopril,Ceftriaxone,Franklin Braunter,Faisalabad,Deceased
+1754,Mustafa,Ahmed,Mustafa Ahmed,25227-5155263-2,1970-04-24,03031398009,05 Hermina Place,2024-06-06 12:36:22,Fever,false,Panadol,Omeprazole,Vonni Sichardt,Faisalabad,Under Observation
+1755,Khadija,Chaudhary,Khadija Chaudhary,55681-7958117-2,1987-08-10,03126738173,18366 Talisman Lane,2023-06-14 15:01:13,Road Accident,true,None,Amoxicillin,Porter McGooch,Multan,Self-Discharged
+1756,Rehan,Shah,Rehan Shah,50206-7186407-9,1952-01-10,03485972847,0377 Mallory Court,2024-06-01 08:03:34,Chest Pain,false,Panadol,Omeprazole,Powell Dincke,Rawalpindi,Self-Discharged
+1757,Arsalan,Khan,Arsalan Khan,52537-8682082-7,1984-12-09,03288956551,3 Division Place,2025-06-26 12:16:09,Chest Pain,false,Panadol,Paracetamol,Trista Tutill,Rawalpindi,Deceased
+1758,Sara,Aziz,Sara Aziz,11918-3888554-4,2002-07-21,03200109666,88379 Logan Circle,2024-09-23 18:37:34,Road Accident,false,Panadol,Omeprazole,Kimmie Hinstridge,Lahore,Referred
+1759,Ali,Hashmi,Ali Hashmi,10453-1615353-1,1990-04-22,03352609487,6113 Anniversary Crossing,2024-05-29 16:13:33,Road Accident,true,Metformin,Amoxicillin,Robinet Spadelli,Multan,Under Observation
+1760,Sana,Naqvi,Sana Naqvi,41404-7628958-1,1951-04-03,03072393313,403 8th Way,2024-12-17 20:46:13,Appendicitis,false,Metformin,Paracetamol,Karena Goutcher,Rawalpindi,Under Observation
+1761,Hamza,Hussain,Hamza Hussain,43325-1666636-9,1981-08-10,03225171808,6 Del Sol Court,2023-05-30 19:10:40,Chest Pain,true,Aspirin,Paracetamol,Arman Kinton,Lahore,Deceased
+1762,Myra,Rizvi,Myra Rizvi,43940-8077956-1,1951-10-08,03312376142,0138 Oriole Center,2025-09-27 08:51:56,Road Accident,true,None,Amoxicillin,Silvia Raine,Rawalpindi,Self-Discharged
+1763,Khadija,Khan,Khadija Khan,65477-6640897-9,1987-10-13,03366257501,18865 Arizona Center,2024-07-23 06:29:10,Road Accident,false,Atorvastatin,Ceftriaxone,Eula Forst,Rawalpindi,Self-Discharged
+1764,Sana,Ali,Sana Ali,76869-4872665-1,1952-03-02,03446254062,78654 Chive Terrace,2025-02-06 16:32:32,Appendicitis,true,Panadol,Ibuprofen,Pren Lowery,Lahore,Self-Discharged
+1765,Anaya,Qureshi,Anaya Qureshi,67831-9432572-2,1997-05-27,03424067739,27021 4th Court,2023-07-14 06:59:24,Diabetes Complication,false,Aspirin,Omeprazole,Coleman de Quesne,Islamabad,Referred
+1766,Bilal,Iqbal,Bilal Iqbal,32088-6159478-6,1979-06-26,03035124288,584 Raven Center,2025-06-14 00:06:34,Fever,false,Insulin,Paracetamol,Bernie Bounds,Karachi,Self-Discharged
+1767,Zaid,Hussain,Zaid Hussain,29559-5211228-2,1985-07-14,03235097791,03621 Pankratz Junction,2023-12-15 14:49:58,Stroke,false,Atorvastatin,Amoxicillin,Tarah Klimus,Multan,Self-Discharged
+1768,Anaya,Mughal,Anaya Mughal,98928-7373916-1,1962-08-18,03320473735,1611 Clyde Gallagher Way,2025-11-15 14:06:14,Diabetes Complication,true,Lisinopril,Ibuprofen,Shaughn Bengough,Islamabad,Self-Discharged
+1769,Arsalan,Butt,Arsalan Butt,78735-2201109-7,1979-09-18,03083306375,77 Lake View Drive,2024-07-18 03:04:43,Diabetes Complication,false,None,Ibuprofen,Neala Heistermann,Faisalabad,Discharged
+1770,Sana,Afridi,Sana Afridi,63291-1303781-6,1997-11-03,03317950510,429 Carberry Parkway,2023-02-18 17:36:52,Stroke,true,Lisinopril,Paracetamol,Ram Barttrum,Lahore,Discharged
+1771,Dua,Rizvi,Dua Rizvi,79072-4163291-8,1979-12-27,03008677896,7628 Gateway Parkway,2025-08-06 17:09:34,Diabetes Complication,true,Metformin,Omeprazole,Annecorinne Mate,Lahore,Referred
+1772,Noor,Hashmi,Noor Hashmi,69218-5698889-2,1965-02-14,03294536377,6 Chive Drive,2025-04-20 07:50:31,Diabetes Complication,true,Aspirin,Ibuprofen,Thea MacNalley,Lahore,Self-Discharged
+1773,Arsalan,Jatoi,Arsalan Jatoi,87087-2975784-2,1978-01-10,03249799531,3 Melby Center,2024-07-09 01:19:56,Chest Pain,false,None,Paracetamol,Neely Boldero,Karachi,Under Observation
+1774,Hiba,Malik,Hiba Malik,88716-7367928-2,1972-01-04,03101721109,7 Division Hill,2023-12-16 10:31:06,Hypertension,true,Atorvastatin,Ceftriaxone,Kylynn Ladbrooke,Rawalpindi,Referred
+1775,Ali,Malik,Ali Malik,25642-1418984-7,1951-03-26,03261598834,5512 Fordem Way,2024-03-22 07:24:04,Hypertension,false,Lisinopril,Metoprolol,Olenolin McCulley,Islamabad,Discharged
+1776,Omar,Butt,Omar Butt,53762-8001772-7,1961-03-13,03069761400,10 Arrowood Parkway,2023-01-27 18:59:27,Appendicitis,false,None,Paracetamol,Georg Janczyk,Karachi,Self-Discharged
+1777,Zainab,Lodhi,Zainab Lodhi,18599-1162157-7,1988-03-21,03015484392,068 Harbort Parkway,2025-07-22 18:10:07,Road Accident,true,Atorvastatin,Metoprolol,Janelle Dornin,Rawalpindi,Referred
+1778,Hassan,Abbas,Hassan Abbas,33218-8999406-1,1981-11-29,03408988037,483 Swallow Center,2023-07-31 13:34:19,Fracture,true,Aspirin,Metoprolol,Nell Formoy,Faisalabad,Self-Discharged
+1779,Omar,Khan,Omar Khan,65819-9041573-1,1987-11-16,03126177669,3 Amoth Crossing,2023-03-23 06:00:23,Stroke,true,Metformin,Ibuprofen,Lauren Dennant,Faisalabad,Under Observation
+1780,Bilal,Hussain,Bilal Hussain,90232-6885934-9,1997-01-09,03320768078,509 Spohn Road,2025-06-08 05:40:07,Fever,true,Panadol,Omeprazole,Nickolaus Yurasov,Faisalabad,Discharged
+1781,Fatima,Iqbal,Fatima Iqbal,89682-8039331-5,1956-09-07,03168393433,8 Mifflin Alley,2023-07-23 17:15:39,Chest Pain,true,Aspirin,Ceftriaxone,Mord Mighele,Multan,Under Observation
+1782,Hassan,Siddiqui,Hassan Siddiqui,88086-4861302-8,1957-08-12,03475532612,7 Acker Alley,2024-10-15 20:50:04,Fracture,true,Lisinopril,Omeprazole,Cristabel Purser,Faisalabad,Under Observation
+1783,Sana,Naqvi,Sana Naqvi,28404-5150673-5,1979-04-07,03296012661,8 Scoville Circle,2023-03-14 10:55:33,Appendicitis,true,Atorvastatin,Omeprazole,Ki Kops,Faisalabad,Discharged
+1784,Rehan,Ali,Rehan Ali,37109-1083823-1,1977-07-06,03054273175,90 Stang Lane,2023-12-10 15:49:13,Road Accident,false,None,Ceftriaxone,Cathie Keatley,Rawalpindi,Self-Discharged
+1785,Zaid,Jatoi,Zaid Jatoi,48713-2996969-2,1979-06-17,03472521027,460 Arizona Park,2024-02-21 05:27:39,Road Accident,true,Lisinopril,Paracetamol,Valaria Minnette,Lahore,Deceased
+1786,Fatima,Khan,Fatima Khan,10876-4558028-8,1977-06-18,03392582252,95216 Burning Wood Way,2023-08-22 08:45:25,Stroke,true,Metformin,Amoxicillin,Arie Colten,Multan,Referred
+1787,Khadija,Mughal,Khadija Mughal,33876-5686318-4,1975-01-04,03131067663,28 Claremont Drive,2024-05-30 18:28:30,Road Accident,false,Metformin,Metoprolol,Shirlene Wastell,Lahore,Self-Discharged
+1788,Sara,Ahmed,Sara Ahmed,69169-9246988-2,2001-12-25,03339282122,44 Evergreen Junction,2023-06-09 10:48:53,Stroke,true,Metformin,Ceftriaxone,Norbert Eccleston,Islamabad,Deceased
+1789,Rehan,Shah,Rehan Shah,64000-4795519-8,1961-10-02,03442546908,85186 Moland Point,2025-07-25 07:37:00,Stroke,true,Insulin,Ceftriaxone,Pavia Kroch,Multan,Referred
+1790,Ahmed,Rizvi,Ahmed Rizvi,54218-3662879-9,1975-06-05,03029222756,356 Swallow Hill,2025-10-08 21:48:39,Stroke,false,Panadol,Omeprazole,Isidore Lias,Lahore,Self-Discharged
+1791,Hiba,Qureshi,Hiba Qureshi,99974-4384538-2,1950-08-20,03137944375,97 Everett Court,2023-07-31 20:05:10,Appendicitis,true,Atorvastatin,Ceftriaxone,Marysa Brunesco,Rawalpindi,Self-Discharged
+1792,Hiba,Malik,Hiba Malik,44476-7492692-5,1951-01-14,03013364159,59345 Manley Street,2025-08-08 04:39:13,Stroke,false,Insulin,Metoprolol,Netty Vanderplas,Islamabad,Discharged
+1793,Fatima,Malik,Fatima Malik,97474-6374310-3,1973-08-13,03224511701,59 Magdeline Point,2025-10-30 04:00:25,Appendicitis,true,Aspirin,Ibuprofen,Anissa MacKimmie,Karachi,Self-Discharged
+1794,Zainab,Sheikh,Zainab Sheikh,86344-9589816-7,1968-12-10,03180373552,12 Dixon Point,2025-03-02 15:36:35,Road Accident,true,None,Paracetamol,Boycey Brizell,Faisalabad,Discharged
+1795,Bilal,Ahmed,Bilal Ahmed,11812-8702529-4,1986-11-14,03332808141,114 Mockingbird Way,2025-04-21 01:53:45,Road Accident,true,Aspirin,Ceftriaxone,Carroll Discombe,Rawalpindi,Deceased
+1796,Ali,Ali,Ali Ali,94911-3666689-8,1962-02-08,03383852120,43801 Toban Court,2025-04-20 16:09:50,Fever,true,Atorvastatin,Metoprolol,Melany Rounsivall,Lahore,Discharged
+1797,Myra,Siddiqui,Myra Siddiqui,69877-8499193-8,1978-07-07,03052611860,5 Ronald Regan Court,2024-10-06 08:07:06,Fever,true,Lisinopril,Omeprazole,Roslyn Giabuzzi,Multan,Self-Discharged
+1798,Rehan,Ahmed,Rehan Ahmed,13808-2850670-1,1952-08-11,03435843963,7323 Bluejay Alley,2024-09-11 01:50:33,Stroke,false,Insulin,Amoxicillin,Troy Saunderson,Karachi,Discharged
+1799,Arsalan,Malik,Arsalan Malik,87969-8257310-6,1966-02-17,03414668526,92813 Anderson Terrace,2025-08-06 05:30:40,Fracture,true,Aspirin,Metoprolol,Edwin Casaccia,Lahore,Deceased
+1800,Anaya,Khan,Anaya Khan,29873-6404292-7,1991-07-13,03276827277,92573 Golf View Court,2025-03-11 21:14:06,Diabetes Complication,true,Lisinopril,Ceftriaxone,Denys Angeli,Multan,Discharged
+1801,Ibrahim,Siddiqui,Ibrahim Siddiqui,12895-9275032-2,1951-12-04,03042988769,3 Park Meadow Parkway,2023-12-18 03:06:50,Appendicitis,true,Insulin,Ibuprofen,Dorelia Di Angelo,Islamabad,Deceased
+1802,Dua,Rizvi,Dua Rizvi,18367-9763394-6,1972-11-18,03475845419,56 Parkside Way,2023-10-10 08:02:23,Chest Pain,true,None,Metoprolol,Rodrick Eddleston,Multan,Under Observation
+1803,Zainab,Mughal,Zainab Mughal,21182-8968917-9,1967-10-20,03242632768,69108 Mcguire Hill,2025-07-04 21:27:23,Road Accident,false,None,Paracetamol,Gill Babbs,Multan,Discharged
+1804,Zaid,Butt,Zaid Butt,56116-6127964-4,2000-03-24,03360374802,30275 Walton Avenue,2024-01-08 07:06:49,Stroke,true,Atorvastatin,Ceftriaxone,Filip Berkley,Faisalabad,Referred
+1805,Zaid,Hashmi,Zaid Hashmi,25769-2093227-8,1994-10-16,03497940003,2 Wayridge Center,2024-01-12 21:47:14,Fever,false,Panadol,Omeprazole,Corly Caustick,Rawalpindi,Under Observation
+1806,Anaya,Mirza,Anaya Mirza,61075-8464528-3,1968-01-16,03342157073,283 Reindahl Hill,2023-06-11 07:38:54,Fever,false,None,Ibuprofen,Robby Faircloth,Rawalpindi,Deceased
+1807,Sana,Gillani,Sana Gillani,44349-6739815-3,1994-08-21,03025242612,4 Johnson Way,2023-11-14 08:07:56,Stroke,true,Atorvastatin,Amoxicillin,Nicolle Sketh,Lahore,Referred
+1808,Khadija,Siddiqui,Khadija Siddiqui,21468-3612953-6,1975-07-20,03202366752,09 Bartelt Road,2024-05-03 22:04:44,Diabetes Complication,true,Aspirin,Amoxicillin,Lind Beet,Lahore,Referred
+1809,Zainab,Mughal,Zainab Mughal,67876-3689526-8,1953-01-11,03106234887,8 Hallows Pass,2024-09-30 15:23:11,Diabetes Complication,false,Panadol,Omeprazole,Fairfax Laxen,Karachi,Self-Discharged
+1810,Hiba,Qureshi,Hiba Qureshi,56169-6682755-3,1954-08-09,03356027604,2 Northwestern Lane,2023-04-03 01:58:46,Hypertension,true,Metformin,Amoxicillin,Wes Tonnesen,Karachi,Self-Discharged
+1811,Omar,Hashmi,Omar Hashmi,91357-7761852-5,1995-07-31,03492893872,01834 Declaration Pass,2024-12-28 14:40:25,Road Accident,true,Aspirin,Metoprolol,Giulia Twinbrow,Multan,Self-Discharged
+1812,Aisha,Chaudhary,Aisha Chaudhary,19716-9234494-7,1964-11-25,03206577883,72103 Delaware Alley,2025-12-15 13:08:09,Diabetes Complication,false,Metformin,Omeprazole,Derron Penketh,Rawalpindi,Discharged
+1813,Ali,Hashmi,Ali Hashmi,73657-7015145-9,1993-08-22,03482461115,2989 Novick Plaza,2024-05-11 22:52:03,Hypertension,false,Atorvastatin,Omeprazole,Max Raith,Karachi,Self-Discharged
+1814,Ali,Afridi,Ali Afridi,75845-1435113-9,1952-10-09,03438452599,2 Claremont Place,2025-05-01 22:40:54,Appendicitis,true,Aspirin,Omeprazole,Phillip felip,Rawalpindi,Self-Discharged
+1815,Bilal,Siddiqui,Bilal Siddiqui,52405-1198314-6,1990-04-28,03302107146,46525 Vernon Point,2024-12-23 17:56:33,Diabetes Complication,false,Atorvastatin,Metoprolol,Whitney Ovendon,Rawalpindi,Discharged
+1816,Zaid,Butt,Zaid Butt,89319-4151147-3,1952-08-28,03123802307,0 Pine View Hill,2025-05-26 13:21:55,Hypertension,true,Lisinopril,Metoprolol,Ryun Rochewell,Faisalabad,Discharged
+1817,Anaya,Ahmed,Anaya Ahmed,61448-3358923-6,1994-07-17,03333848385,3 Roth Crossing,2025-06-21 16:20:27,Road Accident,false,Panadol,Ceftriaxone,Candide O'Heyne,Multan,Discharged
+1818,Hassan,Butt,Hassan Butt,55984-3616987-2,1974-10-14,03480440501,5 7th Circle,2025-05-16 21:25:12,Road Accident,true,Insulin,Paracetamol,Wheeler Reucastle,Islamabad,Under Observation
+1819,Anaya,Mirza,Anaya Mirza,11136-1185391-5,1979-06-05,03470097107,65353 Alpine Trail,2024-01-05 02:41:25,Stroke,false,Aspirin,Amoxicillin,Fredek Stollenwerck,Faisalabad,Deceased
+1820,Ali,Abbas,Ali Abbas,36964-1444302-5,1967-03-17,03464141171,904 Anhalt Center,2023-09-14 23:51:48,Road Accident,false,Panadol,Amoxicillin,Jere Keppel,Multan,Self-Discharged
+1821,Ahmed,Hussain,Ahmed Hussain,30126-9239984-1,1958-09-08,03314029062,19559 Loftsgordon Place,2024-08-17 09:46:51,Stroke,false,Aspirin,Omeprazole,Ario Fagg,Lahore,Deceased
+1822,Bilal,Hussain,Bilal Hussain,54798-3465533-3,1984-06-03,03357838158,9 Merrick Way,2025-11-08 23:58:44,Fracture,true,Insulin,Ibuprofen,Bernadette Banger,Faisalabad,Discharged
+1823,Khadija,Gillani,Khadija Gillani,28934-3028066-3,1966-05-10,03190396588,4 Knutson Point,2024-08-22 01:43:14,Appendicitis,true,Lisinopril,Paracetamol,Marjory Neissen,Lahore,Self-Discharged
+1824,Aisha,Rizvi,Aisha Rizvi,44602-2299602-3,1977-05-14,03092058832,3928 Dawn Pass,2024-01-15 17:10:49,Diabetes Complication,false,Metformin,Ceftriaxone,Nick Carrel,Faisalabad,Under Observation
+1825,Aisha,Siddiqui,Aisha Siddiqui,87142-3878707-6,1972-01-02,03172397447,700 Vidon Court,2023-12-21 19:48:59,Road Accident,false,Panadol,Omeprazole,Raychel Keitley,Multan,Under Observation
+1826,Ahmed,Khan,Ahmed Khan,38618-1427526-2,1968-03-15,03023210971,24 Melby Road,2023-07-20 09:48:32,Stroke,true,Atorvastatin,Metoprolol,Konstantin Rockingham,Rawalpindi,Referred
+1827,Noor,Sheikh,Noor Sheikh,96653-2530543-7,1995-08-31,03407139809,38963 Larry Court,2023-08-06 13:08:20,Fracture,false,Atorvastatin,Amoxicillin,Danella Miliffe,Karachi,Referred
+1828,Sara,Abbas,Sara Abbas,43267-3284940-5,1953-04-18,03103539984,5601 Valley Edge Court,2023-10-10 14:47:38,Fracture,true,None,Paracetamol,Nanice Downer,Lahore,Under Observation
+1829,Sana,Sheikh,Sana Sheikh,55331-7801621-3,1953-06-27,03152331275,59773 Schlimgen Place,2025-11-07 04:21:29,Fracture,true,Atorvastatin,Ceftriaxone,Casper Filippov,Islamabad,Under Observation
+1830,Sana,Ali,Sana Ali,35973-2005840-8,1994-01-15,03385375982,58188 Westridge Park,2024-06-02 06:30:08,Fracture,false,Insulin,Ceftriaxone,Julietta Briston,Lahore,Under Observation
+1831,Sara,Ali,Sara Ali,89266-4083512-1,1958-03-18,03358186107,9 Basil Terrace,2025-11-26 21:59:30,Diabetes Complication,false,Metformin,Ibuprofen,Ree Fargie,Karachi,Deceased
+1832,Khadija,Hashmi,Khadija Hashmi,26759-7011044-6,1980-07-06,03399185729,36 Larry Street,2023-10-23 05:38:55,Hypertension,false,Insulin,Amoxicillin,Seymour Pareman,Rawalpindi,Deceased
+1833,Hamza,Mirza,Hamza Mirza,12226-5436097-6,1993-07-14,03495572754,72 Kings Hill,2025-01-02 18:57:09,Chest Pain,true,Lisinopril,Ceftriaxone,Wally Pimerick,Rawalpindi,Referred
+1834,Fatima,Ahmed,Fatima Ahmed,87892-4206685-7,1951-08-18,03023630300,0843 Oxford Plaza,2025-01-26 12:10:52,Appendicitis,true,Lisinopril,Metoprolol,Martha Cowperthwaite,Islamabad,Discharged
+1835,Noor,Hashmi,Noor Hashmi,13861-1956569-9,1962-05-02,03231882580,02 Cody Crossing,2024-03-04 18:22:31,Fever,false,Metformin,Ceftriaxone,Erda Freshwater,Rawalpindi,Discharged
+1836,Sana,Lodhi,Sana Lodhi,42632-3883213-9,1987-05-30,03458982792,0756 Golf View Court,2024-07-17 07:21:28,Diabetes Complication,true,Panadol,Omeprazole,Wallie Beamand,Rawalpindi,Deceased
+1837,Myra,Lodhi,Myra Lodhi,14811-8857290-2,1950-09-27,03003023886,6 Sherman Junction,2024-08-24 12:52:01,Fever,true,None,Paracetamol,Tadd Locks,Islamabad,Discharged
+1838,Ali,Qureshi,Ali Qureshi,55916-6796031-5,1975-08-05,03417774571,2 Farmco Avenue,2025-07-09 04:53:54,Diabetes Complication,false,Metformin,Amoxicillin,Millard Flag,Islamabad,Discharged
+1839,Sana,Mughal,Sana Mughal,55717-8207328-7,1987-06-21,03201345253,793 Sundown Terrace,2023-09-21 19:05:27,Stroke,false,Insulin,Paracetamol,Layla Kellick,Lahore,Referred
+1840,Maryam,Hussain,Maryam Hussain,33789-2013335-9,1953-11-29,03041375424,0 Dorton Parkway,2025-03-07 06:38:26,Stroke,true,Metformin,Amoxicillin,Delilah Fleckno,Karachi,Self-Discharged
+1841,Ahmed,Butt,Ahmed Butt,13999-1605611-5,1988-12-26,03495867496,4 Hanson Court,2024-02-02 12:40:11,Chest Pain,true,None,Omeprazole,Hyman Chatain,Lahore,Self-Discharged
+1842,Usman,Malik,Usman Malik,85031-4339453-2,1983-02-15,03049858869,21 Reindahl Court,2025-12-10 07:44:33,Fever,true,Insulin,Amoxicillin,Betteanne Cromley,Islamabad,Under Observation
+1843,Zaid,Hussain,Zaid Hussain,46146-2825140-7,1982-09-21,03247749810,82771 Buena Vista Road,2023-10-20 02:59:08,Hypertension,true,Aspirin,Amoxicillin,Veda Lacelett,Multan,Deceased
+1844,Sana,Naqvi,Sana Naqvi,84836-9637826-1,1989-05-15,03284898825,760 Londonderry Plaza,2025-12-11 15:17:08,Road Accident,false,Panadol,Amoxicillin,Sibelle Broader,Faisalabad,Self-Discharged
+1845,Hiba,Chaudhary,Hiba Chaudhary,48467-3990286-5,1983-06-05,03235136951,718 Troy Pass,2023-12-24 13:53:36,Hypertension,true,Lisinopril,Ibuprofen,Evanne Losty,Faisalabad,Under Observation
+1846,Aisha,Farooqi,Aisha Farooqi,92427-4372782-5,1997-10-28,03352251485,2 Old Gate Hill,2024-05-31 16:31:46,Chest Pain,true,Metformin,Ibuprofen,Albert Kubicek,Faisalabad,Self-Discharged
+1847,Hassan,Lodhi,Hassan Lodhi,52350-5430919-6,1989-11-28,03155269934,62 Bowman Court,2024-05-17 16:37:22,Chest Pain,true,Metformin,Paracetamol,Mano Tongue,Karachi,Referred
+1848,Maryam,Jatoi,Maryam Jatoi,48938-2624841-9,1981-04-16,03133196418,56 Holy Cross Road,2023-07-10 17:07:42,Road Accident,true,Insulin,Ceftriaxone,Car Pleasants,Rawalpindi,Under Observation
+1849,Ahmed,Hashmi,Ahmed Hashmi,75260-1204892-9,1993-03-01,03154435896,3865 Judy Junction,2024-05-16 04:50:22,Diabetes Complication,true,None,Ibuprofen,Kerby Crumley,Rawalpindi,Deceased
+1850,Usman,Hashmi,Usman Hashmi,49169-7421981-1,2004-11-07,03333623458,64 Jana Way,2024-07-03 11:33:06,Road Accident,false,Metformin,Amoxicillin,Dacy Dufty,Multan,Self-Discharged
+1851,Mahnoor,Shah,Mahnoor Shah,33548-9833118-4,1999-05-15,03298529339,748 American Ash Court,2024-12-15 07:23:30,Stroke,false,None,Omeprazole,Anne-corinne Gonsalvez,Faisalabad,Self-Discharged
+1852,Zaid,Lodhi,Zaid Lodhi,97920-8318913-4,1964-11-29,03037746957,61 Dexter Hill,2025-05-10 17:54:35,Hypertension,true,None,Paracetamol,Nikolai Ryding,Rawalpindi,Self-Discharged
+1853,Hamza,Siddiqui,Hamza Siddiqui,55664-7797645-3,1996-11-14,03363133954,3920 Muir Point,2024-01-06 09:12:00,Chest Pain,false,Insulin,Amoxicillin,Thia Alltimes,Islamabad,Under Observation
+1854,Myra,Jatoi,Myra Jatoi,35991-9115780-8,1979-06-07,03293692078,62100 Jenifer Point,2025-03-25 00:20:16,Fracture,false,Aspirin,Paracetamol,Bidget Root,Faisalabad,Discharged
+1855,Fatima,Ali,Fatima Ali,52597-9167030-2,1994-03-02,03007085547,71384 Homewood Street,2023-06-24 05:32:36,Fracture,false,Lisinopril,Amoxicillin,Jania Learmont,Multan,Deceased
+1856,Dua,Hashmi,Dua Hashmi,51985-8523314-8,2005-12-03,03262177291,178 Fallview Lane,2025-08-16 08:05:38,Stroke,false,Lisinopril,Ceftriaxone,Chloette Crewdson,Islamabad,Discharged
+1857,Zainab,Rizvi,Zainab Rizvi,33063-2508026-3,1960-11-19,03479164273,1 Chive Way,2024-05-18 13:23:40,Fever,false,Insulin,Amoxicillin,Rhoda Dowd,Rawalpindi,Under Observation
+1858,Aisha,Abbas,Aisha Abbas,69427-2742615-3,1990-10-21,03486871643,24345 Commercial Park,2025-02-13 04:56:33,Fever,true,Panadol,Metoprolol,Cyndi Rickson,Multan,Under Observation
+1859,Myra,Afridi,Myra Afridi,97534-7484972-8,1956-01-26,03370871251,03053 3rd Alley,2024-01-16 18:17:12,Road Accident,true,Atorvastatin,Paracetamol,Wynnie Stace,Karachi,Self-Discharged
+1860,Ali,Jatoi,Ali Jatoi,75780-9023553-5,1989-03-25,03408455626,02782 Bultman Alley,2024-09-13 21:27:16,Fever,false,Atorvastatin,Metoprolol,Berkly Fladgate,Faisalabad,Discharged
+1861,Anaya,Farooqi,Anaya Farooqi,79511-3917552-5,1988-08-18,03194005826,20 Mifflin Lane,2023-06-19 09:06:19,Fever,false,Aspirin,Metoprolol,Zandra Malia,Rawalpindi,Under Observation
+1862,Zaid,Mughal,Zaid Mughal,44540-5863435-7,1987-06-10,03328402788,671 Carey Trail,2024-12-10 12:46:58,Stroke,true,Lisinopril,Ibuprofen,Thornton Cruden,Multan,Referred
+1863,Bilal,Afridi,Bilal Afridi,60056-4225341-1,1957-09-18,03330668138,076 Little Fleur Plaza,2024-01-24 05:12:35,Chest Pain,true,Atorvastatin,Ceftriaxone,Eldridge Badder,Islamabad,Referred
+1864,Arsalan,Jatoi,Arsalan Jatoi,64649-8235016-4,2000-11-04,03098146952,53 4th Crossing,2024-07-19 13:36:47,Fracture,false,Panadol,Metoprolol,Almira Rook,Lahore,Referred
+1865,Ali,Malik,Ali Malik,25149-6626382-6,1975-09-10,03142526750,2 Sauthoff Plaza,2023-10-02 10:38:04,Appendicitis,false,Panadol,Ibuprofen,Xylina Batistelli,Rawalpindi,Referred
+1866,Rehan,Naqvi,Rehan Naqvi,22535-5668252-6,2002-07-22,03109411336,275 Del Mar Park,2025-01-17 03:43:32,Diabetes Complication,false,None,Metoprolol,Morrie Wadwell,Multan,Deceased
+1867,Omar,Ahmed,Omar Ahmed,19786-1670103-2,2004-06-11,03433942193,54971 Towne Road,2024-07-20 18:59:54,Fever,true,Panadol,Ceftriaxone,Julius Lorne,Karachi,Discharged
+1868,Ali,Rizvi,Ali Rizvi,54726-2396342-4,1997-06-16,03081110929,602 Fair Oaks Trail,2024-09-12 19:40:54,Chest Pain,true,Aspirin,Paracetamol,Ryann Dingwall,Multan,Deceased
+1869,Hiba,Farooqi,Hiba Farooqi,78914-4990169-7,1987-06-15,03273291170,6084 Goodland Pass,2023-07-19 00:43:43,Hypertension,true,Lisinopril,Ibuprofen,Mandi Shere,Islamabad,Under Observation
+1870,Zainab,Qureshi,Zainab Qureshi,80786-3949109-7,1958-12-21,03056258021,3 Northport Trail,2025-04-15 14:11:33,Diabetes Complication,false,Panadol,Omeprazole,Phyllys Snelson,Faisalabad,Referred
+1871,Sana,Afridi,Sana Afridi,15515-7617003-6,1977-06-25,03135499633,1416 Farragut Avenue,2025-11-11 16:47:01,Diabetes Complication,false,Insulin,Amoxicillin,Sissy Dumbleton,Islamabad,Discharged
+1872,Aisha,Bajwa,Aisha Bajwa,63999-5958076-3,1996-08-17,03180287579,535 Hanover Terrace,2024-02-17 09:05:29,Diabetes Complication,true,Insulin,Omeprazole,Anderea Flannery,Islamabad,Deceased
+1873,Noor,Aziz,Noor Aziz,57223-6601598-6,1980-06-19,03212652967,16 Dawn Junction,2023-04-15 05:45:56,Diabetes Complication,false,Panadol,Ibuprofen,Beaufort Shipcott,Islamabad,Deceased
+1874,Hiba,Aziz,Hiba Aziz,95307-8402346-7,1968-06-30,03206640622,7 Village Point,2023-01-15 02:25:40,Stroke,false,Atorvastatin,Omeprazole,Martynne Yuryaev,Faisalabad,Referred
+1875,Hamza,Butt,Hamza Butt,14352-8928323-3,1960-01-05,03180611019,48903 Leroy Avenue,2024-06-09 08:31:41,Hypertension,true,None,Metoprolol,Vikky Murdy,Islamabad,Referred
+1876,Ahmed,Iqbal,Ahmed Iqbal,95941-6550648-7,1997-07-19,03400481540,7 Becker Park,2023-08-24 09:20:36,Stroke,true,Metformin,Metoprolol,Nell Brignall,Multan,Deceased
+1877,Ibrahim,Siddiqui,Ibrahim Siddiqui,98422-2351564-4,1951-06-20,03073522206,2 Lakeland Center,2025-02-26 13:36:55,Diabetes Complication,true,Aspirin,Paracetamol,Kristine Siddell,Multan,Self-Discharged
+1878,Zainab,Malik,Zainab Malik,58044-2490703-1,1986-12-14,03234215381,3235 Wayridge Avenue,2025-06-21 14:11:15,Stroke,true,Panadol,Metoprolol,Alejandrina O'Farrell,Islamabad,Self-Discharged
+1879,Myra,Naqvi,Myra Naqvi,64288-8834278-3,1977-05-01,03457436421,2 Springview Hill,2025-08-10 03:05:52,Hypertension,false,Panadol,Ibuprofen,Lotte Barthelme,Rawalpindi,Under Observation
+1880,Sara,Naqvi,Sara Naqvi,53610-2631872-3,1989-04-07,03456482966,0735 Prairieview Road,2025-04-20 06:41:12,Appendicitis,true,Atorvastatin,Ibuprofen,Clea Prinnett,Karachi,Referred
+1881,Noor,Afridi,Noor Afridi,27259-6336449-1,1994-05-07,03056668549,2618 Everett Crossing,2024-10-31 19:11:11,Appendicitis,false,Atorvastatin,Ceftriaxone,Corette Aylin,Islamabad,Under Observation
+1882,Myra,Iqbal,Myra Iqbal,73033-7382908-2,1992-10-07,03476959228,17 Dawn Point,2024-06-24 05:38:09,Appendicitis,true,Aspirin,Amoxicillin,Gus Curtayne,Lahore,Self-Discharged
+1883,Omar,Shah,Omar Shah,67654-3855411-5,1951-04-12,03183059176,983 Tony Place,2023-10-13 02:04:09,Road Accident,false,None,Ceftriaxone,Lelia Battista,Rawalpindi,Referred
+1884,Anaya,Qureshi,Anaya Qureshi,46350-7499350-7,1950-08-29,03483072929,05569 Ronald Regan Trail,2023-06-16 05:58:03,Fever,true,Aspirin,Paracetamol,Adelaide Pesik,Islamabad,Referred
+1885,Sara,Shah,Sara Shah,78522-8109537-2,1955-05-27,03284380491,0 Acker Lane,2024-01-06 11:25:24,Stroke,false,Insulin,Amoxicillin,Babara Hinemoor,Rawalpindi,Referred
+1886,Ahmed,Iqbal,Ahmed Iqbal,87940-2346246-3,1973-06-19,03359888364,998 Arapahoe Street,2024-02-07 11:19:41,Fracture,false,Lisinopril,Paracetamol,Iggy Domotor,Faisalabad,Deceased
+1887,Sana,Ahmed,Sana Ahmed,15687-7795623-8,1986-03-02,03403307768,30 Meadow Vale Plaza,2023-04-07 06:59:33,Road Accident,false,Atorvastatin,Paracetamol,Bryn Chatain,Rawalpindi,Discharged
+1888,Zainab,Gillani,Zainab Gillani,13148-1608617-6,1966-10-20,03294343927,4425 Killdeer Pass,2024-06-08 20:27:03,Fracture,false,Panadol,Paracetamol,Ardelia Bellefant,Multan,Deceased
+1889,Sana,Mirza,Sana Mirza,51003-3390088-5,1997-08-09,03245517537,83 Canary Crossing,2025-10-08 21:49:30,Road Accident,true,Panadol,Omeprazole,Red Atwell,Lahore,Under Observation
+1890,Mustafa,Ahmed,Mustafa Ahmed,13386-5637417-8,1980-01-29,03252865256,4294 Ryan Court,2023-11-17 09:45:39,Chest Pain,false,Lisinopril,Omeprazole,Horatius Aaronson,Multan,Referred
+1891,Maryam,Butt,Maryam Butt,34936-8689423-7,1999-11-03,03391105734,2939 Northview Street,2025-02-11 04:27:18,Stroke,true,Insulin,Amoxicillin,Mehetabel Boustred,Karachi,Referred
+1892,Mustafa,Lodhi,Mustafa Lodhi,10134-7551500-9,1976-10-17,03484201999,6 Boyd Court,2023-02-27 07:39:29,Chest Pain,true,None,Paracetamol,Shandie Lampaert,Lahore,Referred
+1893,Ibrahim,Chaudhary,Ibrahim Chaudhary,15028-5383971-7,1971-03-14,03226194473,8 Del Sol Lane,2023-04-10 10:48:06,Stroke,false,Panadol,Ibuprofen,Graig Tout,Islamabad,Referred
+1894,Hamza,Malik,Hamza Malik,51185-9209083-6,2004-10-22,03438728771,606 Cherokee Circle,2025-08-31 00:12:47,Road Accident,false,Insulin,Amoxicillin,Buddie Patey,Faisalabad,Discharged
+1895,Ibrahim,Jatoi,Ibrahim Jatoi,82980-3749027-6,1960-09-20,03442317850,1 Waywood Trail,2024-06-04 19:21:12,Stroke,false,None,Metoprolol,Brose Sainter,Faisalabad,Discharged
+1896,Maryam,Butt,Maryam Butt,68142-8080297-4,1999-12-16,03150040232,9265 Arizona Street,2025-02-15 12:10:43,Fever,true,Lisinopril,Paracetamol,Delainey Smeall,Rawalpindi,Self-Discharged
+1897,Omar,Khan,Omar Khan,17447-5204939-7,1993-03-02,03368891679,10859 Union Way,2023-10-17 20:53:11,Fever,false,Metformin,Ceftriaxone,Maggy Blasiak,Karachi,Referred
+1898,Noor,Shah,Noor Shah,96423-2905195-5,2005-04-27,03491225864,8 Emmet Alley,2024-08-31 07:37:37,Diabetes Complication,false,Panadol,Ibuprofen,Peg Severy,Multan,Self-Discharged
+1899,Hassan,Jatoi,Hassan Jatoi,80550-4025675-4,1960-07-19,03379954972,149 David Street,2023-08-04 17:22:37,Road Accident,false,Metformin,Amoxicillin,Francklin Poff,Faisalabad,Self-Discharged
+1900,Aisha,Hussain,Aisha Hussain,45770-4123029-5,2003-12-26,03165711436,3 Paget Street,2023-03-26 09:07:52,Fever,true,Metformin,Paracetamol,Tani Demanche,Faisalabad,Referred
+1901,Hamza,Abbas,Hamza Abbas,73889-9794681-7,1986-04-07,03293676866,24 Oak Point,2024-12-18 14:59:11,Fever,true,Atorvastatin,Metoprolol,Tarrance Geke,Lahore,Self-Discharged
+1902,Aisha,Chaudhary,Aisha Chaudhary,12668-4358225-5,1967-06-02,03248891992,2 Hovde Place,2024-09-02 18:54:58,Fracture,false,Metformin,Paracetamol,Chrystel Albion,Multan,Under Observation
+1903,Mustafa,Farooqi,Mustafa Farooqi,52462-7215227-3,1972-06-30,03119288203,5 Saint Paul Point,2025-02-03 08:50:28,Road Accident,false,Panadol,Ceftriaxone,Junie Cone,Rawalpindi,Discharged
+1904,Maryam,Abbas,Maryam Abbas,92425-7910705-6,1974-05-12,03334329258,84909 Annamark Drive,2025-03-19 16:13:18,Hypertension,true,None,Paracetamol,Gussie Handasyde,Multan,Referred
+1905,Ibrahim,Afridi,Ibrahim Afridi,75700-1408461-1,1971-11-30,03092775139,2 Dovetail Lane,2024-12-15 01:09:31,Stroke,true,Metformin,Paracetamol,Roslyn Sivier,Lahore,Self-Discharged
+1906,Hamza,Naqvi,Hamza Naqvi,69542-5921992-6,1970-02-16,03082539429,23482 Melrose Way,2024-01-29 03:22:49,Appendicitis,false,Insulin,Amoxicillin,Vitoria Halbert,Multan,Deceased
+1907,Omar,Malik,Omar Malik,49214-6034244-4,1968-05-10,03356982814,92825 Linden Place,2025-09-15 14:57:47,Road Accident,true,Aspirin,Amoxicillin,Avigdor Gabe,Islamabad,Self-Discharged
+1908,Bilal,Ahmed,Bilal Ahmed,18455-8061180-7,1956-03-01,03274813860,875 Oak Terrace,2025-09-23 21:57:08,Hypertension,true,Panadol,Paracetamol,Neala Crosoer,Karachi,Discharged
+1909,Mahnoor,Mirza,Mahnoor Mirza,66920-5224952-2,1988-01-11,03047432576,71018 Bartillon Circle,2024-04-10 11:21:54,Hypertension,false,None,Omeprazole,Kenny Bewfield,Karachi,Under Observation
+1910,Fatima,Siddiqui,Fatima Siddiqui,55163-4310495-5,1979-07-27,03110715287,5237 Nancy Alley,2023-10-11 08:11:59,Road Accident,true,Panadol,Paracetamol,Gabi Wardlow,Faisalabad,Self-Discharged
+1911,Khadija,Farooqi,Khadija Farooqi,74751-8283773-4,1964-11-20,03339270779,1 Mayer Court,2024-09-03 10:47:21,Diabetes Complication,true,Panadol,Omeprazole,Mala Spinley,Rawalpindi,Deceased
+1912,Aisha,Chaudhary,Aisha Chaudhary,75568-8862942-9,1955-10-30,03104932142,5919 Pankratz Way,2025-01-25 01:17:25,Chest Pain,false,Metformin,Amoxicillin,Kerry Dyer,Islamabad,Under Observation
+1913,Omar,Malik,Omar Malik,34978-3788157-1,2000-09-27,03211749427,3 Vidon Center,2025-10-18 14:25:55,Diabetes Complication,false,Aspirin,Amoxicillin,Bobine Gearing,Lahore,Referred
+1914,Mustafa,Hashmi,Mustafa Hashmi,14514-1852569-3,1988-03-14,03031127876,5180 Boyd Crossing,2023-02-24 02:37:27,Fracture,false,Aspirin,Metoprolol,Fletch Camblin,Lahore,Discharged
+1915,Rehan,Jatoi,Rehan Jatoi,44253-9003159-8,1999-08-17,03262563117,8 International Road,2024-06-01 10:58:07,Fever,false,Aspirin,Ceftriaxone,Dinnie Rigate,Multan,Referred
+1916,Zaid,Jatoi,Zaid Jatoi,91916-9877873-9,1980-01-02,03257878678,96 Knutson Terrace,2023-08-31 13:03:01,Road Accident,false,Insulin,Amoxicillin,Kristyn Lanchester,Islamabad,Discharged
+1917,Noor,Gillani,Noor Gillani,50004-7927295-4,1958-12-19,03229627132,2 Amoth Court,2025-02-07 10:43:55,Diabetes Complication,false,Insulin,Metoprolol,Eloise Collingwood,Multan,Self-Discharged
+1918,Aisha,Aziz,Aisha Aziz,12076-4752884-1,2000-10-30,03097904659,12 Towne Hill,2024-06-29 09:26:05,Fracture,true,Panadol,Paracetamol,Risa Maud,Lahore,Referred
+1919,Hassan,Butt,Hassan Butt,56152-3700168-2,1985-12-08,03415685121,07349 Ridge Oak Center,2024-12-03 15:48:59,Hypertension,true,Lisinopril,Ibuprofen,Arron Hufton,Karachi,Discharged
+1920,Zaid,Iqbal,Zaid Iqbal,34875-7881539-1,1985-09-26,03155779181,077 Spenser Alley,2023-01-17 04:30:32,Road Accident,false,Metformin,Ceftriaxone,Josefina Medina,Lahore,Referred
+1921,Zaid,Afridi,Zaid Afridi,64159-4262761-2,1979-03-06,03376583539,5883 Armistice Court,2025-04-05 19:06:13,Chest Pain,false,Insulin,Omeprazole,Hazlett Chadd,Faisalabad,Under Observation
+1922,Khadija,Butt,Khadija Butt,92027-5796215-3,1989-07-25,03379656240,29411 Boyd Place,2025-10-30 02:43:58,Appendicitis,false,None,Ibuprofen,Faythe Fiddymont,Islamabad,Self-Discharged
+1923,Maryam,Mughal,Maryam Mughal,93256-9221561-1,2002-08-09,03099658889,52 Manley Trail,2024-12-16 09:45:48,Road Accident,false,Insulin,Omeprazole,Heidi Stairmond,Faisalabad,Referred
+1924,Ali,Iqbal,Ali Iqbal,86139-7013189-1,1988-10-20,03252906721,5 Rigney Way,2024-10-13 03:52:01,Chest Pain,false,Metformin,Ceftriaxone,Karin Drohan,Multan,Referred
+1925,Fatima,Bajwa,Fatima Bajwa,43935-8759332-8,1984-08-28,03053185542,8 Manitowish Alley,2023-12-26 22:01:10,Diabetes Complication,true,Panadol,Metoprolol,Fancie Roocroft,Islamabad,Discharged
+1926,Maryam,Jatoi,Maryam Jatoi,18069-1280263-9,2001-07-21,03147591818,6652 Sommers Road,2023-04-26 18:24:50,Chest Pain,true,None,Ibuprofen,Langston Witchell,Multan,Deceased
+1927,Sara,Bajwa,Sara Bajwa,38962-2901609-8,1956-10-19,03017331882,708 Eggendart Junction,2024-09-14 22:24:13,Appendicitis,true,Atorvastatin,Omeprazole,Judie Cordle,Multan,Self-Discharged
+1928,Myra,Hashmi,Myra Hashmi,23067-7441479-5,1970-01-10,03219685378,16 Ramsey Junction,2024-11-04 19:04:15,Fracture,false,Panadol,Amoxicillin,Colver Mulvaney,Faisalabad,Under Observation
+1929,Khadija,Farooqi,Khadija Farooqi,10913-3297455-7,1962-10-03,03442692312,3 Gale Point,2023-10-13 07:57:58,Hypertension,true,Insulin,Paracetamol,Reade Longbottom,Lahore,Discharged
+1930,Usman,Ali,Usman Ali,37867-8370060-4,1984-11-07,03241769177,6796 Huxley Alley,2024-04-06 12:51:20,Hypertension,false,None,Metoprolol,Lucais Gallardo,Karachi,Deceased
+1931,Anaya,Ali,Anaya Ali,32559-8349852-4,1990-01-19,03482530183,79179 Kipling Place,2023-04-03 13:04:42,Stroke,false,Lisinopril,Ibuprofen,Gage Tailby,Faisalabad,Referred
+1932,Mahnoor,Qureshi,Mahnoor Qureshi,73509-2375431-9,1957-04-21,03077281165,80 Talmadge Alley,2024-01-15 15:28:19,Road Accident,true,Insulin,Paracetamol,Georgeta Blaine,Faisalabad,Deceased
+1933,Aisha,Butt,Aisha Butt,61564-5137772-5,1972-04-09,03082746391,28824 Clemons Court,2025-07-29 23:29:24,Hypertension,false,Metformin,Paracetamol,Renard Jeffray,Karachi,Self-Discharged
+1934,Ali,Qureshi,Ali Qureshi,62635-7703026-4,1985-05-07,03399798750,680 Anzinger Junction,2023-04-09 01:23:58,Hypertension,false,Atorvastatin,Omeprazole,Maitilde Stirman,Multan,Discharged
+1935,Hamza,Gillani,Hamza Gillani,72096-4997792-8,1973-02-12,03340775118,730 Sutherland Junction,2025-02-10 17:18:19,Hypertension,false,Insulin,Amoxicillin,Rusty Duigenan,Multan,Under Observation
+1936,Fatima,Sheikh,Fatima Sheikh,68848-4096285-7,2005-03-18,03185826217,0 Springview Alley,2025-06-16 03:27:00,Fracture,true,Panadol,Amoxicillin,Rolf Lidgely,Karachi,Under Observation
+1937,Mustafa,Mughal,Mustafa Mughal,44791-7572404-2,1978-04-29,03153240035,446 Cascade Center,2024-12-31 06:53:58,Appendicitis,true,Metformin,Paracetamol,Bianca McPeake,Faisalabad,Deceased
+1938,Ahmed,Ahmed,Ahmed Ahmed,21109-9343856-6,2005-11-22,03470568909,18340 Blaine Plaza,2025-12-02 09:33:16,Stroke,true,None,Ceftriaxone,Skipper Frays,Lahore,Under Observation
+1939,Hiba,Bajwa,Hiba Bajwa,93345-1223578-3,2004-12-20,03202605252,59971 Talmadge Street,2024-03-21 08:35:07,Road Accident,true,Insulin,Ceftriaxone,Holmes Waplington,Faisalabad,Under Observation
+1940,Usman,Sheikh,Usman Sheikh,12178-8743344-5,1963-11-03,03377134379,3434 Scott Avenue,2025-07-10 16:00:10,Road Accident,false,Insulin,Amoxicillin,Pammi Goodyear,Islamabad,Referred
+1941,Maryam,Farooqi,Maryam Farooqi,59549-6160794-1,1980-01-21,03350646499,01 Bartelt Parkway,2023-01-03 20:53:02,Fracture,false,Metformin,Metoprolol,Brena Brumen,Karachi,Under Observation
+1942,Noor,Chaudhary,Noor Chaudhary,43357-7072888-8,1952-01-11,03482049553,60 Scofield Alley,2023-11-05 20:20:19,Diabetes Complication,false,Lisinopril,Ibuprofen,Fredra Dilkes,Rawalpindi,Self-Discharged
+1943,Hiba,Khan,Hiba Khan,32541-9360509-8,1975-09-04,03286850826,8 Northridge Crossing,2023-03-07 23:02:16,Hypertension,true,Metformin,Ibuprofen,Alis Mugg,Rawalpindi,Discharged
+1944,Ahmed,Jatoi,Ahmed Jatoi,34745-7981215-1,2004-01-19,03149596980,254 Corben Junction,2023-08-21 14:12:28,Diabetes Complication,false,None,Amoxicillin,Shadow Kidds,Islamabad,Deceased
+1945,Omar,Abbas,Omar Abbas,83423-6601610-2,1967-01-01,03073532788,6539 Prentice Parkway,2025-01-05 16:01:48,Chest Pain,false,Lisinopril,Paracetamol,Jess Menure,Karachi,Under Observation
+1946,Noor,Aziz,Noor Aziz,17463-5140678-6,1959-04-09,03034456371,2 Gale Point,2023-01-24 09:34:23,Chest Pain,true,Aspirin,Amoxicillin,Shelby Dallison,Lahore,Discharged
+1947,Fatima,Bajwa,Fatima Bajwa,42276-9172081-8,1980-06-05,03251752133,846 Raven Pass,2023-01-30 08:14:20,Fracture,false,Lisinopril,Omeprazole,Lana Bedinn,Karachi,Under Observation
+1948,Mustafa,Chaudhary,Mustafa Chaudhary,46809-8132743-1,1979-05-08,03060630733,940 Kennedy Place,2023-05-04 14:09:23,Road Accident,false,Panadol,Metoprolol,Donny Jarrell,Lahore,Referred
+1949,Arsalan,Sheikh,Arsalan Sheikh,36578-7748105-6,1983-01-20,03318093059,19 Sherman Road,2025-11-13 19:24:22,Appendicitis,false,None,Amoxicillin,Zeke Pashba,Karachi,Deceased
+1950,Myra,Siddiqui,Myra Siddiqui,79690-6415077-1,1996-12-05,03012686619,1 Holmberg Avenue,2023-07-09 23:09:39,Road Accident,false,Lisinopril,Metoprolol,Peyter McGlade,Islamabad,Referred
+1951,Rehan,Hashmi,Rehan Hashmi,47684-9556335-5,1990-09-01,03031000089,2524 Killdeer Plaza,2023-02-24 09:57:39,Hypertension,false,None,Metoprolol,Fraze Marlon,Faisalabad,Discharged
+1952,Mustafa,Mirza,Mustafa Mirza,46937-5345661-3,1994-03-18,03142245462,7762 Gale Junction,2025-10-12 12:53:33,Road Accident,false,Metformin,Paracetamol,Manda Lupton,Faisalabad,Self-Discharged
+1953,Anaya,Qureshi,Anaya Qureshi,21240-6052323-6,1981-05-15,03283038045,1 Service Road,2023-02-06 12:03:25,Chest Pain,true,Insulin,Omeprazole,Magda Culy,Islamabad,Under Observation
+1954,Rehan,Mughal,Rehan Mughal,67842-1026759-6,1963-01-13,03334607941,28 Chive Hill,2023-12-21 17:08:17,Stroke,true,Insulin,Ibuprofen,Teresina Strognell,Islamabad,Referred
+1955,Hassan,Chaudhary,Hassan Chaudhary,79740-4821890-2,2001-01-26,03066690189,38262 Kings Lane,2023-04-23 10:32:26,Fever,true,Lisinopril,Ceftriaxone,Ora Doerling,Islamabad,Deceased
+1956,Usman,Naqvi,Usman Naqvi,96792-3911667-6,1961-09-06,03247356075,4643 Jackson Park,2023-09-07 15:46:14,Fever,false,Atorvastatin,Ceftriaxone,Ondrea Mitroshinov,Faisalabad,Deceased
+1957,Sara,Aziz,Sara Aziz,80535-3353183-5,1968-04-07,03288255775,1180 Express Pass,2023-08-10 23:14:37,Fever,false,Atorvastatin,Ceftriaxone,Marcella Blincow,Lahore,Deceased
+1958,Omar,Bajwa,Omar Bajwa,44114-7030252-6,1959-09-07,03479549059,4426 Gateway Center,2025-01-22 20:53:30,Hypertension,true,Atorvastatin,Paracetamol,Maximo Petch,Multan,Self-Discharged
+1959,Hamza,Hashmi,Hamza Hashmi,50236-2471119-9,1972-10-31,03147543061,8 Sachs Drive,2023-07-05 03:08:27,Appendicitis,true,Lisinopril,Ceftriaxone,Laryssa Ginnell,Multan,Self-Discharged
+1960,Hassan,Bajwa,Hassan Bajwa,70328-4351343-6,1976-10-25,03447411200,151 Coleman Road,2023-09-21 07:15:29,Appendicitis,false,Insulin,Amoxicillin,Kermy Stevenson,Karachi,Deceased
+1961,Ibrahim,Shah,Ibrahim Shah,18419-1482903-4,1966-09-28,03146640467,366 Schiller Street,2024-01-25 10:56:42,Fever,true,None,Omeprazole,Elsinore Cockerill,Islamabad,Under Observation
+1962,Myra,Jatoi,Myra Jatoi,90116-2951885-7,1968-01-17,03219829395,0 Dawn Park,2025-03-27 15:09:46,Road Accident,false,Insulin,Ceftriaxone,Alyssa Bohling,Multan,Deceased
+1963,Arsalan,Ali,Arsalan Ali,46328-4934882-7,1950-05-30,03154189836,35 Fallview Plaza,2023-04-03 05:17:17,Fever,false,None,Omeprazole,Darbee Ghelardoni,Islamabad,Referred
+1964,Sara,Butt,Sara Butt,25684-6250253-4,1956-12-19,03426210301,484 Loeprich Street,2025-09-06 14:55:03,Hypertension,false,Metformin,Metoprolol,Melisa Serot,Islamabad,Under Observation
+1965,Sana,Sheikh,Sana Sheikh,96946-6481690-4,1952-12-06,03310696977,9819 Orin Pass,2025-02-09 01:22:57,Stroke,false,Metformin,Paracetamol,Lotta Ausiello,Karachi,Self-Discharged
+1966,Bilal,Shah,Bilal Shah,83630-3935265-5,1986-03-03,03201988394,16 Wayridge Crossing,2023-12-26 09:59:22,Road Accident,true,Insulin,Metoprolol,Bryan Jeratt,Islamabad,Referred
+1967,Anaya,Shah,Anaya Shah,71011-4794779-2,1958-01-28,03282994750,194 Acker Hill,2025-07-01 06:49:58,Fracture,true,Atorvastatin,Paracetamol,Dasie Olin,Lahore,Self-Discharged
+1968,Hassan,Ali,Hassan Ali,48497-6424614-5,1975-04-08,03005188417,4858 Buena Vista Plaza,2024-07-31 22:18:51,Fracture,true,Aspirin,Paracetamol,Mata Ducker,Karachi,Discharged
+1969,Zaid,Malik,Zaid Malik,61395-6495550-8,1966-03-25,03111553238,7636 Barnett Plaza,2023-02-17 12:47:49,Chest Pain,true,Panadol,Omeprazole,Heida Yarwood,Lahore,Self-Discharged
+1970,Khadija,Lodhi,Khadija Lodhi,96801-2473846-6,1983-05-03,03100938216,850 Rusk Plaza,2024-10-26 06:48:27,Fracture,true,Metformin,Paracetamol,Evita Mancer,Karachi,Discharged
+1971,Sara,Chaudhary,Sara Chaudhary,83515-6625594-5,1986-03-09,03258529021,788 Columbus Crossing,2024-07-11 01:34:24,Fever,true,Aspirin,Paracetamol,Lura Lammerts,Islamabad,Discharged
+1972,Anaya,Ali,Anaya Ali,69401-9838932-3,1971-05-01,03336134642,05605 Packers Parkway,2024-08-02 23:27:22,Diabetes Complication,true,Metformin,Ibuprofen,Mitzi Priver,Lahore,Deceased
+1973,Ahmed,Mughal,Ahmed Mughal,33923-9107932-4,1962-08-15,03171664956,7818 Lerdahl Crossing,2023-05-28 06:38:00,Diabetes Complication,true,None,Amoxicillin,Jennine Kensley,Multan,Deceased
+1974,Dua,Malik,Dua Malik,42508-8508826-8,2003-11-03,03297516654,97597 Troy Parkway,2024-12-12 20:50:57,Road Accident,true,Insulin,Ibuprofen,Francis Fradgley,Karachi,Under Observation
+1975,Aisha,Mughal,Aisha Mughal,51207-6864443-2,1954-11-29,03008853874,30343 Summer Ridge Point,2025-10-26 22:10:32,Stroke,false,Insulin,Ibuprofen,Gianna Hastewell,Islamabad,Referred
+1976,Omar,Abbas,Omar Abbas,27895-7098548-3,2004-12-30,03174742280,1129 Debra Park,2025-03-23 13:34:53,Road Accident,false,None,Ibuprofen,Anny Cockren,Islamabad,Under Observation
+1977,Maryam,Aziz,Maryam Aziz,26516-7708172-5,1996-12-14,03029935731,79747 Farragut Plaza,2024-07-30 11:13:15,Fever,true,Insulin,Omeprazole,Troy Arlow,Multan,Under Observation
+1978,Zaid,Bajwa,Zaid Bajwa,47481-6700709-9,1980-12-18,03197791737,64 Main Hill,2024-07-07 08:38:26,Diabetes Complication,false,Metformin,Ibuprofen,Mallory Dyshart,Faisalabad,Discharged
+1979,Aisha,Chaudhary,Aisha Chaudhary,30209-3931324-1,1952-09-30,03118484560,46321 Luster Center,2023-09-09 09:03:25,Appendicitis,false,Insulin,Paracetamol,Roanna Grzeskowski,Rawalpindi,Under Observation
+1980,Noor,Jatoi,Noor Jatoi,17571-2720963-8,1979-02-13,03028253399,90500 Tony Lane,2025-06-07 07:46:12,Hypertension,false,Atorvastatin,Ceftriaxone,Vittorio Sheriff,Multan,Under Observation
+1981,Hassan,Afridi,Hassan Afridi,20096-7729956-3,1999-10-28,03302576679,83987 Judy Trail,2024-07-18 16:35:43,Appendicitis,true,Atorvastatin,Ibuprofen,Alexandrina Butler,Multan,Self-Discharged
+1982,Sana,Khan,Sana Khan,90478-4073541-2,1972-05-26,03383614554,6571 Bonner Street,2023-01-14 07:23:36,Fracture,false,Panadol,Omeprazole,Julianne Moulsdale,Lahore,Under Observation
+1983,Ali,Lodhi,Ali Lodhi,72010-9911056-8,1988-06-08,03368345090,4 Packers Pass,2023-08-03 20:41:07,Hypertension,false,None,Metoprolol,Glynis Mawby,Islamabad,Self-Discharged
+1984,Maryam,Iqbal,Maryam Iqbal,14214-1816904-3,1992-01-08,03472926647,095 Arizona Alley,2023-09-03 03:53:57,Chest Pain,false,Insulin,Amoxicillin,Carson Hathorn,Rawalpindi,Referred
+1985,Anaya,Aziz,Anaya Aziz,83682-8868900-1,1951-07-08,03278528649,1539 Jana Avenue,2024-03-03 21:50:54,Appendicitis,false,Insulin,Paracetamol,Devina Antliff,Lahore,Referred
+1986,Mahnoor,Shah,Mahnoor Shah,79043-8312079-3,1957-02-07,03397289480,2680 Lien Drive,2024-10-19 15:35:18,Fracture,false,Aspirin,Omeprazole,Berta Pitts,Karachi,Self-Discharged
+1987,Mustafa,Naqvi,Mustafa Naqvi,47740-8535292-6,1983-01-10,03406350337,62189 Gulseth Terrace,2023-05-22 16:38:37,Hypertension,true,Metformin,Paracetamol,Aron Scranney,Faisalabad,Self-Discharged
+1988,Anaya,Iqbal,Anaya Iqbal,36622-4985728-5,1966-04-28,03127235121,2 Darwin Park,2024-02-06 01:07:09,Diabetes Complication,false,Insulin,Metoprolol,Kelli Cordall,Faisalabad,Referred
+1989,Anaya,Butt,Anaya Butt,64252-2678365-2,1993-04-30,03229604084,6691 School Road,2025-06-17 10:03:28,Appendicitis,false,Insulin,Omeprazole,Ronny Di Bartolommeo,Karachi,Discharged
+1990,Hiba,Afridi,Hiba Afridi,77922-6114745-1,1955-11-24,03253612324,05456 Hermina Court,2025-11-18 02:13:04,Fracture,false,Aspirin,Ibuprofen,Joela Longhurst,Faisalabad,Under Observation
+1991,Zainab,Rizvi,Zainab Rizvi,18804-6139816-5,1976-08-05,03168370152,829 Atwood Point,2023-11-28 14:19:47,Diabetes Complication,false,Insulin,Amoxicillin,Dall Britt,Karachi,Under Observation
+1992,Fatima,Mughal,Fatima Mughal,94006-6451392-1,1963-02-13,03208911101,63392 Welch Way,2024-02-07 16:23:46,Stroke,false,None,Ceftriaxone,Ephrem Laslett,Islamabad,Under Observation
+1993,Omar,Lodhi,Omar Lodhi,35284-3289959-4,1963-11-07,03359323208,3580 Petterle Park,2023-10-01 09:20:44,Stroke,false,Insulin,Paracetamol,Aggie Climance,Rawalpindi,Discharged
+1994,Rehan,Mughal,Rehan Mughal,14917-5226970-4,1997-09-21,03265650668,4937 Hintze Center,2023-10-12 09:44:10,Fever,true,Atorvastatin,Ceftriaxone,Anthiathia Margetson,Multan,Self-Discharged
+1995,Noor,Naqvi,Noor Naqvi,39604-5236410-1,1973-08-08,03408095692,0 Barnett Trail,2023-12-07 17:02:18,Fever,false,Panadol,Metoprolol,Lucretia Reven,Lahore,Referred
+1996,Zainab,Sheikh,Zainab Sheikh,97660-7959247-7,1971-09-25,03333462505,3601 Cambridge Parkway,2025-04-04 06:19:36,Fracture,false,Metformin,Amoxicillin,Katya Mortimer,Karachi,Discharged
+1997,Zaid,Ali,Zaid Ali,65940-5929750-4,1972-02-26,03476198772,5793 Weeping Birch Way,2025-07-18 23:19:02,Stroke,true,Atorvastatin,Amoxicillin,Camilla Bruyett,Karachi,Discharged
+1998,Arsalan,Rizvi,Arsalan Rizvi,40680-2893558-9,1959-02-26,03458466347,6564 Aberg Point,2023-01-04 15:58:53,Diabetes Complication,true,Lisinopril,Omeprazole,Sherline Stiger,Multan,Under Observation
+1999,Ali,Abbas,Ali Abbas,83587-6858345-6,1981-01-22,03448898763,09435 Carpenter Trail,2025-02-18 08:48:59,Appendicitis,true,Panadol,Omeprazole,Shanda Petegree,Faisalabad,Referred
+2000,Aisha,Abbas,Aisha Abbas,27211-5242475-2,1968-02-12,03197646706,3 Hayes Avenue,2023-11-21 12:31:52,Hypertension,true,Metformin,Ibuprofen,Betsey Shortcliffe,Islamabad,Self-Discharged
