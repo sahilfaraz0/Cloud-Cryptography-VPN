@@ -31,35 +31,34 @@ A clean, modular architecture separating infrastructure, database interactions, 
 
     ASHN_Cloud_Cryptography/
     │
-    ├── 📁 certificates/               # PKI Infrastructure (ca.crt, client.crt, server.crt)
-    ├── 📁 config/                     # System Configurations
+    ├── 📁 certificates/
+    ├── 📁 config/
     │   ├── audit_log.py            
     │   ├── cert_config.py          
     │   ├── cert_verifier.py        
     │   └── db_config.py            
     │
-    ├── 📁 database/                   # Database Interaction Layer
+    ├── 📁 database/                   
     │   ├── fetch_pad.py            
     │   ├── fetch_pfd.py            
     │   └── fetch_pmd.py            
     │
-    ├── 📁 encryption/                 # Core Cryptographic Engines
-    │   ├── aesgcm_encrypt.py       
-    │   ├── chacha20_encrypt.py     
-    │   └── hashing.py              
+    ├── 📁 encryption/
+    │   ├── aesgcm_encrypt.py
+    │   ├── chacha20_encrypt.py
+    │   └── hashing.py      
     │
-    ├── 📁 MySQL/                      # Database Schemas & Mock Data
+    ├── 📁 MySQL/
     │   ├── ASHN_DB_Tables.sql      
     │   └── Mock_Data_CSVs/         
     │
-    ├── 📁 openvpn/                    # VPN Tunnel Configurations
+    ├── 📁 openvpn/
     │   ├── client.ovpn             
     │   └── server.ovpn             
     │
-    ├── 📄 .gitignore                  # Git exclusion rules
-    ├── 📄 requirements.txt            # Python dependencies
-    ├── ⚙️ main.py                     # Primary execution script
-    └── 📖 README.md                   # Project documentation
+    ├── 📄 requirements.txt            
+    ├── ⚙️ main.py
+    └── 📖 README.md
 
 ---
 
