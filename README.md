@@ -1,52 +1,44 @@
-# 🛡️ Applied Cryptography in the Cloud: ASHN VPN & Data Security
+# Cloud-Based Healthcare Cryptography & PKI Engine
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge&logo=mysql)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-Secure_Tunnel-orange?style=for-the-badge&logo=openvpn)
-![Cryptography](https://img.shields.io/badge/Cryptography-AES--GCM%20%7C%20ChaCha20-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-Secure%20Tunnel-red.svg)
+![Cryptography](https://img.shields.io/badge/Security-AES--GCM%20%7C%20ChaCha20-brightgreen.svg)
 
 ## 📌 Project Overview
+This project simulates a secure, cloud-hosted cryptographic infrastructure designed for a distributed healthcare network (Al-Shifa Hospital Network - ASHN). It demonstrates the practical application of advanced cryptographic techniques to secure sensitive Patient Administration Data (PAD), Patient Finance Data (PFD), and real-time Patient Medical Data (PMD) across a Virtual Private Network (VPN).
 
-This repository contains a comprehensive cryptographic and network security implementation developed for **PakSecure Cyber Solutions**, serving the **Al-Shifa Hospital Network (ASHN)**. 
+The architecture ensures **Confidentiality, Integrity, and Authentication** by combining hybrid cryptosystems, Public Key Infrastructure (PKI), and secure database hardening.
 
-The primary objective of this project is to apply advanced cryptographic techniques to secure a distributed healthcare data network across a cloud-based Virtual Private Network (VPN). The system ensures the confidentiality, integrity, and authenticity of highly sensitive patient records—including Patient Administration Data (PAD), Patient Medical Data (PMD), and Patient Finance Data (PFD)—both in transit and at rest.
+## 🚀 Core Features
+*   **Stream & Block Ciphers:** Utilizes `ChaCha20` for low-latency, real-time medical data encryption (PMD) and `AES-GCM` for secure bulk storage of administrative and financial data (PAD/PFD).
+*   **Public Key Infrastructure (PKI):** Custom Certificate Authority (CA) implementation enforcing strict mutual TLS (mTLS) authentication between regional branches and the Central Data Hub.
+*   **Secure Transit (VPN):** OpenVPN implementation providing an AES-256-GCM encrypted tunnel for all data in transit.
+*   **Data Integrity & Auditing:** SHA-256 hashing for tamper detection and comprehensive, automated audit logging for all encryption/decryption events.
+*   **Cloud Database Hardening:** Integration with AWS RDS / MySQL, featuring role-based access control and encrypted payload ingestion.
 
----
+## 🏗️ System Architecture & Security Case
+*(Insert your exported Goal Structuring Notation (GSN) security case map here to visualize the threat model and defense strategy.)*
 
-## ✨ Security Architecture & Features
+### Cryptographic Strategy
+1.  **Key Encapsulation Mechanism (KEM):** RSA-based public key encryption secures the exchange of session keys.
+2.  **Data Encapsulation Mechanism (DEM):** Symmetric encryption (AES/ChaCha20) handles the heavy lifting of data payloads.
+3.  **Provable Security:** Designed around IND-CCA (Indistinguishability under Chosen Ciphertext Attack) principles to resist adaptive threats.
 
-This project was engineered around a strict security case argument map, treating the Central Data Hub (CDH) as the primary asset. By combining IND-CCA secure key exchanges with IND-CPA secure data encapsulation mechanisms, the system mitigates Man-in-the-Middle (MITM) attacks, unauthorized data tampering, and key exposure risks.
+## 📸 Implementation Showcase
+*(Add your edited, batch-processed terminal and system screenshots here to demonstrate the working implementation)*
 
-### 🔐 Cryptographic Controls
-* **Hybrid Cryptosystem for Data at Rest:**
-  * **AES-GCM (Block Cipher):** Authenticated encryption utilized for highly sensitive, structured PAD and PFD storage.
-  * **ChaCha20 (Stream Cipher):** Low-latency encryption applied to continuous, real-time Patient Medical Data (PMD) generated from ICU monitoring.
-* **Double Encryption VPN Tunnel:** Secure transmission between regional hospital branches (e.g., Karachi) and the Central Data Hub (Islamabad) is maintained using an OpenVPN tunnel secured with AES-256-GCM.
-* **Public Key Infrastructure (PKI):** Mutual TLS (mTLS) certificate exchange enforces strict, certificate-based authentication using a custom Root Certificate Authority (CA).
-* **Data Integrity Verification:** SHA-256 hashing is implemented to actively detect unauthorized data modifications during the decryption phase.
-* **Comprehensive Audit Logging:** Automated tracking and logging of all system operations, including certificate verification, encryption, and decryption events.
+<details>
+<summary><b>View Cryptographic Execution</b></summary>
 
----
+*   *Screenshot 1: PKI Certificate Generation & Verification*
+*   *Screenshot 2: OpenVPN Tunnel Establishment*
+*   *Screenshot 3: Live Encryption/Decryption of MySQL Payloads*
+</details>
 
-## 📂 Repository Organization
+## ⚙️ Installation & Setup
 
-The project is modularized for clarity and maintainability:
-
-* **`/certificates/`** - Contains the Root CA, Server, and Client keys/certificates required for PKI authentication.
-* **`/config/`** - Manages database connections, certificate routing, and the audit logging engine.
-* **`/database/`** - Scripts dedicated to fetching, encrypting, and decrypting the PAD, PFD, and PMD tables.
-* **`/encryption/`** - Core cryptographic logic housing the AES-GCM, ChaCha20, and SHA-256 hashing algorithms.
-* **`/openvpn_setup/`** - Configuration files (`.ovpn`) necessary for establishing the secure client-server tunnel.
-* **`/sql/`** - Database schemas and initialization scripts to deploy the Central Data Hub architecture.
-* **`/docs/`** - Contains system execution screenshots, architectural diagrams, and project documentation.
-
----
-
-## 🚀 Installation & Setup Guide
-
-### 1. Prerequisites
-Ensure you have MySQL Server installed and running on your machine. You will also need Python 3.x installed. 
-
-Install the required Python dependencies:
-```bash
-pip install -r requirements.txt
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YourUsername/ASHN_Cloud_Cryptography.git](https://github.com/YourUsername/ASHN_Cloud_Cryptography.git)
+   cd ASHN_Cloud_Cryptography
