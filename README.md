@@ -7,9 +7,13 @@
 ![Cryptography](https://img.shields.io/badge/Security-AES--GCM%20%7C%20ChaCha20-brightgreen.svg?style=for-the-badge)
 
 ---
+**Author:** Sahil Faraz | **Date:** April 2026
+
+> **Academic Disclaimer:** This repository contains an academic project for the **Pearson B-TEC HND in Digital Technologies (Cybersecurity) - Unit 24: Applied Cryptography in the Cloud** module. It is strictly for portfolio and demonstration purposes. Other students may not use or copy this material for their own academic submissions.
+---
 
 ## 📌 Project Overview
-This project simulates a secure, cloud-hosted cryptographic infrastructure designed for a distributed healthcare network (Al-Shifa Hospital Network - ASHN). It demonstrates the practical application of advanced cryptographic techniques to secure sensitive Patient Administration Data (PAD), Patient Finance Data (PFD), and real-time Patient Medical Data (PMD) across a Virtual Private Network (VPN).
+This project simulates a secure, cloud-hosted cryptographic infrastructure designed for a distributed healthcare network (Al-Shifa Hospital Network - ASHN). It demonstrates the practical application of advanced cryptographic techniques to secure sensitive **Patient Administration Data (PAD)**, **Patient Finance Data (PFD)**, and real-time **Patient Medical Data (PMD)** across a Virtual Private Network (VPN).
 
 The architecture ensures **Confidentiality, Integrity, and Authentication** by combining hybrid cryptosystems, Public Key Infrastructure (PKI), and secure database hardening.
 
@@ -25,6 +29,39 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 
 ---
 
+## 🏗️ System Architecture & Security Case
+### Encryption and Decyption Process
+*  DEM Phase
+   ![DEM](images/DEM-Phase.png)
+*  KEM & Authentication
+   ![KEM](images/KEM-Phase.png)
+*  Secure VPN Tunnel
+   ![Secure VPN Tunnel](images/Secure-VPN-Tunnel.png)
+*  Data Decryption and Integrity Check
+   ![CDH](images/CDH.png)
+
+### 🔑 Cryptographic Strategy
+1.  **Key Encapsulation Mechanism (KEM):** RSA-based public key encryption secures the exchange of session keys.
+2.  **Data Encapsulation Mechanism (DEM):** Symmetric encryption (AES/ChaCha20) handles the heavy lifting of data payloads.
+3.  **Provable Security:** Designed around IND-CCA (Indistinguishability under Chosen Ciphertext Attack) principles to resist adaptive threats.
+
+---
+
+## 📸 Implementation Showcase
+
+*(Add your edited, batch-processed terminal and system screenshots here to demonstrate the working implementation)*
+
+<details>
+<summary><b>View Cryptographic Execution</b></summary>
+<br>
+
+*   *Screenshot 1: PKI Certificate Generation & Verification*
+*   *Screenshot 2: OpenVPN Tunnel Establishment*
+*   *Screenshot 3: Live Encryption/Decryption of MySQL Payloads*
+
+</details>
+
+---
 ## 📂 Project Structure
 
 A clean, modular architecture separating infrastructure, database interactions, and cryptographic engines.
@@ -61,33 +98,5 @@ A clean, modular architecture separating infrastructure, database interactions, 
     └── 📖 README.md
 
 ---
-
-## 🏗️ System Architecture & Security Case
-
-*(Insert your exported Goal Structuring Notation (GSN) security case map here to visualize the threat model and defense strategy.)*
-
-### 🔑 Cryptographic Strategy
-1.  **Key Encapsulation Mechanism (KEM):** RSA-based public key encryption secures the exchange of session keys.
-2.  **Data Encapsulation Mechanism (DEM):** Symmetric encryption (AES/ChaCha20) handles the heavy lifting of data payloads.
-3.  **Provable Security:** Designed around IND-CCA (Indistinguishability under Chosen Ciphertext Attack) principles to resist adaptive threats.
-
----
-
-## 📸 Implementation Showcase
-
-*(Add your edited, batch-processed terminal and system screenshots here to demonstrate the working implementation)*
-
-<details>
-<summary><b>View Cryptographic Execution</b></summary>
-<br>
-
-*   *Screenshot 1: PKI Certificate Generation & Verification*
-*   *Screenshot 2: OpenVPN Tunnel Establishment*
-*   *Screenshot 3: Live Encryption/Decryption of MySQL Payloads*
-
-</details>
-
----
-
 ## ⚠️ Disclaimer
 This repository represents an academic proof-of-concept for applying cryptographic controls to cloud-based systems. The included `.crt` files are for demonstration purposes only. Private keys (`.key`) and local environment files have been intentionally omitted from this public repository to maintain security best practices.
