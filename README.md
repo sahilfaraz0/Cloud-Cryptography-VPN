@@ -59,9 +59,9 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ![Welcome](images/Welcome.png)
 ### Implemenation Phase
 *   Certificate Generation
-    ![Certificate-Generation](images/Certificate-Generation-CA.png)
-    ![Certificate-Generation](images/Certificate-Generation-Server.png)
-    ![Certificate-Generation](images/Certificate-Generation-Client.png)
+  ![Certificate-Generation](images/Certificate-Generation-CA.png)
+  ![Certificate-Generation](images/Certificate-Generation-Server.png)
+  ![Certificate-Generation](images/Certificate-Generation-Client.png)
     
 *   OpenVPN Server & Tunnel
     ![OpenVPN](images/OpenVPN-1.png)
