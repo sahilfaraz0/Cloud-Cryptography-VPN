@@ -1,4 +1,4 @@
-# 🏥 Cloud-Based Healthcare Cryptography & PKI Engine
+# 🏥 A VPN for Cloud Based Healthcare System
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,7 +45,7 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
    ![CDH](images/CDH.png)
    
 ### Security Case Argument Map
-  ![Secuirty-Case](images/Secuirty-Case.png)
+  ![Security-Case](images/Security-Case.png)
 
 ### 🔑 Cryptographic Strategy
 1.  **Key Encapsulation Mechanism (KEM):** RSA-based public key encryption secures the exchange of session keys.
@@ -55,19 +55,35 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ---
 
 ## 📸 Implementation Showcase
-
-*(Add your edited, batch-processed terminal and system screenshots here to demonstrate the working implementation)*
-
+### Welcome Screen
+![Welcome](images/Welcome.png)
 <details>
-<summary><b>View Cryptographic Execution</b></summary>
+<summary><b>Implemenation Phase(Option 1)</b></summary>
 <br>
 
-*   *Screenshot 1: PKI Certificate Generation & Verification*
-*   *Screenshot 2: OpenVPN Tunnel Establishment*
-*   *Screenshot 3: Live Encryption/Decryption of MySQL Payloads*
-
+*   Certificate Generation
+    ![Certificate-Generation](images/Certificate-Generation.png)
+    
+*   OpenVPN Server & Tunnel
+    ![OpenVPN](images/OpenVPN-1.png)
+    ![OpenVPN](images/OpenVPN-2.png)
+    
+*   MySQL Connection
+    ![MySQL](images/MySQL.png)
+    
 </details>
 
+<details>
+<summary><b>Encryption Process(Option 1)</b></summary>
+<br>
+
+*   Certificate-Validation
+    ![Certificate-Validation](images/Certificate-Validation.png)
+    
+*   Encryption
+    ![Encryption](images/Encryption.png)
+
+</details>
 ---
 ## 📂 Project Structure
 
