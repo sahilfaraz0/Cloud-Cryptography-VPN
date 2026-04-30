@@ -58,7 +58,7 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ### Welcome Screen
 ![Welcome](images/Welcome.png)
 <details>
-<summary><b>Implemenation Phase(Option 1)</b></summary>
+<summary><b>Implemenation Phase</b></summary>
 <br>
 
 *   Certificate Generation
@@ -74,7 +74,7 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 </details>
 
 <details>
-<summary><b>Encryption Process(Option 1)</b></summary>
+<summary><b>Encryption Process (Option 1)</b></summary>
 <br>
 
 *   Certificate-Validation
@@ -82,9 +82,25 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
     
 *   Encryption
     ![Encryption](images/Encryption.png)
-
+    
+*   PAD, PFD and PMD after Encryption
+    ![PAD-Encrypt](images/PAD-Encrypt.png)
+    ![PFD-Encrypt](images/PFD-Encrypt.png)
+    ![PMD-Encrypt](images/PMD-Encrypt.png)
 </details>
+
+### Decryption Process (Option 2)
+![Decryption](images/Decryption.png)
+*   PAD, PFD and PMD after Decryption
+    ![PAD-Decrypt](images/PAD-Decrypt.png)
+    ![PFD-Decrypt](images/PFD-Decrypt.png)
+    ![PMD-Decrypt](images/PAD-Decrypt.png)
+
+### Log Table (Option 3)
+![Log](images/log.png)
+
 ---
+
 ## 📂 Project Structure
 
 A clean, modular architecture separating infrastructure, database interactions, and cryptographic engines.
