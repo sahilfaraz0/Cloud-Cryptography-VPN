@@ -62,7 +62,10 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 <br>
 
 *   Certificate Generation
-    ![Certificate-Generation](images/Certificate-Generation.png)
+    ![Certificate-Generation](images/Certificate-Generation-CA.png)
+    ![Certificate-Generation](images/Certificate-Generation-Server.png)
+    ![Certificate-Generation](images/Certificate-Generation-Client.png)
+    
     
 *   OpenVPN Server & Tunnel
     ![OpenVPN](images/OpenVPN-1.png)
@@ -97,7 +100,7 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
     ![PMD-Decrypt](images/PAD-Decrypt.png)
 
 ### Log Table (Option 3)
-![Log](images/log.png)
+![Log](images/Log.png)
 
 ---
 
