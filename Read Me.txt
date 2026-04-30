@@ -1,0 +1,9 @@
+This project was developed as a part of unit 24, Applied Cryptography in the Cloud. The used tools were as follows
+1. OpenVPN
+2. Python Libraries (Requirements.txt)
+3. Pandas Python Library
+4. PyCharm
+
+Another readme on the OpenVPN setup is available in that folder
+
+The MySQL Folder contains all the used datasets and .sql files
