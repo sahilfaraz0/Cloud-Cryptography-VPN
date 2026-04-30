@@ -57,18 +57,23 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ## 📸 Implementation Showcase
 ### Welcome Screen
 ![Welcome](images/Welcome.png)
+
 ### Implemenation Phase
-*   Certificate Generation
-  ![Certificate-Generation](images/Certificate-Generation-CA.png)
-  ![Certificate-Generation](images/Certificate-Generation-Server.png)
-  ![Certificate-Generation](images/Certificate-Generation-Client.png)
+**CA Certificate Generation**
+![Certificate-Generation](images/Certificate-Generation-CA.png
+
+**Server Certificate Generation**
+![Certificate-Generation](images/Certificate-Generation-Server.png)
+
+**Client Certificate Generation**
+![Certificate-Generation](images/Certificate-Generation-Client.png)
     
-*   OpenVPN Server & Tunnel
-    ![OpenVPN](images/OpenVPN-1.png)
-    ![OpenVPN](images/OpenVPN-2.png)
+**OpenVPN Server & Tunnel**
+![OpenVPN](images/OpenVPN-1.png)
+![OpenVPN](images/OpenVPN-2.png)
     
-*   MySQL Connection
-    ![MySQL](images/MySQL.png)
+**MySQL Connection**
+![MySQL](images/MySQL.png)
 
 ### Encryption Process (Option 1)
 
