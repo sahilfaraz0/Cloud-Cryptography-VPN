@@ -60,7 +60,8 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 
 ### Implemenation Phase
 **CA Certificate Generation**
-![Certificate-Generation](images/Certificate-Generation-CA.png
+
+![Certificate-Generation](images/Certificate-Generation-CA.png)
 
 **Server Certificate Generation**
 ![Certificate-Generation](images/Certificate-Generation-Server.png)
