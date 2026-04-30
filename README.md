@@ -76,30 +76,34 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ![MySQL](images/MySQL.png)
 
 
-### Encryption Process (Option 1)
+## Encryption and Decryption Process (Option 1 & 2)
 
-*   Certificate-Validation
-    ![Certificate-Validation](images/Certificate-Validation.png)
+### Certificate-Validation
+![Certificate-Validation](images/Certificate-Validation.png)
     
-*   Encryption
-    ![Encryption](images/Encryption.png)
+### Encryption
+![Encryption](images/Encryption.png)
     
-*   PAD, PFD and PMD after Encryption
-    ![PAD-Encrypt](images/PAD-Encrypt.png)
-    ![PFD-Encrypt](images/PFD-Encrypt.png)
-    ![PMD-Encrypt](images/PMD-Encrypt.png)
+### PAD, PFD and PMD after Encryption
+![PAD-Encrypt](images/PAD-Encrypt.png)
+
+![PFD-Encrypt](images/PFD-Encrypt.png)
+
+![PMD-Encrypt](images/PMD-Encrypt.png)
 
 
 ### Decryption Process (Option 2)
-  ![Decryption](images/Decryption.png)
+![Decryption](images/Decryption.png)
   
-*   PAD, PFD and PMD after Decryption
-    ![PAD-Decrypt](images/PAD-Decrypt.png)
-    ![PFD-Decrypt](images/PFD-Decrypt.png)
-    ![PMD-Decrypt](images/PAD-Decrypt.png)
+### PAD, PFD and PMD after Decryption
+![PAD-Decrypt](images/PAD-Decrypt.png)
 
-### Log Table (Option 3)
-  ![Log](images/Log.png)
+![PFD-Decrypt](images/PFD-Decrypt.png)
+
+![PMD-Decrypt](images/PAD-Decrypt.png)
+
+## Log Table (Option 3)
+![Log](images/Log.png)
 
 ---
 
