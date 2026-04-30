@@ -43,6 +43,9 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 *  Data Decryption and Integrity Check
    
    ![CDH](images/CDH.png)
+   
+### Security Case Argument Map
+  ![Secuirty-Case](images/Secuirty-Case.png)
 
 ### 🔑 Cryptographic Strategy
 1.  **Key Encapsulation Mechanism (KEM):** RSA-based public key encryption secures the exchange of session keys.
