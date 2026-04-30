@@ -57,15 +57,11 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ## 📸 Implementation Showcase
 ### Welcome Screen
 ![Welcome](images/Welcome.png)
-<details>
-<summary><b>Implemenation Phase</b></summary>
-<br>
-
+### Implemenation Phase
 *   Certificate Generation
     ![Certificate-Generation](images/Certificate-Generation-CA.png)
     ![Certificate-Generation](images/Certificate-Generation-Server.png)
     ![Certificate-Generation](images/Certificate-Generation-Client.png)
-    
     
 *   OpenVPN Server & Tunnel
     ![OpenVPN](images/OpenVPN-1.png)
@@ -73,12 +69,8 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
     
 *   MySQL Connection
     ![MySQL](images/MySQL.png)
-    
-</details>
 
-<details>
-<summary><b>Encryption Process (Option 1)</b></summary>
-<br>
+### Encryption Process (Option 1)
 
 *   Certificate-Validation
     ![Certificate-Validation](images/Certificate-Validation.png)
@@ -90,17 +82,18 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
     ![PAD-Encrypt](images/PAD-Encrypt.png)
     ![PFD-Encrypt](images/PFD-Encrypt.png)
     ![PMD-Encrypt](images/PMD-Encrypt.png)
-</details>
+
 
 ### Decryption Process (Option 2)
-![Decryption](images/Decryption.png)
+  ![Decryption](images/Decryption.png)
+  
 *   PAD, PFD and PMD after Decryption
     ![PAD-Decrypt](images/PAD-Decrypt.png)
     ![PFD-Decrypt](images/PFD-Decrypt.png)
     ![PMD-Decrypt](images/PAD-Decrypt.png)
 
 ### Log Table (Option 3)
-![Log](images/Log.png)
+  ![Log](images/Log.png)
 
 ---
 
