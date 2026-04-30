@@ -32,12 +32,16 @@ The architecture ensures **Confidentiality, Integrity, and Authentication** by c
 ## 🏗️ System Architecture & Security Case
 ### Encryption and Decyption Process
 *  DEM Phase
+  
    ![DEM](images/DEM-Phase.png)
 *  KEM & Authentication
+   
    ![KEM](images/KEM-Phase.png)
 *  Secure VPN Tunnel
+   
    ![Secure VPN Tunnel](images/Secure-VPN-Tunnel.png)
 *  Data Decryption and Integrity Check
+   
    ![CDH](images/CDH.png)
 
 ### 🔑 Cryptographic Strategy
